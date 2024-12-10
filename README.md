@@ -58,10 +58,6 @@ Ensure you have the following installed:
 5. **Explore Notebooks:**
     - Navigate to the `notebooks/` directory to explore the available Jupyter Notebooks.
 
-## Changelog
-
-This project maintains a [changelog](CHANGELOG.md) to document all notable changes. Please refer to it for detailed information on updates and modifications.
-
 ## Contributing
 
 Contributions are welcome and encouraged! To get started, please read the [contributing guidelines](CONTRIBUTING.md) to learn how you can contribute to this project.
