@@ -11,8 +11,9 @@ A centralized repository for collecting, analyzing, and exploring Disney Lorcana
 │   └── processed/          <- Cleaned and preprocessed data ready for analysis.
 │
 ├── notebooks/              <- Jupyter Notebooks for data exploration and ML.
+│   ├── data_processing/    <- Data Processing notebooks (e.g., cleaning transforming, or preprocessing).
 │   ├── exploration/        <- EDA (Exploratory Data Analysis) notebooks.
-│   ├── visualization/      <- Notebooks focused on visualizing card trends.
+│   ├── visualization/      <- Visualization notebooks (e.g., trends or stats).
 │   └── machine_learning/   <- ML models and experiments.
 │
 ├── scripts/                <- Python scripts for data collection and processing.
@@ -22,6 +23,16 @@ A centralized repository for collecting, analyzing, and exploring Disney Lorcana
 ├── requirements.txt        <- List of Python dependencies.
 └── LICENSE                 <- MIT or Apache 2.0 license.
 ```
+
+## Data Sources
+
+The data used in this project is sourced from various Disney Lorcana card datasets. The raw data is stored in the `data/raw` directory, and the processed data is stored in the `data/processed`.
+
+### List of Data Sources
+
+1. [**Disney Lorcana**](https://www.disneylorcana.com/en-US/resources/): The official resources for all Disney Lorcana cards by Ravensburger. This data source provide only the name and number of the cards, which is not sufficient for our analysis. Therefore, we are using alternative sources that offer more comprehensive datasets. However, we have included this source for completeness.
+
+Feel free to explore and analyze the data using the provided Jupyter Notebooks in the notebooks/ directory
 
 ## Usage
 
@@ -57,10 +68,6 @@ Ensure you have the following installed:
 
 5. **Explore Notebooks:**
     - Navigate to the `notebooks/` directory to explore the available Jupyter Notebooks.
-
-## Changelog
-
-This project maintains a [changelog](CHANGELOG.md) to document all notable changes. Please refer to it for detailed information on updates and modifications.
 
 ## Contributing
 
