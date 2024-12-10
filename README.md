@@ -1,6 +1,6 @@
-# Data Hub Template
+# Disney Lorcana Data Hub
 
-This repository is a template for creating data science projects. It provides a basic structure for organizing your project files and directories. The template includes directories for storing raw and processed data, Jupyter Notebooks for data exploration and machine learning, and Python scripts for data collection and processing.
+A centralized repository for collecting, analyzing, and exploring Disney Lorcana card data from various sources. Perfect for data enthusiasts, data scientists, and machine learning practitioners looking to explore structured datasets and gain insights into the Disney Lorcana universe.
 
 ## Directory Structure
 
@@ -23,6 +23,41 @@ This repository is a template for creating data science projects. It provides a 
 └── LICENSE                 <- MIT or Apache 2.0 license.
 ```
 
+## Usage
+
+### Note on Development Container
+
+This project includes a `.devcontainer` configuration for Visual Studio Code. If you are using VS Code, you can open the project in a development container to ensure a consistent development environment. The container will automatically install the required dependencies specified in the `requirements.txt` file.
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Docker
+- Visual Studio Code with the Dev Containers extension
+
+### Instructions
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/bert-cafecito/disney-lorcana-data-hub.git
+    cd disney-lorcana-data-hub
+    ```
+
+2. **Reopen in Container:**
+    - Press `F1` and select `>Dev Containers: Rebuild Container`.
+
+3. **Start Jupyter Notebook:**
+    ```sh
+    jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+    ```
+
+4. **Access Jupyter Notebook:**
+    Open your browser and navigate to `http://localhost:8888`.
+
+5. **Explore Notebooks:**
+    - Navigate to the `notebooks/` directory to explore the available Jupyter Notebooks.
+
 ## Changelog
 
 This project maintains a [changelog](CHANGELOG.md) to document all notable changes. Please refer to it for detailed information on updates and modifications.
@@ -37,7 +72,7 @@ If you would like to support this project or me, you can do so in the following 
 
 ### Reporting Issues
 
-If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/bert-cafecito/data-hub-template/issues) page. Provide as much detail as possible to help us understand and resolve the issue quickly.
+If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/bert-cafecito/disney-lorcana-data-hub/issues) page. Provide as much detail as possible to help us understand and resolve the issue quickly.
 
 ### Contributing
 
