@@ -17,11 +17,12 @@ A centralized repository for collecting, analyzing, and exploring Disney Lorcana
 │   └── machine_learning/   <- ML models and experiments.
 │
 ├── scripts/                <- Python scripts for data collection and processing.
+│   ├── scrape_data.py      <- Scripts for scraping from sources (like APIs).
 │   ├── clean_data.py       <- Preprocess raw data into clean datasets.
 │   └── utils/              <- Helper utilities.
 │
 ├── requirements.txt        <- List of Python dependencies.
-└── LICENSE                 <- MIT or Apache 2.0 license.
+└── LICENSE                 <- MIT license.
 ```
 
 ## Data Sources
@@ -31,6 +32,8 @@ The data used in this project is sourced from various Disney Lorcana card datase
 ### List of Data Sources
 
 1. [**Disney Lorcana**](https://www.disneylorcana.com/en-US/resources/): The official resources for all Disney Lorcana cards by Ravensburger. This data source provide only the name and number of the cards, which is not sufficient for our analysis. Therefore, we are using alternative sources that offer more comprehensive datasets. However, we have included this source for completeness.
+
+2. [**Lorcast API**](https://lorcast.com/docs/api): Lorcast is a third-party API that provides comprehensive data on Disney Lorcana cards. We are using this API to collect detailed information about the cards, including their attributes, images, and more.
 
 Feel free to explore and analyze the data using the provided Jupyter Notebooks in the notebooks/ directory
 
