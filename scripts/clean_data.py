@@ -1,10 +1,16 @@
 from utils.disney_lorcana_cleanup import DisneyLorcanaCleanup
+from utils.lorcast_cleanup import LorcastCleanup
 
-if __name__ == "__main__":
-    # Get the Disney Lorcana PDF Data
-    disney_lorcana_pdf = DisneyLorcanaPDF()
-    disney_lorcana_pdf.parse_pdf()
+if __name__ == '__main__':
+    # Create an instance of the DisneyLorcanaCleanup class
+    dlc = DisneyLorcanaCleanup()
 
-    # Get the Lorcast API Data
-    scraper = LorcastScraper()
-    scraper.run()
+    # Call the clean_sets method
+    dlc.clean_sets()
+
+    # Create an instance of the LorcastCleanup class
+    lcc = LorcastCleanup()
+
+    # Call the clean_sets and clean_cards methods
+    lcc.clean_sets()
+    lcc.clean_cards()
