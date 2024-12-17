@@ -2,25 +2,25 @@ card_number,card_name,set_name
 35,Maleficent - Formidable Queen,shimmering-skies
 36,The Nokk - Mythical Spirit,shimmering-skies
 37,Cogsworth - Illuminary Watchman,shimmering-skies
-38,Merlin - Turtle,shimmering-skies
+38,Merlin - Turtle ,shimmering-skies
 39,Archimedes - Exasperated Owl,shimmering-skies
 40,Bruni - Fire Salamander,shimmering-skies
 41,Earth Giant - Living Mountain,shimmering-skies
 42,Gale - Wind Spirit,shimmering-skies
 43,White Rabbit - Royal Herald,shimmering-skies
-44,Madam Mim - Elephant,shimmering-skies
+44,Madam Mim - Elephant ,shimmering-skies
 45,Luisa Madrigal - Entertaining Muscle,shimmering-skies
-46,Anna - Mystical Majesty,shimmering-skies
+46,Anna - Mystical Majesty ,shimmering-skies
 47,Archimedes - Electrified Owl,shimmering-skies
 48,Elsa - The Fifth Spirit,shimmering-skies
-49,Genie - Main Attraction,shimmering-skies
-50,Olaf - Happy Passenger,shimmering-skies
+49,Genie - Main Attraction ,shimmering-skies
+50,Olaf - Happy Passenger ,shimmering-skies
 51,Maleficent - Vexed Partygoer,shimmering-skies
 52,Monstro - Whale of a Whale,shimmering-skies
 53,Magica De Spell - Cruel Sorceress,shimmering-skies
 54,Maleficent - Vengeful Sorceress,shimmering-skies
-55,Rafiki - Shaman Duelist,shimmering-skies
-56,Anna - Eager Acolyte,shimmering-skies
+55,Rafiki - Shaman Duelist ,shimmering-skies
+56,Anna - Eager Acolyte ,shimmering-skies
 57,King of Hearts - Monarch of Wonderland,shimmering-skies
 58,Camilo Madrigal - Family Copycat,shimmering-skies
 59,Hypnotic Strength,shimmering-skies
@@ -32,7 +32,7 @@ card_number,card_name,set_name
 65,Half Hexwell Crown,shimmering-skies
 66,Amethyst Chromicon,shimmering-skies
 67,Elsa's Ice Palace - Place of Solitude,shimmering-skies
-68,The Library - A Gift for Belle,shimmering-skies
+68,The Library - A Gift for BelleAMETHYST,shimmering-skies
 1,Koda - Talkative Cub,shimmering-skies
 2,Nala - Mischievous Cub,shimmering-skies
 3,Prince Naveen - Ukulele Player,shimmering-skies
@@ -50,7 +50,7 @@ card_number,card_name,set_name
 15,Minnie Mouse - Drum Major,shimmering-skies
 16,Daisy Duck - Donald's Date,shimmering-skies
 17,"Fix-It Felix, Jr. - Delighted Sightseer",shimmering-skies
-18,Moana - Determined Explorer,shimmering-skies
+18,Moana - Determined Explorer ,shimmering-skies
 19,Vanellope von Schweetz - Sugar Rush Princess,shimmering-skies
 20,Alan-a-Dale - Rockin' Rooster,shimmering-skies
 21,Wreck-It Ralph - Admiral Underpants,shimmering-skies
@@ -62,11 +62,11 @@ card_number,card_name,set_name
 27,Revive,shimmering-skies
 28,Blast from Your Past,shimmering-skies
 29,Invited to the Ball,shimmering-skies
-30,Healing Decanter,shimmering-skies
+30,Healing Decanter ,shimmering-skies
 31,Queen's Sensor Core,shimmering-skies
 32,Amber Chromicon,shimmering-skies
 33,Rapunzel's Tower - Secluded Prison,shimmering-skies
-34,Pride Lands - Jungle Oasis69 Robin Hood - Timely Contestant,shimmering-skies
+34,Pride Lands - Jungle Oasis69 Robin Hood - Timely Contestant ,shimmering-skies
 70,Shenzi - Scar's Accomplice,shimmering-skies
 71,Little John - Camp Cook,shimmering-skies
 72,Zazu - Advisor to Mufasa,shimmering-skies
@@ -83,15 +83,15 @@ card_number,card_name,set_name
 83,Prince Phillip - Swordsman of the Realm,shimmering-skies
 84,Clarabelle - Light on Her Hooves,shimmering-skies
 85,Anna - Diplomatic Queen,shimmering-skies
-86,Clarabelle - Clumsy Guest,shimmering-skies
+86,Clarabelle - Clumsy Guest ,shimmering-skies
 87,Banzai - Taunting Hyena,shimmering-skies
 88,Robin Hood - Sneaky Sleuth,shimmering-skies
-89,Mother Gothel - Conceited Manipulator,shimmering-skies
-90,Clarabelle - Contented Wallflower,shimmering-skies
+89,Mother Gothel - Conceited Manipulator ,shimmering-skies
+90,Clarabelle - Contented Wallflower ,shimmering-skies
 91,Shenzi - Head Hyena,shimmering-skies
 92,Mother Gothel - Unwavering Schemer,shimmering-skies
 93,Scar - Vengeful Lion,shimmering-skies
-94,Hypnotic Deduction,shimmering-skies
+94,Hypnotic Deduction ,shimmering-skies
 95,Night Howler Rage,shimmering-skies
 96,You're Welcome,shimmering-skies
 97,Remember Who You Are,shimmering-skies
@@ -102,7 +102,7 @@ card_number,card_name,set_name
 102,Tropical Rainforest - Jaguar Lair,shimmering-skies
 103,Taffyta Muttonfudge - Ruthless Rival,shimmering-skies
 104,Wreck-It Ralph - Demolition Dude,shimmering-skies
-105,Maximus - Team Champion,shimmering-skies
+105,Maximus - Team Champion ,shimmering-skies
 106,Turbo - Royal Hack,shimmering-skies
 107,Donald Duck - Pie Slinger,shimmering-skies
 108,Rancis Fluggerbutter - Chocolate Charger,shimmering-skies
@@ -117,7 +117,7 @@ card_number,card_name,set_name
 117,Taffyta Muttonfudge - Sour Speedster,shimmering-skies
 118,Robin Hood - Sharpshooter,shimmering-skies
 119,Gaston - Pure Paragon,shimmering-skies
-120,Pete - Pastry Chomper,shimmering-skies
+120,Pete - Pastry Chomper  ,shimmering-skies
 121,Arthur - Novice Sparrow,shimmering-skies
 122,Donald Duck - Daisy's Date,shimmering-skies
 123,Ratigan - Party Crasher,shimmering-skies
@@ -143,10 +143,10 @@ card_number,card_name,set_name
 178,Kronk - Unlicensed Investigator,shimmering-skies
 179,HeiHei - Protective Rooster,shimmering-skies
 180,Sneezy - Noisy Knight,shimmering-skies
-181,Dopey - Knight Apprentice,shimmering-skies
+181,Dopey - Knight Apprentice ,shimmering-skies
 182,Namaari - Resolute Daughter,shimmering-skies
 183,Snow White - Fair-Hearted,shimmering-skies
-184,Yzma - Unjustly Treated,shimmering-skies
+184,Yzma - Unjustly Treated ,shimmering-skies
 185,Kronk - Head of Security,shimmering-skies
 186,Grumpy - Skeptical Knight,shimmering-skies
 187,Pete - Wrestling Champ,shimmering-skies
@@ -156,8 +156,8 @@ card_number,card_name,set_name
 191,Happy - Lively Knight,shimmering-skies
 192,Simba - Son of Mufasa,shimmering-skies
 193,Doc - Bold Knight,shimmering-skies
-194,Arthur - King Victorious,shimmering-skies
-195,Pete - Games Referee,shimmering-skies
+194,Arthur - King Victorious ,shimmering-skies
+195,Pete - Games Referee  ,shimmering-skies
 196,Tug-of-War,shimmering-skies
 197,When Will My Life Begin?,shimmering-skies
 198,Duck for Cover!,shimmering-skies
@@ -182,13 +182,13 @@ card_number,card_name,set_name
 150,Mufasa - Ruler of Pride Rock,shimmering-skies
 151,Ludwig von Drake - Self-Proclaimed Genius,shimmering-skies
 152,Minnie Mouse - Quick-Thinking Inventor,shimmering-skies
-153,Basil - Practiced Detective,shimmering-skies
+153,Basil - Practiced Detective ,shimmering-skies
 154,King Candy - Sweet Abomination,shimmering-skies
 155,Donald Duck - Focused Flatfoot,shimmering-skies
 156,Tanana - Wise Woman,shimmering-skies
 157,Tipo - Growing Son,shimmering-skies
 158,Belle - Of the Ball,shimmering-skies
-159,Merlin - Intellectual Visionary,shimmering-skies
+159,Merlin - Intellectual Visionary ,shimmering-skies
 160,Vision of the Future,shimmering-skies
 161,Royal Tantrum,shimmering-skies
 162,Ever as Before,shimmering-skies
@@ -199,4 +199,4 @@ card_number,card_name,set_name
 167,Merlin's Carpetbag,shimmering-skies
 168,Sapphire Chromicon,shimmering-skies
 169,The Great Illuminary - Radiant Ballroom,shimmering-skies
-170,Merlin's Cottage - The Wizard's Home,shimmering-skies
+170,Merlin's Cottage - The Wizard's HomeTOTAL TOTAL TOTAL,shimmering-skies
