@@ -10,8 +10,9 @@ A centralized repository for collecting, analyzing, and exploring Disney Lorcana
 │   ├── raw/                <- Raw data from scraping or other sources.
 │   └── processed/          <- Cleaned and preprocessed data ready for analysis.
 │
+├── images/                 <- Directory for storing card images or visual assets.
+│
 ├── notebooks/              <- Jupyter Notebooks for data exploration and ML.
-│   ├── data_processing/    <- Data Processing notebooks (e.g., cleaning transforming, or preprocessing).
 │   ├── exploration/        <- EDA (Exploratory Data Analysis) notebooks.
 │   ├── visualization/      <- Visualization notebooks (e.g., trends or stats).
 │   └── machine_learning/   <- ML models and experiments.
@@ -72,6 +73,16 @@ Ensure you have the following installed:
 5. **Explore Notebooks:**
     - Navigate to the `notebooks/` directory to explore the available Jupyter Notebooks.
 
+### Running Python Scripts
+
+You can run the Python scripts in the `scripts/` directory to scrape data, clean data, or perform other tasks. To run a script, use the following command:
+
+```sh
+python scripts/<script_name>.py
+```
+
+Replace `<script_name>` with the name of the script you want to run (e.g., `scrape_data.py`, `clean_data.py`).
+
 ## Contributing
 
 Contributions are welcome and encouraged! To get started, please read the [contributing guidelines](CONTRIBUTING.md) to learn how you can contribute to this project.
@@ -98,6 +109,12 @@ If you would like to contribute to the project, please read the [contributing gu
 ### Star the Repository
 
 If you find this project useful, please consider starring the repository on GitHub. Starring a repository helps increase its visibility and lets others know that the project is valuable. It also provides motivation and support to the maintainers to continue improving the project.
+
+### Acknowledgements
+
+I would like to mention the following codebases and projects that inspired this repository:
+
+- [**Data Hub Template**](https://github.com/bert-cafecito/data-hub-template): A template for creating centralized data repositories for various datasets.
 
 ## License
 
