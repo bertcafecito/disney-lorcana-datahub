@@ -5,8 +5,8 @@ on:
   workflow_dispatch:
 
   # Trigger the workflow every Wednesday at midnight (UTC)
-  # schedule:
-    # - cron: '0 0 * * 3'  # 0 0 * * 3 represents 12:00 AM UTC on Wednesday
+  schedule:
+    - cron: '0 0 * * 3'  # 0 0 * * 3 represents 12:00 AM UTC on Wednesday
 
 jobs:
   run_inkcollector:
