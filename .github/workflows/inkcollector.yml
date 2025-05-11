@@ -33,7 +33,7 @@ jobs:
       # Step 4: Run inkcollector
       - name: Run Inkcollector
         run: |
-          python -m inkcollector lorcast all --outputformat JSON
+          inkcollector lorcast all --outputformat JSON
 
       # Step 5: Print the list of files in the repository
       - name: Print files in repository
