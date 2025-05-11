@@ -6,10 +6,10 @@ class LorcanaDataLoader:
         self.db_name = db_name
         self.connection = sqlite3.connect(self.db_name)
         self.cursor = self.connection.cursor()
-
-  def database_exists(self):
-          """Check if the SQLite database exists."""
-          return os.path.exists(self.db_name)
+    
+    def database_exists(self):
+        """Check if the SQLite database exists."""
+        return os.path.exists(self.db_name)
 
 def main():
   loader = LorcanaDataLoader()
