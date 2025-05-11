@@ -62,21 +62,21 @@ class LorcanaDataLoader:
             print(f"Unexpected error while loading JSON: {e}")
         return None
 
-    def insert_sets_data(self, sets_data):
-        """Insert the sets data into the SQLite database."""
+    def insert_or_update_sets_data(self, sets_data):
+        """Insert or update the sets data into the SQLite database (upsert)."""
         if not sets_data:
-            print("No sets data to insert.")
+            print("No sets data to insert or update.")
             return
         
         # Assuming sets_data is a list of dictionaries where each dictionary represents a set
         for set_item in sets_data:
             self.cursor.execute('''
-                INSERT INTO sets (code, name, release_date, description)
+                INSERT OR REPLACE INTO sets (code, name, release_date, description)
                 VALUES (?, ?, ?, ?)
             ''', (set_item.get('code'), set_item.get('name'), set_item.get('release_date'), set_item.get('description')))
         
         self.connection.commit()
-        print(f"Inserted {len(sets_data)} rows into the 'sets' table.")
+        print(f"Upserted {len(sets_data)} rows into the 'sets' table.")
 
     def check_if_table_exists(self, table_name):
         """Check if a table exists in the SQLite database."""
@@ -90,7 +90,7 @@ class LorcanaDataLoader:
         create_table_sql = '''
         CREATE TABLE IF NOT EXISTS sets (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            code TEXT NOT NULL,
+            code TEXT NOT NULL UNIQUE,
             name TEXT NOT NULL,
             release_date TEXT,
             description TEXT
@@ -116,8 +116,8 @@ def main():
         # Load the sets.json data
         sets_data = loader.load_json_from_file(sets_json_path)
         if sets_data:
-            # Insert the data into the 'sets' table
-            loader.insert_sets_data(sets_data)
+            # Upsert the data into the 'sets' table
+            loader.insert_or_update_sets_data(sets_data)
         else:
             print("Failed to load sets.json.")
     else:
