@@ -11,7 +11,9 @@ on:
 jobs:
   run_inkcollector:
     runs-on: ubuntu-latest  # You can use different OS like macOS or Windows here if needed
-    
+    permissions:
+      contents: write
+      
     steps:
       # Step 1: Checkout the repository
       - name: Checkout Repository
@@ -41,8 +43,8 @@ jobs:
           # Get today's date in YYYY-MM-DD format
           DATE=$(date +'%Y-%m-%d')
 
-          # Check if 'lorcast' directory exists
-          if [ -d "lorcast" ]; then
+          # Check if 'data/lorcast' directory exists
+          if [ -d "data/lorcast" ]; then
             # Create 'data/raw/lorcast' folder if it doesn't exist
             mkdir -p "data/raw/lorcast"
             
@@ -59,10 +61,7 @@ jobs:
           
       # Step 6: Make changes and commit them
       - name: Make changes and commit
-        run: |
-          # Example: Touch a file to simulate changes
-          echo "Changes made at $(date)" >> changes.txt
-          
+        run: |          
           # Set up Git with the GitHub Actions bot user
           git config --global user.name "GitHub Actions"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
