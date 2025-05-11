@@ -38,6 +38,7 @@ jobs:
       # Step 5: Print the list of files in the repository
       - name: Print files in repository
         run: |
-          echo "Listing files in the repository:"
+          cd data
+          echo "Listing files in the data folder:"
           ls -la  # This will list all files in the current directory and subdirectories
 
