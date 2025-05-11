@@ -10,6 +10,8 @@ on:
 jobs:
   post_process:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     # if: ${{ github.event.workflow_run.conclusion == 'success' }}
     
     steps:
@@ -35,4 +37,25 @@ jobs:
         run: |
           echo "Running processing script..."
           python scripts/lorcast_data_loader/main.py
+
+      # Step 5: Make changes and commit them
+      - name: Make changes and commit
+        run: |      
+          # Get today's date in YYYY-MM-DD format
+          DATE=$(date +'%Y-%m-%d')
+          
+          # Set up Git with the GitHub Actions bot user
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the change and commit it
+          git add .
+          git commit -m "Processed Lorcast data on $(date)"
+
+      # Step 6: Push the changes back to the repository
+      - name: Push changes to repository
+        run: |
+          git push https://github.com/${{ github.repository }} HEAD:${{ github.ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
