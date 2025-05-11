@@ -52,7 +52,7 @@ jobs:
             mkdir -p "data/raw/lorcast/$DATE"
             
             # Move all contents of 'lorcast' to the new date-stamped folder
-            mv lorcast/* "data/raw/lorcast/$DATE/"
+            mv data/lorcast/* "data/raw/lorcast/$DATE/"
             
             echo "Moved contents of lorcast to data/raw/$DATE/"
           else
