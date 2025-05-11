@@ -7,7 +7,7 @@ class LorcanaDataLoader:
         self.connection = sqlite3.connect(self.db_name)
         self.cursor = self.connection.cursor()
 
-    def get_latest_folder(path):
+    def get_latest_folder(self, path):
         """Get the latest folder based on date format YYYY-MM-DD."""
         # List all directories in the base path
         try:
