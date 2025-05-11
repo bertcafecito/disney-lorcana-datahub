@@ -59,6 +59,22 @@ class LorcanaDataLoader:
             print(f"Unexpected error while loading JSON: {e}")
         return None
 
+    def insert_sets_data(self, sets_data):
+        """Insert the sets data into the SQLite database."""
+        if not sets_data:
+            print("No sets data to insert.")
+            return
+        
+        # Assuming sets_data is a list of dictionaries where each dictionary represents a set
+        for set_item in sets_data:
+            self.cursor.execute('''
+                INSERT INTO sets (code, name, release_date, description)
+                VALUES (?, ?, ?, ?)
+            ''', (set_item.get('code'), set_item.get('name'), set_item.get('release_date'), set_item.get('description')))
+        
+        self.connection.commit()
+        print(f"Inserted {len(sets_data)} rows into the 'sets' table.")
+
     def check_if_table_exists(self, table_name):
         """Check if a table exists in the SQLite database."""
         self.cursor.execute('''
@@ -78,6 +94,15 @@ def main():
     latest_folder = loader.get_latest_folder()
     if latest_folder:
         print(f"The latest folder is: {latest_folder}")
+        sets_json_path = os.path.join(loader.raw_data_path, latest_folder, 'sets.json')
+        
+        # Load the sets.json data
+        sets_data = loader.load_json_from_file(sets_json_path)
+        if sets_data:
+            # Insert the data into the 'sets' table
+            loader.insert_sets_data(sets_data)
+        else:
+            print("Failed to load sets.json.")
     else:
         print("Could not determine the latest folder.")
 
