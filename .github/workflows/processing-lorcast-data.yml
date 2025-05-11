@@ -34,5 +34,5 @@ jobs:
       - name: Run processing script
         run: |
           echo "Running processing script..."
-          python -m main
+          python main.py
           
