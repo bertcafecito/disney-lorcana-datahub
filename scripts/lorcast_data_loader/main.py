@@ -11,7 +11,7 @@ class LorcanaDataLoader:
         """Get the latest folder based on date format YYYY-MM-DD."""
         # List all directories in the base path
         try:
-            all_folders = [folder for folder in os.listdir(base_path) if os.path.isdir(os.path.join(base_path, folder))]
+            all_folders = [folder for folder in os.listdir(path) if os.path.isdir(os.path.join(path, folder))]
             
             # Filter folders that match the date format YYYY-MM-DD
             date_folders = []
@@ -31,6 +31,10 @@ class LorcanaDataLoader:
             # Sort folders by date (latest date first)
             latest_folder = max(date_folders, key=lambda x: x[1])[0]
             return latest_folder
+    
+        except Exception as e:
+            print(f"Error: {e}")
+            return None
     
     def check_if_table_exists(self, table_name):
         """Check if a table exists in the database."""
