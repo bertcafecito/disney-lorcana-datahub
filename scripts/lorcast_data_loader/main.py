@@ -10,6 +10,9 @@ class LorcanaDataLoader:
         self.raw_data_path = raw_data_path
         self.connection = sqlite3.connect(self.db_name)
         self.cursor = self.connection.cursor()
+        
+        # Create the table if it doesn't exist
+        self.create_sets_table()
 
     def get_latest_folder(self):
         """Get the latest folder based on the date format YYYY-MM-DD."""
@@ -81,6 +84,20 @@ class LorcanaDataLoader:
         SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name=?
         ''', (table_name,))
         return self.cursor.fetchone()[0] == 1
+
+    def create_sets_table(self):
+        """Create the 'sets' table if it doesn't exist."""
+        create_table_sql = '''
+        CREATE TABLE IF NOT EXISTS sets (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            code TEXT NOT NULL,
+            name TEXT NOT NULL,
+            release_date TEXT,
+            description TEXT
+        );
+        '''
+        self.cursor.execute(create_table_sql)
+        self.connection.commit()
 
     def close(self):
         """Close the database connection."""
