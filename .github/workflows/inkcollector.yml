@@ -1,0 +1,42 @@
+name: Install and Run Inkcollector
+
+on:
+  # Trigger the workflow manually from the GitHub UI
+  workflow_dispatch:
+
+  # Trigger the workflow every Wednesday at midnight (UTC)
+  # schedule:
+    # - cron: '0 0 * * 3'  # 0 0 * * 3 represents 12:00 AM UTC on Wednesday
+
+jobs:
+  run_inkcollector:
+    runs-on: ubuntu-latest  # You can use different OS like macOS or Windows here if needed
+    
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      
+      # Step 2: Set up Python environment
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9  # Change to the version you need
+      
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install inkcollector
+
+      # Step 4: Run inkcollector
+      - name: Run Inkcollector
+        run: |
+          python -m inkcollector lorcast all --outputformat JSON
+
+      # Step 5: Print the list of files in the repository
+      - name: Print files in repository
+        run: |
+          echo "Listing files in the repository:"
+          ls -la  # This will list all files in the current directory and subdirectories
+
