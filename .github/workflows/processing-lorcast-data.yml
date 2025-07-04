@@ -2,10 +2,6 @@ name: Processing Lorcast Data
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["inkcollector-lorcast"]
-    types:
-      - completed
 
 jobs:
   run-lorcast:
@@ -21,11 +17,6 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install dependencies
-        run: |
-          python3 -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
       - name: Run lorcast.py
         run: python3 scripts/lorcast.py
 
@@ -37,7 +28,7 @@ jobs:
           
           # Add the change and commit it
           git add .
-          git commit -m "Collected data from lorcast on $(date)"
+          git commit -m "Processed data from lorcast on $(date)"
 
       - name: Push changes to repository
         run: |
