@@ -3,59 +3,44 @@ name: Processing Lorcast Data
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: ["Data Loading Workflow"]
+    workflows: ["inkcollector-lorcast"]
     types:
       - completed
 
 jobs:
-  post_process:
+  run-lorcast:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    # if: ${{ github.event.workflow_run.conclusion == 'success' }}
-    
+
     steps:
-      # Step 1: Checkout the repository
-      - name: Checkout Repository
-        uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      # Step 2: Set up Python environment
-      - name: Set up Python 3.x
-        uses: actions/setup-python@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.9  # Change to the version you need
+          python-version: '3.x'
 
-      # Step 3: Install dependencies
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          cd scripts/lorcast_data_loader
-          if [ -f scripts/lorcast_data_loader/requirements.txt ]; then pip install -r requirements.txt; fi
+          python3 -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # Step 4: Run Processing Script
-      - name: Run processing script
-        run: |
-          echo "Running processing script..."
-          python scripts/lorcast_data_loader/main.py
+      - name: Run lorcast.py
+        run: python3 scripts/lorcast.py
 
-      # Step 5: Make changes and commit them
       - name: Make changes and commit
-        run: |      
-          # Get today's date in YYYY-MM-DD format
-          DATE=$(date +'%Y-%m-%d')
-          
+        run: |
           # Set up Git with the GitHub Actions bot user
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           
           # Add the change and commit it
           git add .
-          git commit -m "Processed Lorcast data on $(date)"
+          git commit -m "Collected data from lorcast on $(date)"
 
-      # Step 6: Push the changes back to the repository
       - name: Push changes to repository
         run: |
           git push https://github.com/${{ github.repository }} HEAD:${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
