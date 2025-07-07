@@ -5,7 +5,7 @@
         "code": "P1",
         "released_at": "2023-08-18",
         "prereleased_at": "2023-08-18",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_7ecb0e0c71af496a9e0110e23824e0a5",
@@ -13,7 +13,7 @@
         "code": "1",
         "released_at": "2023-08-18",
         "prereleased_at": "2023-08-18",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_142d2dfb5d4b4b739a1017dc4bb0fcd2",
@@ -21,7 +21,7 @@
         "code": "2",
         "released_at": "2023-11-17",
         "prereleased_at": "2023-11-17",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_10a1db03fe66417c9912494b94463e8e",
@@ -29,7 +29,7 @@
         "code": "3",
         "released_at": "2024-02-23",
         "prereleased_at": "2024-02-23",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
@@ -37,7 +37,7 @@
         "code": "cp",
         "released_at": "2024-05-17",
         "prereleased_at": "2024-05-17",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_8f4cbf5aef324eb295c4add5673e684f",
@@ -45,7 +45,7 @@
         "code": "4",
         "released_at": "2024-05-17",
         "prereleased_at": "2024-05-17",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_ec81a739fb204f10b31dc649c535c82e",
@@ -53,7 +53,7 @@
         "code": "D23",
         "released_at": "2024-08-09",
         "prereleased_at": "2024-08-09",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_1fd69818f6e44dd79e922f403aa4f6d9",
@@ -61,7 +61,7 @@
         "code": "P2",
         "released_at": "2024-08-09",
         "prereleased_at": "2024-08-09",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_c64f092e725a4f66966f43af3aa161b6",
@@ -69,7 +69,7 @@
         "code": "5",
         "released_at": "2024-08-09",
         "prereleased_at": "2024-08-09",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_0df34ab314e04a479ef3538fd6c3e4e1",
@@ -77,7 +77,7 @@
         "code": "6",
         "released_at": "2024-11-15",
         "prereleased_at": "2024-11-15",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_ceb34c63638a4ce6b80e518393964c8f",
@@ -85,7 +85,7 @@
         "code": "7",
         "released_at": "2025-03-07",
         "prereleased_at": "2025-03-07",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     },
     {
         "id": "set_e4fe64374c144642a035ee7b8451f990",
@@ -93,6 +93,6 @@
         "code": "8",
         "released_at": "2025-05-30",
         "prereleased_at": "2025-05-30",
-        "processed_at": "2025-07-04"
+        "processed_at": "2025-07-07"
     }
 ]
