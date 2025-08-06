@@ -1,0 +1,2287 @@
+[
+    {
+        "id": "crd_1135ff76d7504441942b3f9e9edae58d",
+        "name": "Stitch",
+        "version": "Rock Star",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_1135ff76d7504441942b3f9e9edae58d.avif?1754316417",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_1135ff76d7504441942b3f9e9edae58d.avif?1754316417",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_1135ff76d7504441942b3f9e9edae58d.avif?1754316417"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Alien"
+        ],
+        "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Stitch.)\nADORING FANS Whenever you play a character with cost 2 or less, you may exert them to draw a card.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 5,
+        "lore": 3,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Simangaliso Sibaya"
+        ],
+        "collector_number": "3",
+        "lang": "en",
+        "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_2a28cdd2430b478ba3251c5478a09d02",
+        "name": "Minnie Mouse",
+        "version": "Sweetheart Princess",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_2a28cdd2430b478ba3251c5478a09d02.avif?1754316423",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_2a28cdd2430b478ba3251c5478a09d02.avif?1754316423",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_2a28cdd2430b478ba3251c5478a09d02.avif?1754316423"
+            }
+        },
+        "cost": 4,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "ROYAL FAVOR Your characters named Mickey Mouse gain Support. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)\nBYE BYE, NOW Whenever this character quests, you may banish chosen exerted character with 5 {S} or more.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 4,
+        "lore": 2,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Ellie Horie"
+        ],
+        "collector_number": "5",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_c89a2203fa9645b7916a3ddd982c7f1c",
+        "name": "Queen Of Hearts",
+        "version": "Wonderland Empress",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_c89a2203fa9645b7916a3ddd982c7f1c.avif?1754316806",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_c89a2203fa9645b7916a3ddd982c7f1c.avif?1754316806",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_c89a2203fa9645b7916a3ddd982c7f1c.avif?1754316806"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Villain",
+            "Queen"
+        ],
+        "text": "ALL WAYS HERE ARE MY WAYS Whenever this character quests, your other Villain characters get +1 {L} this turn.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 3,
+        "lore": 1,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "Brianna Garcia"
+        ],
+        "collector_number": "20",
+        "lang": "en",
+        "flavor_text": "The more of the Inklands she claims, the more she wants.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_190df28cc5c446ad986af3b03491f4d0",
+        "name": "Stitch",
+        "version": "Carefree Surfer",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_190df28cc5c446ad986af3b03491f4d0.avif?1754316812",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_190df28cc5c446ad986af3b03491f4d0.avif?1754316812",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_190df28cc5c446ad986af3b03491f4d0.avif?1754316812"
+            }
+        },
+        "cost": 7,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Alien"
+        ],
+        "text": "OHANA When you play this character, if you have 2 or more other characters in play, you may draw 2 cards.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 4,
+        "willpower": 8,
+        "lore": 2,
+        "rarity": "Legendary",
+        "illustrators": [
+            "Marcel Berg"
+        ],
+        "collector_number": "21",
+        "lang": "en",
+        "flavor_text": "\"So you're from outer space, huh? I hear the surfing's choice.\"\n–David",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_69d8dea501514ab3b48a3664a44dc764",
+        "name": "Be Our Guest",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_69d8dea501514ab3b48a3664a44dc764.avif?1754316820",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_69d8dea501514ab3b48a3664a44dc764.avif?1754316820",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_69d8dea501514ab3b48a3664a44dc764.avif?1754316820"
+            }
+        },
+        "cost": 2,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "(A character with cost 2 or more can {E} to sing this song for free.)\nLook at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "R. La Barbera / L. Giammichele"
+        ],
+        "collector_number": "25",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_d3bdbbdbd842435fa3fa0ac7ec4eb28d",
+        "name": "Heal What Has Been Hurt",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_d3bdbbdbd842435fa3fa0ac7ec4eb28d.avif?1754316826",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_d3bdbbdbd842435fa3fa0ac7ec4eb28d.avif?1754316826",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_d3bdbbdbd842435fa3fa0ac7ec4eb28d.avif?1754316826"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nRemove up to 3 damage from chosen character. Draw a card.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Common",
+        "illustrators": [
+            "Monica Catalano"
+        ],
+        "collector_number": "27",
+        "lang": "en",
+        "flavor_text": "Let your power shine\nMake the clock reverse . . .",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_6754fb447a2d4bbf901387509a864a10",
+        "name": "Winnie The Pooh",
+        "version": "Hunny Wizard",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_6754fb447a2d4bbf901387509a864a10.avif?1754316832",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_6754fb447a2d4bbf901387509a864a10.avif?1754316832",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_6754fb447a2d4bbf901387509a864a10.avif?1754316832"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Sorcerer",
+            "Hunny"
+        ],
+        "text": null,
+        "keywords": [],
+        "move_cost": null,
+        "strength": 5,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Common",
+        "illustrators": [
+            "John Loren"
+        ],
+        "collector_number": "41",
+        "lang": "en",
+        "flavor_text": "He'd always felt a kinship with honey. They were both golden, and sweet, and likely to end up in sticky situations.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_a10722c3278647028ab7088c11f20cba",
+        "name": "Elsa",
+        "version": "Spirit of Winter",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_a10722c3278647028ab7088c11f20cba.avif?1754316840",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_a10722c3278647028ab7088c11f20cba.avif?1754316840",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_a10722c3278647028ab7088c11f20cba.avif?1754316840"
+            }
+        },
+        "cost": 8,
+        "inkwell": false,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Queen",
+            "Sorcerer"
+        ],
+        "text": "Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Elsa.)\nDEEP FREEZE When you play this character, exert up to 2 chosen characters. They can’t ready at the start of their next turn.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 4,
+        "willpower": 6,
+        "lore": 3,
+        "rarity": "Legendary",
+        "illustrators": [
+            "Matthew Robert Davies"
+        ],
+        "collector_number": "42",
+        "lang": "en",
+        "flavor_text": "Ice is stronger than you may think.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_1c42d9e976d0414099a145227b83b08c",
+        "name": "Dumbo",
+        "version": "The Flying Elephant",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_1c42d9e976d0414099a145227b83b08c.avif?1754316846",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_1c42d9e976d0414099a145227b83b08c.avif?1754316846",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_1c42d9e976d0414099a145227b83b08c.avif?1754316846"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero"
+        ],
+        "text": "Evasive (Only characters with Evasive can challenge this character.)\nAERIAL DUO When you play this character, chosen character gains Evasive until the start of your next turn.",
+        "keywords": [
+            "Evasive"
+        ],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 2,
+        "lore": 1,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "Sandra Tang"
+        ],
+        "collector_number": "46",
+        "lang": "en",
+        "flavor_text": "",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_7132ae64563f4ca688e7033e90cf50fb",
+        "name": "Timothy Q. Mouse",
+        "version": "Flight Instructor",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_7132ae64563f4ca688e7033e90cf50fb.avif?1754316853",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7132ae64563f4ca688e7033e90cf50fb.avif?1754316853",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_7132ae64563f4ca688e7033e90cf50fb.avif?1754316853"
+            }
+        },
+        "cost": 2,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Mentor"
+        ],
+        "text": "LET'S SHOW 'EM, DUMBO! While you have a character with Evasive in play, this character gets +1 {L}.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 1,
+        "willpower": 4,
+        "lore": 1,
+        "rarity": "Common",
+        "illustrators": [
+            "Grace Tran"
+        ],
+        "collector_number": "47",
+        "lang": "en",
+        "flavor_text": "\"Stick with me, kid, and we'll fly all the way to the top!\"",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_b3e7f8ccfa754181bd75854feccef2a0",
+        "name": "Robin Hood",
+        "version": "Daydreamer",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_b3e7f8ccfa754181bd75854feccef2a0.avif?1754317061",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_b3e7f8ccfa754181bd75854feccef2a0.avif?1754317061",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_b3e7f8ccfa754181bd75854feccef2a0.avif?1754317061"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero"
+        ],
+        "text": null,
+        "keywords": [],
+        "move_cost": null,
+        "strength": 4,
+        "willpower": 5,
+        "lore": 4,
+        "rarity": "Rare",
+        "illustrators": [
+            "John Loren"
+        ],
+        "collector_number": "84",
+        "lang": "en",
+        "flavor_text": "Some days, it's nice to let the river do the running.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_560e1944ff28404289819f133bd3be24",
+        "name": "Prince Phillip",
+        "version": "Vanquisher of Foes",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_560e1944ff28404289819f133bd3be24.avif?1754317070",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_560e1944ff28404289819f133bd3be24.avif?1754317070",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_560e1944ff28404289819f133bd3be24.avif?1754317070"
+            }
+        },
+        "cost": 9,
+        "inkwell": true,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Prince"
+        ],
+        "text": "Shift 6 (You may pay 6 {I} to play this on top of one of your characters named Prince Phillip.)\nEvasive (Only characters with Evasive can challenge this character.)\nSWIFT AND SURE When you play this character, banish all opposing damaged characters.",
+        "keywords": [
+            "Evasive",
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 6,
+        "willpower": 6,
+        "lore": 3,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Randy Bishop"
+        ],
+        "collector_number": "87",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_690c8974ab55451eb7db105e3dfa0d15",
+        "name": "Prince Phillip",
+        "version": "Warden of the Woods",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_690c8974ab55451eb7db105e3dfa0d15.avif?1754317078",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_690c8974ab55451eb7db105e3dfa0d15.avif?1754317078",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_690c8974ab55451eb7db105e3dfa0d15.avif?1754317078"
+            }
+        },
+        "cost": 4,
+        "inkwell": false,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Prince"
+        ],
+        "text": "SHINING BEACON Your other Hero characters gain Ward. (Opponents can’t choose them except to challenge.)",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 4,
+        "lore": 2,
+        "rarity": "Rare",
+        "illustrators": [
+            "Mike Parker"
+        ],
+        "collector_number": "88",
+        "lang": "en",
+        "flavor_text": "He stands ready to protect his friends from any threat.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_2da1b21d6bdc4b29b5e04bacfa14eded",
+        "name": "Tinker Bell",
+        "version": "Most Helpful",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_2da1b21d6bdc4b29b5e04bacfa14eded.avif?1754317086",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_2da1b21d6bdc4b29b5e04bacfa14eded.avif?1754317086",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_2da1b21d6bdc4b29b5e04bacfa14eded.avif?1754317086"
+            }
+        },
+        "cost": 4,
+        "inkwell": true,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Ally",
+            "Fairy"
+        ],
+        "text": "Evasive (Only characters with Evasive can challenge this character.)\nPIXIE DUST When you play this character, chosen character gains Evasive this turn.",
+        "keywords": [
+            "Evasive"
+        ],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": 2,
+        "rarity": "Common",
+        "illustrators": [
+            "Caner Soylu"
+        ],
+        "collector_number": "93",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_e753b2ea3c6142e99097d527dc10e6a9",
+        "name": "Stand Out",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_e753b2ea3c6142e99097d527dc10e6a9.avif?1754317091",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_e753b2ea3c6142e99097d527dc10e6a9.avif?1754317091",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_e753b2ea3c6142e99097d527dc10e6a9.avif?1754317091"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nChosen character gets +3 {S} and gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "Raquel Villanueva"
+        ],
+        "collector_number": "94",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_59886859b21e47a89f5e2b50df7f178d",
+        "name": "Virana",
+        "version": "Fang Chief",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_59886859b21e47a89f5e2b50df7f178d.avif?1754317100",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_59886859b21e47a89f5e2b50df7f178d.avif?1754317100",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_59886859b21e47a89f5e2b50df7f178d.avif?1754317100"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Villain",
+            "Queen"
+        ],
+        "text": null,
+        "keywords": [],
+        "move_cost": null,
+        "strength": 5,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Common",
+        "illustrators": [
+            "Mané Kandalyan / Luca Pinelli"
+        ],
+        "collector_number": "95",
+        "lang": "en",
+        "flavor_text": "\"I must make the hard decisions to protect my daughter, especially in this unfamiliar world.\"",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_856e21edc8814f10863eae7f75635f23",
+        "name": "Improvise",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_856e21edc8814f10863eae7f75635f23.avif?1754317110",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_856e21edc8814f10863eae7f75635f23.avif?1754317110",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_856e21edc8814f10863eae7f75635f23.avif?1754317110"
+            }
+        },
+        "cost": 1,
+        "inkwell": true,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Action"
+        ],
+        "classifications": null,
+        "text": "Chosen character gets +1 {S} this turn. Draw a card.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Common",
+        "illustrators": [
+            "Mané Kardzhyan / Anna Stosik"
+        ],
+        "collector_number": "96",
+        "lang": "en",
+        "flavor_text": "Shan-Yu: \"It looks like you're out of ideas.\"\nMulan: \"Not quite!\"",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_331c3ce2f2a74490acc4b2bec16a0ad9",
+        "name": "Maleficent",
+        "version": "Monstrous Dragon",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_331c3ce2f2a74490acc4b2bec16a0ad9.avif?1754317115",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_331c3ce2f2a74490acc4b2bec16a0ad9.avif?1754317115",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_331c3ce2f2a74490acc4b2bec16a0ad9.avif?1754317115"
+            }
+        },
+        "cost": 9,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Villain",
+            "Dragon"
+        ],
+        "text": "DRAGON FIRE When you play this character, you may banish chosen character.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 7,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Legendary",
+        "illustrators": [
+            "Luis Huerta"
+        ],
+        "collector_number": "108",
+        "lang": "en",
+        "flavor_text": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_3a5f83e2f53f4bf0b0d621014cd8f6cf",
+        "name": "Powerline",
+        "version": "World's Greatest Rock Star",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_3a5f83e2f53f4bf0b0d621014cd8f6cf.avif?1754317123",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_3a5f83e2f53f4bf0b0d621014cd8f6cf.avif?1754317123",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_3a5f83e2f53f4bf0b0d621014cd8f6cf.avif?1754317123"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn"
+        ],
+        "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Powerline.)\nSinger 9\nMASH-UP Once during your turn, whenever this character sings a song, look at the top 4 cards of your deck. You may reveal a song card with cost 9 or less and play it for free. Put the rest on the bottom of your deck in any order.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 6,
+        "willpower": 4,
+        "lore": 2,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Nicholas Kole"
+        ],
+        "collector_number": "110",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_8c2b197768734180bf5a4ec7bf1b4e37",
+        "name": "Mickey Mouse",
+        "version": "Brave Little Prince",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_8c2b197768734180bf5a4ec7bf1b4e37.avif?1754317130",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_8c2b197768734180bf5a4ec7bf1b4e37.avif?1754317130",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_8c2b197768734180bf5a4ec7bf1b4e37.avif?1754317130"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Prince"
+        ],
+        "text": "Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters named Mickey Mouse.)\nEvasive (Only characters with Evasive can challenge this character.)\nCROWNING ACHIEVEMENT While this character has a card under him, he gets +3 {S}, +3 {W}, and +3 {L}.",
+        "keywords": [
+            "Evasive",
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 2,
+        "lore": 1,
+        "rarity": "Legendary",
+        "illustrators": [
+            "Cristian Romero"
+        ],
+        "collector_number": "111",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_a22a94f1b03e434ba83a638566e83d6a",
+        "name": "Lumiere",
+        "version": "Fiery Friend",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_a22a94f1b03e434ba83a638566e83d6a.avif?1754317141",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_a22a94f1b03e434ba83a638566e83d6a.avif?1754317141",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_a22a94f1b03e434ba83a638566e83d6a.avif?1754317141"
+            }
+        },
+        "cost": 2,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Ally"
+        ],
+        "text": "FERVENT ADDRESS Your other characters get +1 {S}.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 2,
+        "lore": 1,
+        "rarity": "Rare",
+        "illustrators": [
+            "Valentin Palombo"
+        ],
+        "collector_number": "113",
+        "lang": "en",
+        "flavor_text": "The invaders are at our gates, mes amis! It's time to show them what we're made of.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_79c14f5dbd094332bc21633e3d740856",
+        "name": "Mulan",
+        "version": "Elite Archer",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_79c14f5dbd094332bc21633e3d740856.avif?1754317149",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_79c14f5dbd094332bc21633e3d740856.avif?1754317149",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_79c14f5dbd094332bc21633e3d740856.avif?1754317149"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Mulan.)\nSTRAIGHT SHOOTER When you play this character, if you used Shift to play her, she gets +3 {S} this turn.\nTRIPLE SHOT During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 6,
+        "lore": 2,
+        "rarity": "Legendary",
+        "illustrators": [
+            "Nicola Savioli"
+        ],
+        "collector_number": "114",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_bd12c99e8bcf4b589a58381e10fe31c6",
+        "name": "Simba",
+        "version": "Scrappy Cub",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_bd12c99e8bcf4b589a58381e10fe31c6.avif?1754317156",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_bd12c99e8bcf4b589a58381e10fe31c6.avif?1754317156",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_bd12c99e8bcf4b589a58381e10fe31c6.avif?1754317156"
+            }
+        },
+        "cost": 2,
+        "inkwell": false,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero",
+            "Prince"
+        ],
+        "text": null,
+        "keywords": [],
+        "move_cost": null,
+        "strength": 1,
+        "willpower": 1,
+        "lore": 3,
+        "rarity": "Rare",
+        "illustrators": [
+            "Agnes Christianson"
+        ],
+        "collector_number": "123",
+        "lang": "en",
+        "flavor_text": "He'll join the hunt for lore after he's had a quick snack.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_aab461b250e4450ba96ddc1baff4bdea",
+        "name": "I2I",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_aab461b250e4450ba96ddc1baff4bdea.avif?1754317163",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_aab461b250e4450ba96ddc1baff4bdea.avif?1754317163",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_aab461b250e4450ba96ddc1baff4bdea.avif?1754317163"
+            }
+        },
+        "cost": 9,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "Sing Together 9 (Any number of your or your teammates’ characters with total cost 9 or more may {E} to sing this song for free.)\nEach player draws 2 cards and gains 2 lore. If 2 or more characters sang this song, ready them. They can’t quest for the rest of this turn.",
+        "keywords": [
+            "Sing Together"
+        ],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Rare",
+        "illustrators": [
+            "Erin Whelil"
+        ],
+        "collector_number": "130",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_480463cc9e3f4f7b9cb1c96a83d69544",
+        "name": "A Pirate's Life",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_480463cc9e3f4f7b9cb1c96a83d69544.avif?1754317170",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_480463cc9e3f4f7b9cb1c96a83d69544.avif?1754317170",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_480463cc9e3f4f7b9cb1c96a83d69544.avif?1754317170"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "SING TOGETHER 6 (Any number of your or your teammates’ characters with total cost 6 or more may {E} to sing this song for free.)\nEach opponent loses 2 lore. You gain 2 lore.",
+        "keywords": [
+            "Sing Together"
+        ],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "Valentina Grazioso"
+        ],
+        "collector_number": "132",
+        "lang": "en",
+        "flavor_text": "Give me a career\nAs a buccaneer",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_290b5cd5528d4eebbdf3b99149daae4e",
+        "name": "Aurora",
+        "version": "Dreaming Guardian",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_290b5cd5528d4eebbdf3b99149daae4e.avif?1754317179",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_290b5cd5528d4eebbdf3b99149daae4e.avif?1754317179",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_290b5cd5528d4eebbdf3b99149daae4e.avif?1754317179"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Sapphire",
+        "inks": [
+            "Sapphire"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Aurora.)\nPROTECTIVE EMBRACE Your other characters gain Ward. (Opponents can't choose them except to challenge.)",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Nicholas Kole"
+        ],
+        "collector_number": "139",
+        "lang": "en",
+        "flavor_text": "As the princess slumbered, her power awoke.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_1a90e72da27d4638ad9aed26776feee5",
+        "name": "Mulan",
+        "version": "Considerate Diplomat",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_1a90e72da27d4638ad9aed26776feee5.avif?1754317186",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_1a90e72da27d4638ad9aed26776feee5.avif?1754317186",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_1a90e72da27d4638ad9aed26776feee5.avif?1754317186"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Sapphire",
+        "inks": [
+            "Sapphire"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "IMPERIAL INVITATION Whenever this character quests, look at the top 4 cards of your deck. You may reveal a Princess character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "LadyShalirin"
+        ],
+        "collector_number": "142",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_2f6ba76c24224b52ad93ee5abc882b80",
+        "name": "Cruella De Vil",
+        "version": "Style Icon",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_2f6ba76c24224b52ad93ee5abc882b80.avif?1754317191",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_2f6ba76c24224b52ad93ee5abc882b80.avif?1754317191",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_2f6ba76c24224b52ad93ee5abc882b80.avif?1754317191"
+            }
+        },
+        "cost": 3,
+        "inkwell": false,
+        "ink": "Sapphire",
+        "inks": [
+            "Sapphire"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Villain"
+        ],
+        "text": "OUT OF SEASON Once during your turn, whenever a character with cost 2 or less is banished, put the top card of your deck into your inkwell facedown and exerted.\nINSULTING REMARK During your turn, each opposing character with cost 2 or less gets...",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": null,
+        "rarity": "Common",
+        "illustrators": [
+            "Juan Diego León"
+        ],
+        "collector_number": "143",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_ca10891f44ed4671836d4e264cfce4e4",
+        "name": "Maid Marian",
+        "version": "Delightful Dreamer",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_ca10891f44ed4671836d4e264cfce4e4.avif?1754317198",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_ca10891f44ed4671836d4e264cfce4e4.avif?1754317198",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_ca10891f44ed4671836d4e264cfce4e4.avif?1754317198"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Sapphire",
+        "inks": [
+            "Sapphire"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Princess"
+        ],
+        "text": "HIGHBORN LADY When you play this character, chosen character gets -2 {S} this turn.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 4,
+        "willpower": 4,
+        "lore": 2,
+        "rarity": "Common",
+        "illustrators": [
+            "Jenna Gray"
+        ],
+        "collector_number": "150",
+        "lang": "en",
+        "flavor_text": "She makes every space more beautiful.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_3f3d0f66cd204f619a65e28e4e4bd408",
+        "name": "Coconut Basket",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_3f3d0f66cd204f619a65e28e4e4bd408.avif?1754317206",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_3f3d0f66cd204f619a65e28e4e4bd408.avif?1754317206",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_3f3d0f66cd204f619a65e28e4e4bd408.avif?1754317206"
+            }
+        },
+        "cost": 2,
+        "inkwell": true,
+        "ink": "Sapphire",
+        "inks": [
+            "Sapphire"
+        ],
+        "type": [
+            "Item"
+        ],
+        "classifications": null,
+        "text": "CONSIDER THE COCONUT Whenever you play a character, you may remove up to 2 damage from chosen character.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "Milica Celikovic"
+        ],
+        "collector_number": "166",
+        "lang": "en",
+        "flavor_text": "The coconut is a versatile gift from the gods, used to make nearly everything—including baskets to carry more coconuts.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_72bf539d1293473cb7d5d53231862bcb",
+        "name": "Benja",
+        "version": "Guardian of the Dragon Gem",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_72bf539d1293473cb7d5d53231862bcb.avif?1754317213",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_72bf539d1293473cb7d5d53231862bcb.avif?1754317213",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_72bf539d1293473cb7d5d53231862bcb.avif?1754317213"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Steel",
+        "inks": [
+            "Steel"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Mentor",
+            "King"
+        ],
+        "text": "WE HAVE A CHOICE When you play this character, you may banish chosen item.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": 2,
+        "rarity": "Common",
+        "illustrators": [
+            "Grace Tran"
+        ],
+        "collector_number": "174",
+        "lang": "en",
+        "flavor_text": "\"Don't mistake spirit for skill.\"",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_abe9ab51540d4ebcaeafa96bb3d9156e",
+        "name": "Ariel",
+        "version": "Sonic Warrior",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_abe9ab51540d4ebcaeafa96bb3d9156e.avif?1754317220",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_abe9ab51540d4ebcaeafa96bb3d9156e.avif?1754317220",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_abe9ab51540d4ebcaeafa96bb3d9156e.avif?1754317220"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Steel",
+        "inks": [
+            "Steel"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Ariel.)\nAMPLIFIED VOICE Whenever you play a song, you may pay 2 {I} to deal 3 damage to chosen character.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 8,
+        "lore": 2,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Marcel Berg"
+        ],
+        "collector_number": "175",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_70f818f3196e4178a8bd5735332d8f06",
+        "name": "Jasmine",
+        "version": "Fearless Princess",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_70f818f3196e4178a8bd5735332d8f06.avif?1754317226",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_70f818f3196e4178a8bd5735332d8f06.avif?1754317226",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_70f818f3196e4178a8bd5735332d8f06.avif?1754317226"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Steel",
+        "inks": [
+            "Steel"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "TAKE THE LEAP During your turn, this character gains Evasive. (They can challenge characters with Evasive.)\nNOW'S MY CHANCE Choose and discard a card — This character gains Challenger +3 this turn. (They get +3 {S} while challenging.)",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 7,
+        "lore": 2,
+        "rarity": "Rare",
+        "illustrators": [
+            "Ian MacDonald"
+        ],
+        "collector_number": "178",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_e772b66217694798b4a09dda0949184d",
+        "name": "Robin Hood",
+        "version": "Capable Fighter",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_e772b66217694798b4a09dda0949184d.avif?1754317231",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_e772b66217694798b4a09dda0949184d.avif?1754317231",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_e772b66217694798b4a09dda0949184d.avif?1754317231"
+            }
+        },
+        "cost": 2,
+        "inkwell": false,
+        "ink": "Steel",
+        "inks": [
+            "Steel"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero"
+        ],
+        "text": "SKIRMISH {E} – Deal 1 damage to chosen character.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 1,
+        "willpower": 3,
+        "lore": 1,
+        "rarity": "Uncommon",
+        "illustrators": [
+            "Noukah"
+        ],
+        "collector_number": "184",
+        "lang": "en",
+        "flavor_text": "\"Capable? You don't know the half of it.\"\n–Little John",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_a77ba07844374c399becfa3d49262642",
+        "name": "Tinker Bell",
+        "version": "Giant Fairy",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_a77ba07844374c399becfa3d49262642.avif?1754317237",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_a77ba07844374c399becfa3d49262642.avif?1754317237",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_a77ba07844374c399becfa3d49262642.avif?1754317237"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Steel",
+        "inks": [
+            "Steel"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Ally",
+            "Fairy"
+        ],
+        "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Tinker Bell.)\nROCK THE BOAT When you play this character, deal 1 damage to each opposing character.\nPUNY PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 4,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Super_rare",
+        "illustrators": [
+            "Cookie"
+        ],
+        "collector_number": "188",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_2b5958e1524648629b663fb210bb7f76",
+        "name": "Elsa",
+        "version": "Snow Queen",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_2b5958e1524648629b663fb210bb7f76.avif?1754317247",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_2b5958e1524648629b663fb210bb7f76.avif?1754317247",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_2b5958e1524648629b663fb210bb7f76.avif?1754317247"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Queen",
+            "Sorcerer"
+        ],
+        "text": "FREEZE {E} – Exert chosen opposing character.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Nicholas Kole"
+        ],
+        "collector_number": "210",
+        "lang": "en",
+        "flavor_text": "Recreated by magical ink, Elsa found herself in an entirely new world. Fortunately, ice works the same way everywhere.",
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_7b7cb2bd63084cf6942b7174b07be8c0",
+        "name": "Stand Out",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_7b7cb2bd63084cf6942b7174b07be8c0.avif?1754317258",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_7b7cb2bd63084cf6942b7174b07be8c0.avif?1754317258",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_7b7cb2bd63084cf6942b7174b07be8c0.avif?1754317258"
+            }
+        },
+        "cost": 3,
+        "inkwell": false,
+        "ink": "Emerald",
+        "inks": [
+            "Emerald"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nChosen character gets +3 {S} and gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+        "keywords": [],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Raquel Villanueva"
+        ],
+        "collector_number": "213",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_69d9b22e10244e2fb65ffbdb5f99da83",
+        "name": "Winnie The Pooh",
+        "version": "Hunny Wizard",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_69d9b22e10244e2fb65ffbdb5f99da83.avif?1754317266",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_69d9b22e10244e2fb65ffbdb5f99da83.avif?1754317266",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_69d9b22e10244e2fb65ffbdb5f99da83.avif?1754317266"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Sorcerer",
+            "Hunny"
+        ],
+        "text": null,
+        "keywords": [],
+        "move_cost": null,
+        "strength": 5,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Carlos Ruiz"
+        ],
+        "collector_number": "227",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_aa13ad9fe176464bac51e72c45dd6914",
+        "name": "Dumbo",
+        "version": "Ninth Wonder of the Universe",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_aa13ad9fe176464bac51e72c45dd6914.avif?1754317273",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_aa13ad9fe176464bac51e72c45dd6914.avif?1754317273",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_aa13ad9fe176464bac51e72c45dd6914.avif?1754317273"
+            }
+        },
+        "cost": 4,
+        "inkwell": true,
+        "ink": "Amethyst",
+        "inks": [
+            "Amethyst"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero"
+        ],
+        "text": "Evasive\nBREAKING RECORDS {E}, 1 {I}→ Draw a card and gain 1 lore.\nMAKING HISTORY Your other characters with Evasive gain \"{E}, 1 {I}→ Draw a card and gain 1 lore.\"",
+        "keywords": [
+            "Evasive"
+        ],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 3,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Anna Stosik"
+        ],
+        "collector_number": "228",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_e6a1d03334964fb78033020d86a5f502",
+        "name": "Ariel",
+        "version": "Adventurous Collector",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_e6a1d03334964fb78033020d86a5f502.avif?1754317283",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_e6a1d03334964fb78033020d86a5f502.avif?1754317283",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_e6a1d03334964fb78033020d86a5f502.avif?1754317283"
+            }
+        },
+        "cost": 3,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "Evasive\nINSPIRING VOICE Whenever you play a song, chosen character of yours gains Evasive until the start of your next turn.",
+        "keywords": [
+            "Evasive"
+        ],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 3,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "João Moura"
+        ],
+        "collector_number": "232",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_be9c85638bda44878c44cf4cc7e7cfb0",
+        "name": "Powerline",
+        "version": "World's Greatest Rock Star",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_be9c85638bda44878c44cf4cc7e7cfb0.avif?1754317291",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_be9c85638bda44878c44cf4cc7e7cfb0.avif?1754317291",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_be9c85638bda44878c44cf4cc7e7cfb0.avif?1754317291"
+            }
+        },
+        "cost": 6,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn"
+        ],
+        "text": "Shift 4 {I}\nSinger 9\nMASH-UP Once during your turn, whenever this character sings a song, look at the top 4 cards of your deck. You may reveal a song card with cost 9 or less and play it for free. Put the rest on the bottom of your deck in any order.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 6,
+        "willpower": 4,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Max Ulichney"
+        ],
+        "collector_number": "233",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_d2d94d7cffe349d9a618f8bdb6695f29",
+        "name": "I2I",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_d2d94d7cffe349d9a618f8bdb6695f29.avif?1754317301",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_d2d94d7cffe349d9a618f8bdb6695f29.avif?1754317301",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_d2d94d7cffe349d9a618f8bdb6695f29.avif?1754317301"
+            }
+        },
+        "cost": 9,
+        "inkwell": true,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Action",
+            "Song"
+        ],
+        "classifications": null,
+        "text": "Sing Together 9\nEach player draws 2 cards and gains 2 lore. If 2 or more characters sang this song, ready them. They can't quest for the rest of this turn.",
+        "keywords": [
+            "Sing Together"
+        ],
+        "move_cost": null,
+        "strength": null,
+        "willpower": null,
+        "lore": null,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Jochem van Gool"
+        ],
+        "collector_number": "234",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_08b670dabf3b4ff0a56cb4525b0b57db",
+        "name": "Mulan",
+        "version": "Considerate Diplomat",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_08b670dabf3b4ff0a56cb4525b0b57db.avif?1754317307",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_08b670dabf3b4ff0a56cb4525b0b57db.avif?1754317307",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_08b670dabf3b4ff0a56cb4525b0b57db.avif?1754317307"
+            }
+        },
+        "cost": 5,
+        "inkwell": true,
+        "ink": "Sapphire",
+        "inks": [
+            "Sapphire"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Storyborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "IMPERIAL INVITATION Whenever this character quests, look at the top 4 cards of your deck. You may reveal a Princess character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 3,
+        "willpower": 5,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Aubrey Archer"
+        ],
+        "collector_number": "235",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_77b92f4bb7d2460ea85b9d547cb8e72f",
+        "name": "Minnie Mouse",
+        "version": "Sweetheart Princess",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_77b92f4bb7d2460ea85b9d547cb8e72f.avif?1754317315",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_77b92f4bb7d2460ea85b9d547cb8e72f.avif?1754317315",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_77b92f4bb7d2460ea85b9d547cb8e72f.avif?1754317315"
+            }
+        },
+        "cost": 4,
+        "inkwell": true,
+        "ink": "Amber",
+        "inks": [
+            "Amber"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Dreamborn",
+            "Hero",
+            "Princess"
+        ],
+        "text": "ROYAL FAVOR Your characters named Mickey Mouse gain Support.\nBYE BYE, NOW Whenever this character quests, you may banish chosen exerted character with 5 {S} or more.",
+        "keywords": [],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 4,
+        "lore": 2,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Alice Pisoni"
+        ],
+        "collector_number": "241",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    },
+    {
+        "id": "crd_4d10d4cd91454ff389318fd9a19a879f",
+        "name": "Mickey Mouse",
+        "version": "Brave Little Prince",
+        "layout": "normal",
+        "released_at": "2024-08-29",
+        "image_uris": {
+            "digital": {
+                "small": "https://cards.lorcast.io/card/digital/small/crd_4d10d4cd91454ff389318fd9a19a879f.avif?1754317324",
+                "normal": "https://cards.lorcast.io/card/digital/normal/crd_4d10d4cd91454ff389318fd9a19a879f.avif?1754317324",
+                "large": "https://cards.lorcast.io/card/digital/large/crd_4d10d4cd91454ff389318fd9a19a879f.avif?1754317324"
+            }
+        },
+        "cost": 3,
+        "inkwell": false,
+        "ink": "Ruby",
+        "inks": [
+            "Ruby"
+        ],
+        "type": [
+            "Character"
+        ],
+        "classifications": [
+            "Floodborn",
+            "Hero",
+            "Prince"
+        ],
+        "text": "Shift 5 {I}\nEvasive\nCROWNING ACHIEVEMENT While this character has a card under him, he gets +3 {S}, +3 {W}, and +3 {L}.",
+        "keywords": [
+            "Shift"
+        ],
+        "move_cost": null,
+        "strength": 2,
+        "willpower": 2,
+        "lore": 1,
+        "rarity": "Enchanted",
+        "illustrators": [
+            "Nicola Savioli"
+        ],
+        "collector_number": "242",
+        "lang": "en",
+        "flavor_text": null,
+        "tcgplayer_id": null,
+        "legalities": {
+            "core": "legal"
+        },
+        "set": {
+            "id": "set_42a2e9232c43494dab2c72945ea6879e",
+            "code": "9",
+            "name": "Fabled"
+        },
+        "prices": {}
+    }
+]
