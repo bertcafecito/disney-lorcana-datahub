@@ -1,121 +1,169 @@
-# Disney Lorcana Data Hub
+<div align="center">
 
-A centralized repository for collecting, analyzing, and exploring Disney Lorcana card data from various sources. Perfect for data enthusiasts, data scientists, and machine learning practitioners looking to explore structured datasets and gain insights into the Disney Lorcana universe.
+# 🏰 Disney Lorcana Data Hub
 
-## Directory Structure
+*A comprehensive data repository for Disney Lorcana trading card game*
 
-``` plaintext
-├── README.md               <- Overview of the project and setup instructions.
-├── data/                   <- Raw and processed data files (CSV, JSON, etc.).
-│   ├── raw/                <- Raw data from scraping or other sources.
-│   └── processed/          <- Cleaned and preprocessed data ready for analysis.
-│
-├── images/                 <- Directory for storing card images or visual assets.
-│
-├── notebooks/              <- Jupyter Notebooks for data exploration and ML.
-│   ├── exploration/        <- EDA (Exploratory Data Analysis) notebooks.
-│   ├── visualization/      <- Visualization notebooks (e.g., trends or stats).
-│   └── machine_learning/   <- ML models and experiments.
-│
-├── scripts/                <- Python scripts for data collection and processing.
-│   ├── scrape_data.py      <- Scripts for scraping from sources (like APIs).
-│   ├── clean_data.py       <- Preprocess raw data into clean datasets.
-│   └── utils/              <- Helper utilities.
-│
-├── requirements.txt        <- List of Python dependencies.
-└── LICENSE                 <- MIT license.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/bertcafecito/disney-lorcana-datahub?style=social)](https://github.com/bertcafecito/disney-lorcana-datahub/stargazers)
+
+</div>
+
+---
+
+## 📋 Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Directory Structure](#directory-structure)
+- [Getting Started](#getting-started)
+- [Data Sources](#data-sources)
+- [Usage Examples](#usage-examples)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+
+---
+
+## 🎯 About
+
+The **Disney Lorcana Data Hub** is a centralized repository designed for collecting, analyzing, and exploring Disney Lorcana card data from various sources. This project serves as a comprehensive resource for:
+
+- 📊 **Data Enthusiasts** - Explore rich datasets about card statistics, rarities, and trends
+- 🔬 **Data Scientists** - Analyze card metadata, pricing patterns, and game mechanics
+- 🤖 **ML Practitioners** - Build predictive models and recommendation systems
+- 🎮 **Game Enthusiasts** - Discover insights into the Disney Lorcana universe
+
+## ✨ Features
+
+- 🗃️ **Structured Data Collection** - Organized JSON datasets with consistent schemas
+- 📅 **Historical Data Tracking** - Time-series data collection for trend analysis
+- 🔄 **Regular Updates** - Automated data collection and updates
+- 🧹 **Clean Data Pipeline** - Raw and processed data separation for better workflow
+- 📈 **Ready for Analysis** - Pre-structured data formats perfect for data science projects
+
+## 📁 Directory Structure
+
+```plaintext
+disney-lorcana-datahub/
+├── 📄 README.md               # Project overview and documentation
+├── 📄 LICENSE                 # MIT license information
+├── 📂 data/                   # All data files (JSON, CSV, etc.)
+│   ├── 📂 raw/                # Raw data from various sources
+│   │   └── 📂 lorcast/        # Lorcast API data organized by collection date
+│   │       ├── 📂 2025-05-11/ # Data snapshots by date
+│   │       ├── 📂 2025-05-14/
+│   │       └── 📂 ...         # Additional date folders
+│   └── 📂 processed/          # Cleaned and analysis-ready datasets
+└── 📂 images/                 # Card images and visual assets
 ```
 
-## Data Sources
-
-The data used in this project is sourced from various Disney Lorcana card datasets. The raw data is stored in the `data/raw` directory, and the processed data is stored in the `data/processed`.
-
-### List of Data Sources
-
-1. [**Disney Lorcana**](https://www.disneylorcana.com/en-US/resources/): The official resources for all Disney Lorcana cards by Ravensburger. This data source provide only the name and number of the cards, which is not sufficient for our analysis. Therefore, we are using alternative sources that offer more comprehensive datasets. However, we have included this source for completeness.
-
-2. [**Lorcast API**](https://lorcast.com/docs/api): Lorcast is a third-party API that provides comprehensive data on Disney Lorcana cards. We are using this API to collect detailed information about the cards, including their attributes, images, and more.
-
-Feel free to explore and analyze the data using the provided Jupyter Notebooks in the notebooks/ directory
-
-## Usage
-
-### Note on Development Container
-
-This project includes a `.devcontainer` configuration for Visual Studio Code. If you are using VS Code, you can open the project in a development container to ensure a consistent development environment. The container will automatically install the required dependencies specified in the `requirements.txt` file.
+## � Getting Started
 
 ### Prerequisites
 
-Ensure you have the following installed:
+- Basic knowledge of JSON data formats
+- Python 3.7+ (for data analysis and processing)
+- Text editor or IDE for viewing/editing data files
 
-- Docker
-- Visual Studio Code with the Dev Containers extension
+### Quick Start
 
-### Instructions
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/bertcafecito/disney-lorcana-datahub.git
+   cd disney-lorcana-datahub
+   ```
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/bert-cafecito/disney-lorcana-data-hub.git
-    cd disney-lorcana-data-hub
-    ```
+2. **Explore the data**
+   ```bash
+   # View available datasets
+   ls data/raw/lorcast/
+   
+   # Check the latest data snapshot
+   ls data/raw/lorcast/$(ls data/raw/lorcast/ | tail -1)/
+   ```
 
-2. **Reopen in Container:**
-    - Press `F1` and select `>Dev Containers: Rebuild Container`.
+3. **Start analyzing**
+   - Browse the `data/raw/lorcast/` directory for time-series data
+   - Check `data/processed/` for cleaned datasets
+   - Use your favorite data analysis tools (Python pandas, R, Excel, etc.)
 
-3. **Start Jupyter Notebook:**
-    ```sh
-    jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
-    ```
+## 📊 Data Sources
 
-4. **Access Jupyter Notebook:**
-    Open your browser and navigate to `http://localhost:8888`.
+### Lorcast API
+- **Source**: Official Lorcast API endpoints
+- **Update Frequency**: Weekly snapshots
+- **Data Types**: Card sets, individual card data, metadata
+- **Format**: JSON files organized by collection date
+- **Coverage**: All official Disney Lorcana card sets and promos
 
-5. **Explore Notebooks:**
-    - Navigate to the `notebooks/` directory to explore the available Jupyter Notebooks.
+### Data Collection Schedule
+- 📅 **Weekly Updates**: Every Tuesday
+- 🔄 **Historical Preservation**: All previous snapshots maintained
+- 📈 **Trend Analysis**: Compare data across different time periods
 
-### Running Python Scripts
+## 💡 Usage Examples
 
-You can run the Python scripts in the `scripts/` directory to scrape data, clean data, or perform other tasks. To run a script, use the following command:
+### Data Analysis Ideas
 
-```sh
-python scripts/<script_name>.py
+- **📈 Price Trend Analysis**: Track card value changes over time
+- **🎯 Rarity Distribution**: Analyze card rarity patterns across sets
+- **🃏 Set Completion**: Calculate completion rates and missing cards
+- **📊 Meta Analysis**: Study popular card combinations and strategies
+- **🔍 Collection Management**: Build tools for inventory tracking
+
+### Sample Data Structure
+
+```json
+{
+  "id": "TFC-001",
+  "name": "Mickey Mouse - Brave Little Tailor",
+  "set": "The First Chapter",
+  "rarity": "Legendary",
+  "ink_cost": 8,
+  "type": "Character",
+  "colors": ["Steel", "Sapphire"]
+}
 ```
 
-Replace `<script_name>` with the name of the script you want to run (e.g., `scrape_data.py`, `clean_data.py`).
+## 🤝 Contributing
 
-## Contributing
+We welcome contributions! Here's how you can help:
 
-Contributions are welcome and encouraged! To get started, please read the [contributing guidelines](CONTRIBUTING.md) to learn how you can contribute to this project.
+- 🐛 **Report Issues**: Found a data inconsistency? Open an issue
+- 📚 **Improve Documentation**: Help make this README even better
+- 💡 **Suggest Features**: Have ideas for new data sources or analysis tools?
+- 🔧 **Submit Pull Requests**: Fix bugs or add new functionality
 
-## Support
+Please read our contribution guidelines before submitting PRs.
 
-If you would like to support this project or me, you can do so in the following ways:
+## 💖 Support
 
-### Reporting Issues
+Love this project? Here's how you can show your support:
 
-If you find a bug or have a feature request, please open an issue on the [GitHub Issues](https://github.com/bert-cafecito/disney-lorcana-data-hub/issues) page. Provide as much detail as possible to help us understand and resolve the issue quickly.
+- ⭐ **Star this repository** to help others discover it
+- 👥 **Follow me** on GitHub for updates and new projects
+- 🐦 **Share** this project with the Disney Lorcana community
+- 💬 **Provide feedback** through issues or discussions
 
-### Contributing
+## 🤖 AI Assistance Acknowledgment
 
-If you would like to contribute to the project, please read the [contributing guidelines](CONTRIBUTING.md) to learn how you can help. We appreciate all contributions, whether they are big or small.
+This project leverages AI assistance for code generation and documentation. All AI-generated content is carefully reviewed and edited to ensure quality, accuracy, and adherence to best practices.
 
-### Follow Me on Social Media
+## 📄 License
 
-- [**Bluesky**](https://bsky.app/profile/bert-cafecito.bsky.social)
-- [**Dev Community**](https://dev.to/bert-cafecito)
-- [**GitHub**](https://github.com/bert-cafecito)
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for complete details.
 
+---
 
-### Star the Repository
+<div align="center">
 
-If you find this project useful, please consider starring the repository on GitHub. Starring a repository helps increase its visibility and lets others know that the project is valuable. It also provides motivation and support to the maintainers to continue improving the project.
+### 🏰 Built with ❤️ for the Disney Lorcana community
 
-### Acknowledgements
+*Empowering data-driven insights in the magical world of Lorcana*
 
-I would like to mention the following codebases and projects that inspired this repository:
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/bertcafecito/disney-lorcana-datahub)
+[![Disney Lorcana](https://img.shields.io/badge/Disney-Lorcana-blue.svg)](https://www.disneylorcana.com/)
 
-- [**Data Hub Template**](https://github.com/bert-cafecito/data-hub-template): A template for creating centralized data repositories for various datasets.
+</div>
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
