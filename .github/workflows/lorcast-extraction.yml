@@ -33,8 +33,7 @@ jobs:
         
     - name: Run Lorcana data extraction
       run: |
-        cd scripts
-        python lorcana_data_extractor.py
+        python scripts/lorcana_data_extractor.py
         
     - name: Check for changes
       id: verify-changed-files
@@ -51,5 +50,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/
-        git commit -m "Update Lorcana data - $(date +'%Y-%m-%d %H:%M:%S')"
+        git commit -m "Update Lorcana data - $(date +'%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
         git push

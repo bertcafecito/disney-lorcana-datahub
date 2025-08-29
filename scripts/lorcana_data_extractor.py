@@ -13,7 +13,10 @@ class LorcanaExtractor:
         # Generate date-based directory structure
         if output_dir is None:
             current_date = datetime.now().strftime("%Y-%m-%d")
-            output_dir = os.path.join("data", "raw", "lorcast", current_date)
+            # Get the repository root (parent of scripts directory)
+            script_dir = os.path.dirname(os.path.abspath(__file__))
+            repo_root = os.path.dirname(script_dir)
+            output_dir = os.path.join(repo_root, "data", "raw", "lorcast", current_date)
         
         self.output_dir = output_dir
         self.sets_dir = os.path.join(output_dir)
