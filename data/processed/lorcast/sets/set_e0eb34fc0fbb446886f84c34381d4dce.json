@@ -1,0 +1,464 @@
+[
+  {
+    "id": "crd_01d7e6fed9f74da6910769c8b8780f17",
+    "name": "Dragon Fire",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "",
+        "normal": "",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_01d7e6fed9f74da6910769c8b8780f17.avif?1709690747"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": null,
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Banish chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Luis Huerta"
+    ],
+    "collector_number": "25",
+    "lang": "en",
+    "flavor_text": "Rare is the hero who can withstand a dragon's wrath.",
+    "tcgplayer_id": 544498,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {
+      "usd_foil": "33.23"
+    },
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_49923766da0445deab289bad2cde7662",
+    "name": "Let It Go",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "",
+        "normal": "",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_49923766da0445deab289bad2cde7662.avif?1709690747"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": null,
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 5 or more can {E} to sing this song for free.)\nPut chosen character into their player's inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Milica Celikovic"
+    ],
+    "collector_number": "41",
+    "lang": "en",
+    "flavor_text": "It's time to see what I can do\nto test the limits and break through",
+    "tcgplayer_id": 544501,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {
+      "usd_foil": "796.57"
+    },
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_5526a660684f4be1a1abdbd210e754b2",
+    "name": "Cinderella",
+    "version": "Stouthearted",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "",
+        "normal": "",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5526a660684f4be1a1abdbd210e754b2.avif?1709690747"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Princess",
+      "Knight"
+    ],
+    "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Cinderella.)\nResist +2 (Damage dealt to this character is reduced by 2.)\nTHE SINGING SWORD Whenever you play a song, this character may challenge ready characters this turn.",
+    "keywords": [
+      "Resist",
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "42",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 544502,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {
+      "usd": "171.99",
+      "usd_foil": "978.47"
+    },
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_ea580b2aaa374dff847750dee360b51b",
+    "name": "Rapunzel",
+    "version": "Gifted with Healing",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "",
+        "normal": "",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ea580b2aaa374dff847750dee360b51b.avif?1709909350"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": null,
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "GLEAM AND GLOW When you play this character, remove up to 3 damage from one of your characters. Draw a card for each 1 damage removed this way.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Grace Tran"
+    ],
+    "collector_number": "43",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 544503,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {
+      "usd": "178.36",
+      "usd_foil": "2687.54"
+    },
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_50f9f3e358124c8bbe7714840adb4a45",
+    "name": "Invited to the Ball",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_50f9f3e358124c8bbe7714840adb4a45.avif?1755565874",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_50f9f3e358124c8bbe7714840adb4a45.avif?1755565874",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_50f9f3e358124c8bbe7714840adb4a45.avif?1755565874"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Reveal the top 2 cards of your deck. Put revealed character cards into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Taraneh"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {},
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_30598adaf21345729b49247364480d30",
+    "name": "Elsa's Ice Palace",
+    "version": "Place of Solitude",
+    "layout": "landscape",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_30598adaf21345729b49247364480d30.avif?1755566828",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_30598adaf21345729b49247364480d30.avif?1755566828",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_30598adaf21345729b49247364480d30.avif?1755566828"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Location"
+    ],
+    "classifications": null,
+    "text": "ETERNAL WINTER When you play this location, choose an exerted character. While this location is in play, that character can't ready at the start of their turn.",
+    "keywords": [],
+    "move_cost": 1,
+    "strength": null,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Wietse Treurniet"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {},
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_0fadff61937844e19a88aa608af3392c",
+    "name": "Kuzco",
+    "version": "Temperamental Emperor",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0fadff61937844e19a88aa608af3392c.avif?1755566078",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0fadff61937844e19a88aa608af3392c.avif?1755566078",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0fadff61937844e19a88aa608af3392c.avif?1755566078"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "King"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)\nNO TOUCHY! When this character is challenged and banished, you may banish the challenging character.",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {},
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_361b2bbfc70b4eb5a934fc18f4653371",
+    "name": "Baymax",
+    "version": "Armored Companion",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_361b2bbfc70b4eb5a934fc18f4653371.avif?1755566144",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_361b2bbfc70b4eb5a934fc18f4653371.avif?1755566144",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_361b2bbfc70b4eb5a934fc18f4653371.avif?1755566144"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Robot"
+    ],
+    "text": "THE TREATMENT IS WORKING When you play this character and whenever he quests, you may remove up to 2 damage from another chosen character of yours. Gain 1 lore for each 1 damage removed this way.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Amber Kommavongsa"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {},
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  },
+  {
+    "id": "crd_94aea01bdb0a49a4aff52b8802388bb1",
+    "name": "A Whole New World",
+    "layout": "normal",
+    "released_at": "2024-05-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_94aea01bdb0a49a4aff52b8802388bb1.avif?1755566321",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_94aea01bdb0a49a4aff52b8802388bb1.avif?1755566321",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_94aea01bdb0a49a4aff52b8802388bb1.avif?1755566321"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 5 or more can {E} to sing this song for free.)\nEach player discards their hand and draws 7 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Ian MacDonald"
+    ],
+    "collector_number": "10",
+    "lang": "en",
+    "flavor_text": "Shining, shimmering, splendid...",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e0eb34fc0fbb446886f84c34381d4dce",
+      "code": "cp",
+      "name": "Challenge Promo"
+    },
+    "prices": {},
+    "created_at": "2025-05-11",
+    "updated_at": "2025-08-20"
+  }
+]

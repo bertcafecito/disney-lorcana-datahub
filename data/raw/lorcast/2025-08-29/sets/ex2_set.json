@@ -1,0 +1,40 @@
+[
+  {
+    "id": "crd_set_example2_001",
+    "name": "Example Card 1",
+    "version": "Test Version",
+    "cost": 3,
+    "ink": "Ruby",
+    "type": [
+      "Character"
+    ],
+    "set": {
+      "id": "set_example2",
+      "code": "EX2",
+      "name": "Example Set 2",
+      "released_at": "2025-02-01"
+    },
+    "prices": {
+      "usd": "1.00"
+    }
+  },
+  {
+    "id": "crd_set_example2_002",
+    "name": "Example Card 2",
+    "version": "Another Version",
+    "cost": 5,
+    "ink": "Sapphire",
+    "type": [
+      "Action"
+    ],
+    "set": {
+      "id": "set_example2",
+      "code": "EX2",
+      "name": "Example Set 2",
+      "released_at": "2025-02-01"
+    },
+    "prices": {
+      "usd": "0.50"
+    }
+  }
+]

@@ -1,0 +1,199 @@
+name: Process Lorcana Data
+
+on:
+  # Trigger manually
+  workflow_dispatch:
+    inputs:
+      force_reprocess:
+        description: 'Force reprocess all data (ignore processing history)'
+        required: false
+        default: 'false'
+        type: boolean
+  
+  # Trigger on push to main when raw data changes
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/raw/lorcast/**'
+  
+  # Trigger on pull request when raw data changes
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'data/raw/lorcast/**'
+
+jobs:
+  process-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        # Fetch full history for accurate change detection
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        # Add any required dependencies here if needed
+        # pip install -r requirements.txt
+    
+    - name: Check for raw data
+      id: check_data
+      run: |
+        if [ -d "data/raw/lorcast" ] && [ "$(find data/raw/lorcast -name '*.json' | wc -l)" -gt 0 ]; then
+          echo "has_data=true" >> $GITHUB_OUTPUT
+          echo "✅ Found raw Lorcana data to process"
+        else
+          echo "has_data=false" >> $GITHUB_OUTPUT
+          echo "⚠️ No raw Lorcana data found"
+        fi
+    
+    - name: Process Lorcana data
+      if: steps.check_data.outputs.has_data == 'true'
+      run: |
+        cd scripts
+        if [ "${{ github.event.inputs.force_reprocess }}" = "true" ]; then
+          echo "🔄 Force reprocessing all data..."
+          python lorcana_data_processor.py --force
+        else
+          echo "🔄 Processing new/changed data..."
+          python lorcana_data_processor.py
+        fi
+    
+    - name: Check processing results
+      if: steps.check_data.outputs.has_data == 'true'
+      run: |
+        echo "📊 Processing Results:"
+        echo "===================="
+        
+        if [ -f "data/processed/lorcast/sets.json" ]; then
+          sets_count=$(jq length data/processed/lorcast/sets.json)
+          echo "✅ Processed sets: $sets_count"
+        else
+          echo "❌ No processed sets.json found"
+        fi
+        
+        if [ -d "data/processed/lorcast/sets" ]; then
+          card_files=$(find data/processed/lorcast/sets -name "*.json" | wc -l)
+          echo "✅ Card files: $card_files"
+        else
+          echo "❌ No processed card files found"
+        fi
+        
+        if [ -f "data/processed/lorcast/card_changes.json" ]; then
+          changes_count=$(jq '[.[] | .changes | length] | add' data/processed/lorcast/card_changes.json)
+          tracked_cards=$(jq 'keys | length' data/processed/lorcast/card_changes.json)
+          echo "✅ Change tracking: $tracked_cards cards, $changes_count total changes"
+        else
+          echo "ℹ️ No change tracking data found"
+        fi
+        
+        if [ -f "scripts/processing_history.json" ]; then
+          processed_dates=$(jq 'keys | length' scripts/processing_history.json)
+          echo "✅ Processing history: $processed_dates dates processed"
+        else
+          echo "ℹ️ No processing history found"
+        fi
+    
+    - name: Commit and push processed data
+      if: steps.check_data.outputs.has_data == 'true'
+      run: |
+        # Configure git
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add processed files
+        git add data/processed/lorcast/
+        git add scripts/processing_history.json
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "ℹ️ No changes to commit"
+        else
+          # Create commit message with summary
+          echo "🔄 Process Lorcana data" > commit_msg.txt
+          echo "" >> commit_msg.txt
+          echo "Automated processing of Lorcana card data:" >> commit_msg.txt
+          
+          if [ -f "data/processed/lorcast/sets.json" ]; then
+            sets_count=$(jq length data/processed/lorcast/sets.json)
+            echo "- Processed $sets_count sets" >> commit_msg.txt
+          fi
+          
+          if [ -d "data/processed/lorcast/sets" ]; then
+            card_files=$(find data/processed/lorcast/sets -name "*.json" | wc -l)
+            echo "- Generated $card_files card files" >> commit_msg.txt
+          fi
+          
+          if [ -f "data/processed/lorcast/card_changes.json" ]; then
+            changes_count=$(jq '[.[] | .changes | length] | add' data/processed/lorcast/card_changes.json)
+            tracked_cards=$(jq 'keys | length' data/processed/lorcast/card_changes.json)
+            echo "- Tracked changes for $tracked_cards cards ($changes_count total changes)" >> commit_msg.txt
+          fi
+          
+          echo "" >> commit_msg.txt
+          echo "Triggered by: ${{ github.event_name }}" >> commit_msg.txt
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_reprocess }}" = "true" ]; then
+            echo "Mode: Force reprocess" >> commit_msg.txt
+          fi
+          
+          # Commit and push
+          git commit -F commit_msg.txt
+          git push
+          
+          echo "✅ Committed and pushed processed data"
+        fi
+    
+    - name: Upload processing artifacts
+      if: always() && steps.check_data.outputs.has_data == 'true'
+      uses: actions/upload-artifact@v3
+      with:
+        name: lorcana-processing-results
+        path: |
+          data/processed/lorcast/
+          scripts/processing_history.json
+        retention-days: 30
+    
+    - name: Summary
+      if: always()
+      run: |
+        echo "## 🃏 Lorcana Data Processing Summary" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ steps.check_data.outputs.has_data }}" = "true" ]; then
+          echo "✅ **Processing completed successfully**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          
+          if [ -f "data/processed/lorcast/sets.json" ]; then
+            sets_count=$(jq length data/processed/lorcast/sets.json)
+            echo "- **Sets processed:** $sets_count" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -d "data/processed/lorcast/sets" ]; then
+            card_files=$(find data/processed/lorcast/sets -name "*.json" | wc -l)
+            echo "- **Card files generated:** $card_files" >> $GITHUB_STEP_SUMMARY
+          fi
+          
+          if [ -f "data/processed/lorcast/card_changes.json" ]; then
+            changes_count=$(jq '[.[] | .changes | length] | add' data/processed/lorcast/card_changes.json)
+            tracked_cards=$(jq 'keys | length' data/processed/lorcast/card_changes.json)
+            echo "- **Change tracking:** $tracked_cards cards with $changes_count total changes" >> $GITHUB_STEP_SUMMARY
+          fi
+        else
+          echo "⚠️ **No raw data found to process**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Make sure raw Lorcana data exists in \`data/raw/lorcast/\`" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "**Trigger:** ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
+        if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ github.event.inputs.force_reprocess }}" = "true" ]; then
+          echo "**Mode:** Force reprocess (ignored processing history)" >> $GITHUB_STEP_SUMMARY
+        fi
