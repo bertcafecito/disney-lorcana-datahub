@@ -14,12 +14,8 @@
 ## 📋 Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Directory Structure](#directory-structure)
-- [Getting Started](#getting-started)
-- [Data Sources](#data-sources)
 - [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
 - [Support](#support)
 - [License](#license)
 
@@ -33,14 +29,6 @@ The **Disney Lorcana Data Hub** is a centralized repository designed for collect
 - 🔬 **Data Scientists** - Analyze card metadata, pricing patterns, and game mechanics
 - 🤖 **ML Practitioners** - Build predictive models and recommendation systems
 - 🎮 **Game Enthusiasts** - Discover insights into the Disney Lorcana universe
-
-## ✨ Features
-
-- 🗃️ **Structured Data Collection** - Organized JSON datasets with consistent schemas
-- 📅 **Historical Data Tracking** - Time-series data collection for trend analysis
-- 🔄 **Regular Updates** - Automated data collection and updates
-- 🧹 **Clean Data Pipeline** - Raw and processed data separation for better workflow
-- 📈 **Ready for Analysis** - Pre-structured data formats perfect for data science projects
 
 ## 📁 Directory Structure
 
