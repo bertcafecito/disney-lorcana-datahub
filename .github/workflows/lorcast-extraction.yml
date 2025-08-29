@@ -13,6 +13,9 @@ on:
       - 'scripts/lorcana_data_extractor.py'
       - '.github/workflows/lorcast-extraction.yml'
 
+permissions:
+  contents: write
+
 jobs:
   extract-lorcana-data:
     runs-on: ubuntu-latest
