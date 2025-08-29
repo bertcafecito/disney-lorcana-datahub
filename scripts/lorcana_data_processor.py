@@ -697,9 +697,26 @@ def main():
 
 
 if __name__ == "__main__":
-    # If no command line arguments, run in interactive mode
+    # If no command line arguments, run processor by default
     import sys
     if len(sys.argv) == 1:
+        # Check if we're in a non-interactive environment (like GitHub Actions)
+        try:
+            # Try to detect if stdin is available
+            if not sys.stdin.isatty():
+                # Non-interactive environment, run processor directly
+                print("🎯 Running Lorcana Data Processor (non-interactive mode)")
+                processor = LorcanaDataProcessor()
+                processor.run()
+                sys.exit(0)
+        except:
+            # If we can't determine, assume non-interactive
+            print("🎯 Running Lorcana Data Processor (non-interactive mode)")
+            processor = LorcanaDataProcessor()
+            processor.run()
+            sys.exit(0)
+        
+        # Interactive mode
         print("🎯 Lorcana Data Processor")
         print("=" * 30)
         print("1. Process data (incremental)")
