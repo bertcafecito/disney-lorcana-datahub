@@ -47,12 +47,19 @@ jobs:
     - name: Check for raw data
       id: check_data
       run: |
-        if [ -d "data/raw/lorcast" ] && [ "$(find data/raw/lorcast -name '*.json' | wc -l)" -gt 0 ]; then
+        if [ -d "data/raw/lorcast" ] && [ "$(find data/raw/lorcast -name '*.json' 2>/dev/null | wc -l)" -gt 0 ]; then
           echo "has_data=true" >> $GITHUB_OUTPUT
           echo "✅ Found raw Lorcana data to process"
+          echo "📊 Data directory contents:"
+          find data/raw/lorcast -name "*.json" | head -10
         else
           echo "has_data=false" >> $GITHUB_OUTPUT
           echo "⚠️ No raw Lorcana data found"
+          if [ ! -d "data/raw/lorcast" ]; then
+            echo "   Directory data/raw/lorcast does not exist"
+          else
+            echo "   Directory exists but contains no JSON files"
+          fi
         fi
     
     - name: Process Lorcana data
@@ -67,8 +74,16 @@ jobs:
           python lorcana_data_processor.py
         fi
     
+    - name: Process empty data (create structure)
+      if: steps.check_data.outputs.has_data == 'false'
+      run: |
+        echo "🏗️ Creating empty processed data structure..."
+        cd scripts
+        python lorcana_data_processor.py
+        echo "✅ Empty data structure created"
+    
     - name: Check processing results
-      if: steps.check_data.outputs.has_data == 'true'
+      if: always()
       run: |
         echo "📊 Processing Results:"
         echo "===================="
@@ -77,18 +92,18 @@ jobs:
           sets_count=$(jq length data/processed/lorcast/sets.json)
           echo "✅ Processed sets: $sets_count"
         else
-          echo "❌ No processed sets.json found"
+          echo "ℹ️ No processed sets.json found"
         fi
         
         if [ -d "data/processed/lorcast/sets" ]; then
-          card_files=$(find data/processed/lorcast/sets -name "*.json" | wc -l)
+          card_files=$(find data/processed/lorcast/sets -name "*.json" 2>/dev/null | wc -l)
           echo "✅ Card files: $card_files"
         else
-          echo "❌ No processed card files found"
+          echo "ℹ️ No processed card files found"
         fi
         
         if [ -f "data/processed/lorcast/card_changes.json" ]; then
-          changes_count=$(jq '[.[] | .changes | length] | add' data/processed/lorcast/card_changes.json)
+          changes_count=$(jq '[.[] | .changes | length] | add // 0' data/processed/lorcast/card_changes.json)
           tracked_cards=$(jq 'keys | length' data/processed/lorcast/card_changes.json)
           echo "✅ Change tracking: $tracked_cards cards, $changes_count total changes"
         else
@@ -103,15 +118,16 @@ jobs:
         fi
     
     - name: Commit and push processed data
-      if: steps.check_data.outputs.has_data == 'true'
+      if: always()
       run: |
         # Configure git
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Add processed files
+        # Add processed files (create directories if they don't exist)
+        mkdir -p data/processed/lorcast/sets
         git add data/processed/lorcast/
-        git add scripts/processing_history.json
+        git add scripts/processing_history.json 2>/dev/null || echo "No processing history to add"
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
@@ -120,7 +136,12 @@ jobs:
           # Create commit message with summary
           echo "🔄 Process Lorcana data" > commit_msg.txt
           echo "" >> commit_msg.txt
-          echo "Automated processing of Lorcana card data:" >> commit_msg.txt
+          
+          if [ "${{ steps.check_data.outputs.has_data }}" = "true" ]; then
+            echo "Automated processing of Lorcana card data:" >> commit_msg.txt
+          else
+            echo "Automated processing (no raw data found):" >> commit_msg.txt
+          fi
           
           if [ -f "data/processed/lorcast/sets.json" ]; then
             sets_count=$(jq length data/processed/lorcast/sets.json)
@@ -128,12 +149,12 @@ jobs:
           fi
           
           if [ -d "data/processed/lorcast/sets" ]; then
-            card_files=$(find data/processed/lorcast/sets -name "*.json" | wc -l)
+            card_files=$(find data/processed/lorcast/sets -name "*.json" 2>/dev/null | wc -l)
             echo "- Generated $card_files card files" >> commit_msg.txt
           fi
           
           if [ -f "data/processed/lorcast/card_changes.json" ]; then
-            changes_count=$(jq '[.[] | .changes | length] | add' data/processed/lorcast/card_changes.json)
+            changes_count=$(jq '[.[] | .changes | length] | add // 0' data/processed/lorcast/card_changes.json)
             tracked_cards=$(jq 'keys | length' data/processed/lorcast/card_changes.json)
             echo "- Tracked changes for $tracked_cards cards ($changes_count total changes)" >> commit_msg.txt
           fi
@@ -152,7 +173,7 @@ jobs:
         fi
     
     - name: Upload processing artifacts
-      if: always() && steps.check_data.outputs.has_data == 'true'
+      if: always()
       uses: actions/upload-artifact@v4
       with:
         name: lorcana-processing-results
@@ -177,17 +198,20 @@ jobs:
           fi
           
           if [ -d "data/processed/lorcast/sets" ]; then
-            card_files=$(find data/processed/lorcast/sets -name "*.json" | wc -l)
+            card_files=$(find data/processed/lorcast/sets -name "*.json" 2>/dev/null | wc -l)
             echo "- **Card files generated:** $card_files" >> $GITHUB_STEP_SUMMARY
           fi
           
           if [ -f "data/processed/lorcast/card_changes.json" ]; then
-            changes_count=$(jq '[.[] | .changes | length] | add' data/processed/lorcast/card_changes.json)
+            changes_count=$(jq '[.[] | .changes | length] | add // 0' data/processed/lorcast/card_changes.json)
             tracked_cards=$(jq 'keys | length' data/processed/lorcast/card_changes.json)
             echo "- **Change tracking:** $tracked_cards cards with $changes_count total changes" >> $GITHUB_STEP_SUMMARY
           fi
         else
           echo "⚠️ **No raw data found to process**" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- Created empty processed data structure" >> $GITHUB_STEP_SUMMARY
+          echo "- Ready for future data processing" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "Make sure raw Lorcana data exists in \`data/raw/lorcast/\`" >> $GITHUB_STEP_SUMMARY
         fi

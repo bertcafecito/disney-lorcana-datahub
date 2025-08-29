@@ -194,10 +194,21 @@ class LorcanaDataProcessor:
         """Process all sets.json files and consolidate metadata"""
         print("📚 Step 1: Processing sets metadata...")
         
+        # Check if input directory exists
+        if not self.input_dir.exists():
+            print(f"⚠️ Input directory does not exist: {self.input_dir}")
+            print("   Creating empty processed data structure...")
+            return {}
+        
         # Load existing processed sets data
         sets_data = self.load_existing_sets_data()
         
-        date_dirs = sorted([d for d in self.input_dir.iterdir() if d.is_dir()])
+        try:
+            date_dirs = sorted([d for d in self.input_dir.iterdir() if d.is_dir()])
+        except (FileNotFoundError, OSError) as e:
+            print(f"⚠️ Cannot access input directory: {e}")
+            print("   Creating empty processed data structure...")
+            return {}
         processed_count = 0
         skipped_count = 0
         
@@ -300,10 +311,21 @@ class LorcanaDataProcessor:
         """Process all card files and consolidate data"""
         print("🃏 Step 2: Processing card data...")
         
+        # Check if input directory exists
+        if not self.input_dir.exists():
+            print(f"⚠️ Input directory does not exist: {self.input_dir}")
+            print("   Creating empty processed data structure...")
+            return {}
+        
         # Load existing processed cards data
         cards_data = self.load_existing_cards_data()
         
-        date_dirs = sorted([d for d in self.input_dir.iterdir() if d.is_dir()])
+        try:
+            date_dirs = sorted([d for d in self.input_dir.iterdir() if d.is_dir()])
+        except (FileNotFoundError, OSError) as e:
+            print(f"⚠️ Cannot access input directory: {e}")
+            print("   Creating empty processed data structure...")
+            return {}
         processed_count = 0
         skipped_count = 0
         
