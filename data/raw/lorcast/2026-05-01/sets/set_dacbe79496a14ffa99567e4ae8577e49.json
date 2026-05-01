@@ -1,0 +1,779 @@
+[
+  {
+    "id": "crd_6fdc49b664264148aab790e83e3466a7",
+    "name": "Pegasus",
+    "version": "Gift for Hercules",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6fdc49b664264148aab790e83e3466a7.avif?1776533209",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6fdc49b664264148aab790e83e3466a7.avif?1776533209",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6fdc49b664264148aab790e83e3466a7.avif?1776533209"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kenneth Anderson"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": "\"His name is Pegasus. And he's all yours. . . .\"\n- Zeus",
+    "tcgplayer_id": 655961,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd": "44.05",
+      "usd_foil": "56.9"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/655961"
+    }
+  },
+  {
+    "id": "crd_eecd3c671cd84d7d8a3700c687e1e362",
+    "name": "Elsa",
+    "version": "Ice Maker",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_eecd3c671cd84d7d8a3700c687e1e362.avif?1776533217",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_eecd3c671cd84d7d8a3700c687e1e362.avif?1776533217",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_eecd3c671cd84d7d8a3700c687e1e362.avif?1776533217"
+      }
+    },
+    "cost": 7,
+    "inkwell": false,
+    "ink": null,
+    "inks": [
+      "Amethyst",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Elsa.)\nWINTER WALL Whenever this character quests, you may exert chosen character. If you do and you have a character named Anna in play, the chosen character can’t ready at the start of their next turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 672472,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd_foil": "2000"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/672472"
+    }
+  },
+  {
+    "id": "crd_6b9217913aae4b99b17abc19fccb1a62",
+    "name": "Mulan",
+    "version": "Charging Ahead",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6b9217913aae4b99b17abc19fccb1a62.avif?1776533223",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6b9217913aae4b99b17abc19fccb1a62.avif?1776533223",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6b9217913aae4b99b17abc19fccb1a62.avif?1776533223"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": null,
+    "inks": [
+      "Ruby",
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Reckless (This character can’t quest and must challenge each turn if able.)\nBURST OF SPEED During your turn, this character gains Evasive. (They can challenge characters with Evasive.)\nLONG RANGE This character can challenge ready characters.",
+    "keywords": [
+      "Reckless"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Ladyschalin"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 655960,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd_foil": "50.55"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/655960"
+    }
+  },
+  {
+    "id": "crd_57f0cec68b0a49d7879d72637f8cb9e5",
+    "name": "Simba",
+    "version": "Pride Protector",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_57f0cec68b0a49d7879d72637f8cb9e5.avif?1776533247",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_57f0cec68b0a49d7879d72637f8cb9e5.avif?1776533247",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_57f0cec68b0a49d7879d72637f8cb9e5.avif?1776533247"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Simba.)\nUNDERSTAND THE BALANCE At the end of your turn, if this character is exerted, you may ready your other characters.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jeanne Mounevez"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_6da933a64900487e99028f2a59b09754",
+    "name": "Pegasus",
+    "version": "Gift for Hercules",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6da933a64900487e99028f2a59b09754.avif?1776533253",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6da933a64900487e99028f2a59b09754.avif?1776533253",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6da933a64900487e99028f2a59b09754.avif?1776533253"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kenneth Anderson"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": "\"His name is Pegasus. And he's all yours. . . .\"\n–Zeus",
+    "tcgplayer_id": 686340,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd": "49"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/686340"
+    }
+  },
+  {
+    "id": "crd_be9f1031cbc84de7a5a4a388a036857a",
+    "name": "Elsa",
+    "version": "Ice Maker",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_be9f1031cbc84de7a5a4a388a036857a.avif?1776533258",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_be9f1031cbc84de7a5a4a388a036857a.avif?1776533258",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_be9f1031cbc84de7a5a4a388a036857a.avif?1776533258"
+      }
+    },
+    "cost": 7,
+    "inkwell": false,
+    "ink": null,
+    "inks": [
+      "Amethyst",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Elsa.)\nWINTER WALL Whenever this character quests, you may exert chosen character. If you do and you have a character named Anna in play, the chosen character can't ready at the start of their next turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 655962,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd": "66.25"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/655962"
+    }
+  },
+  {
+    "id": "crd_47c0a77fd61a4c98a3d2e4608bcbc844",
+    "name": "Mulan",
+    "version": "Charging Ahead",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_47c0a77fd61a4c98a3d2e4608bcbc844.avif?1776533265",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_47c0a77fd61a4c98a3d2e4608bcbc844.avif?1776533265",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_47c0a77fd61a4c98a3d2e4608bcbc844.avif?1776533265"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": null,
+    "inks": [
+      "Ruby",
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Reckless (This character can’t quest and must challenge each turn if able.)\nBURST OF SPEED During your turn, this character gains Evasive. (They can challenge characters with Evasive.)\nLONG RANGE This character can challenge ready characters.",
+    "keywords": [
+      "Reckless"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "LadyShalirin"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 672467,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd": "45.11"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/672467"
+    }
+  },
+  {
+    "id": "crd_1cf3dd6de9ac4bc6b0a1ef39f7e6085f",
+    "name": "Simba",
+    "version": "Pride Protector",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1cf3dd6de9ac4bc6b0a1ef39f7e6085f.avif?1776533270",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1cf3dd6de9ac4bc6b0a1ef39f7e6085f.avif?1776533270",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1cf3dd6de9ac4bc6b0a1ef39f7e6085f.avif?1776533270"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Simba.)\nUNDERSTAND THE BALANCE At the end of your turn, if this character is exerted, you may ready your other characters.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jeanne Plounevez"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 655963,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd": "68.72",
+      "usd_foil": "760.19"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/655963"
+    }
+  },
+  {
+    "id": "crd_f54b0e3b38d340ffa793953c49e6cb56",
+    "name": "Dragon Fire",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f54b0e3b38d340ffa793953c49e6cb56.avif?1776533276",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f54b0e3b38d340ffa793953c49e6cb56.avif?1776533276",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f54b0e3b38d340ffa793953c49e6cb56.avif?1776533276"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Banish chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Luis Huerta"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "Rare is the hero who can withstand a dragon's wrath.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_bd1327a61be84346b595f07ccf1df0e6",
+    "name": "Let It Go",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bd1327a61be84346b595f07ccf1df0e6.avif?1776533283",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bd1327a61be84346b595f07ccf1df0e6.avif?1776533283",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bd1327a61be84346b595f07ccf1df0e6.avif?1776533283"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 5 or more can {E} to sing this song for free.)\nPut chosen character into their player's inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Milica Celikovic"
+    ],
+    "collector_number": "10",
+    "lang": "en",
+    "flavor_text": "It's time to see what I can do\nTo test the limits and break through",
+    "tcgplayer_id": 672385,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {
+      "usd": "102.49"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/672385"
+    }
+  },
+  {
+    "id": "crd_d0049d68c901455c94c76afdd99a2745",
+    "name": "Stand Out",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d0049d68c901455c94c76afdd99a2745.avif?1776533289",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d0049d68c901455c94c76afdd99a2745.avif?1776533289",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d0049d68c901455c94c76afdd99a2745.avif?1776533289"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nChosen character gets +3 {S} and gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "15",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3334bebad6e7424c80c2b8c0e157f654",
+    "name": "Down In New Orleans",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3334bebad6e7424c80c2b8c0e157f654.avif?1776533296",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3334bebad6e7424c80c2b8c0e157f654.avif?1776533296",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3334bebad6e7424c80c2b8c0e157f654.avif?1776533296"
+      }
+    },
+    "cost": 6,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 6 or more can {E} to sing this song for free.)\nLook at the top 3 cards of your deck. You may reveal a character, item, or location card with cost 6 or less and play it for free. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Grace Tran"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f64c2b670af947f8bca5f1ce7a5a88d9",
+    "name": "The Headless Horseman",
+    "version": "Cursed Rider",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f64c2b670af947f8bca5f1ce7a5a88d9.avif?1776533301",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f64c2b670af947f8bca5f1ce7a5a88d9.avif?1776533301",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f64c2b670af947f8bca5f1ce7a5a88d9.avif?1776533301"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Villain"
+    ],
+    "text": "Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters named The Headless Horseman.)\nWITCHING HOUR When you play this character, each player draws 3 cards, then discards 3 cards at random. Choose an opposing character and deal 2 damage to them for each action card discarded this way.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 7,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jared Mathews"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f49776538d7247e998024421be5f5a18",
+    "name": "Tinker Bell",
+    "version": "Insistent Fairy",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f49776538d7247e998024421be5f5a18.avif?1776533307",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f49776538d7247e998024421be5f5a18.avif?1776533307",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f49776538d7247e998024421be5f5a18.avif?1776533307"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Fairy"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nPAY ATTENTION Whenever you play a character with 5 {S} or more, you may exert them to gain 2 lore.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_dacbe79496a14ffa99567e4ae8577e49",
+      "code": "C2",
+      "name": "Lorcana Challenge Year 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]

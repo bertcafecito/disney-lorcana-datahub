@@ -1,0 +1,2674 @@
+[
+  {
+    "id": "crd_12b839a499554620be033f62efd21dd1",
+    "name": "Dumbo",
+    "version": "The Flying Elephant",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_12b839a499554620be033f62efd21dd1.avif?1773508691",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_12b839a499554620be033f62efd21dd1.avif?1773508691",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_12b839a499554620be033f62efd21dd1.avif?1773508691"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nAERIAL DUO When you play this character, chosen character gains Evasive until the start of your next turn.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Sandara Tang"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650177,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "49.86"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650177"
+    }
+  },
+  {
+    "id": "crd_b1c9fb0718d647ab86e96b9b863a1d64",
+    "name": "Alice",
+    "version": "Accidentally Adrift",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b1c9fb0718d647ab86e96b9b863a1d64.avif?1773508701",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b1c9fb0718d647ab86e96b9b863a1d64.avif?1773508701",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b1c9fb0718d647ab86e96b9b863a1d64.avif?1773508701"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "WASHED AWAY When you play this character, you may put chosen item into its player's inkwell facedown and exerted.\nMAKING WAVES Whenever this character quests, chosen opposing character gets -2 {S} this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Ellie Horie"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 648450,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.69"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/648450"
+    }
+  },
+  {
+    "id": "crd_e1e04f6d898b4b4c9cbda6adf5c742b8",
+    "name": "The Queen",
+    "version": "Conceited Ruler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e1e04f6d898b4b4c9cbda6adf5c742b8.avif?1773508707",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e1e04f6d898b4b4c9cbda6adf5c742b8.avif?1773508707",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e1e04f6d898b4b4c9cbda6adf5c742b8.avif?1773508707"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nROYAL SUMMONS At the start of your turn, you may choose and discard a Princess or Queen character card to return a character card from your discard to your hand.",
+    "keywords": [
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Eri Welli"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 648456,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.34"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/648456"
+    }
+  },
+  {
+    "id": "crd_a79483514b7249cbb16c12a9ef1d065d",
+    "name": "Maleficent",
+    "version": "Monstrous Dragon",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a79483514b7249cbb16c12a9ef1d065d.avif?1773508713",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a79483514b7249cbb16c12a9ef1d065d.avif?1773508713",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a79483514b7249cbb16c12a9ef1d065d.avif?1773508713"
+      }
+    },
+    "cost": 9,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Dragon"
+    ],
+    "text": "DRAGON FIRE When you play this character, you may banish chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 7,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Cristian Romero"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": "The ninth Rule of Villainy: When all else fails, turn into a dragon.",
+    "tcgplayer_id": 650179,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd": "0.77"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650179"
+    }
+  },
+  {
+    "id": "crd_d0844776beac4b5e839cff0cb9c31c14",
+    "name": "Maleficent",
+    "version": "Monstrous Dragon",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d0844776beac4b5e839cff0cb9c31c14.avif?1773508719",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d0844776beac4b5e839cff0cb9c31c14.avif?1773508719",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d0844776beac4b5e839cff0cb9c31c14.avif?1773508719"
+      }
+    },
+    "cost": 9,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Dragon"
+    ],
+    "text": "DRAGON FIRE When you play this character, you may banish chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 7,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Cristian Romero"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650187,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "49.91"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650187"
+    }
+  },
+  {
+    "id": "crd_b16f35fcfe884bc4b442745f49c0b811",
+    "name": "Elsa",
+    "version": "The Fifth Spirit",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b16f35fcfe884bc4b442745f49c0b811.avif?1773509303",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b16f35fcfe884bc4b442745f49c0b811.avif?1773509303",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b16f35fcfe884bc4b442745f49c0b811.avif?1773509303"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)\nEvasive (Only characters with Evasive can challenge this character.)\nCRYSTALLIZE When you play this character, exert chosen opposing character.",
+    "keywords": [
+      "Evasive",
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "LadyShalirin"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650189,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "4.32"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650189"
+    }
+  },
+  {
+    "id": "crd_35060994174f4b25aa2bb6e99c05ca1e",
+    "name": "Cursed Merfolk",
+    "version": "Ursula's Handiwork",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_35060994174f4b25aa2bb6e99c05ca1e.avif?1773509304",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_35060994174f4b25aa2bb6e99c05ca1e.avif?1773509304",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_35060994174f4b25aa2bb6e99c05ca1e.avif?1773509304"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "POOR SOULS Whenever this character is challenged, each opponent chooses and discards a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 1,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Massimiliano Narciso / Marieke Ferrari"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": "\"Now it's happened once or twice, someone couldn't pay the price...\"\n—Ursula",
+    "tcgplayer_id": 650192,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.77"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650192"
+    }
+  },
+  {
+    "id": "crd_3036fc62622b43fda13f6021ab5401a5",
+    "name": "Strength of a Raging Fire",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3036fc62622b43fda13f6021ab5401a5.avif?1773508732",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3036fc62622b43fda13f6021ab5401a5.avif?1773508732",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3036fc62622b43fda13f6021ab5401a5.avif?1773508732"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {E} to sing this song for free.)\nDeal damage to chosen character equal to the number of characters you have in play.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jared Nickerl / Alex Accorsi"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": "Tranquil as a forest\nBut on fire within",
+    "tcgplayer_id": 650195,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "2.58"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650195"
+    }
+  },
+  {
+    "id": "crd_a83a5da99ba24518860ad7da3dbe1d02",
+    "name": "Sisu",
+    "version": "Daring Visitor",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a83a5da99ba24518860ad7da3dbe1d02.avif?1773508738",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a83a5da99ba24518860ad7da3dbe1d02.avif?1773508738",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a83a5da99ba24518860ad7da3dbe1d02.avif?1773508738"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Deity",
+      "Dragon"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nBRING ON THE HEAT! When you play this character, banish chosen opposing character with 1 {S} or less.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Otto Paredes"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "\"Come on—what's the worst that can happen?\"",
+    "tcgplayer_id": 650196,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.46"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650196"
+    }
+  },
+  {
+    "id": "crd_407481b12c5a4448a9c837d024bfbb55",
+    "name": "Mickey Mouse",
+    "version": "True Friend",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_407481b12c5a4448a9c837d024bfbb55.avif?1773508744",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_407481b12c5a4448a9c837d024bfbb55.avif?1773508744",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_407481b12c5a4448a9c837d024bfbb55.avif?1773508744"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": null,
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Dave Beauchene"
+    ],
+    "collector_number": "10",
+    "lang": "en",
+    "flavor_text": "As long as he's around, newcomers to the Great\nIlluminariy will always get a warm welcome.",
+    "tcgplayer_id": 650207,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "870"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650207"
+    }
+  },
+  {
+    "id": "crd_895798f185da459bab814e8d6241da52",
+    "name": "Tinker Bell",
+    "version": "Giant Fairy",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_895798f185da459bab814e8d6241da52.avif?1773508749",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_895798f185da459bab814e8d6241da52.avif?1773508749",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_895798f185da459bab814e8d6241da52.avif?1773508749"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Ally",
+      "Fairy"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Tinker Bell.)\nROCK THE BOAT When you play this character, deal 1 damage to each opposing character.\nPUN PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Cookie"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650204,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "3.47"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650204"
+    }
+  },
+  {
+    "id": "crd_5f8477e82274478083db60897d3516f5",
+    "name": "The Queen",
+    "version": "Mirror Seeker",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5f8477e82274478083db60897d3516f5.avif?1773508755",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5f8477e82274478083db60897d3516f5.avif?1773508755",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5f8477e82274478083db60897d3516f5.avif?1773508755"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "CALCULATING AND VAIN Whenever this character quests, you may look at the top 3 cards of your deck and put them back in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jennifer Gheduzzi / Livio Cacciatore"
+    ],
+    "collector_number": "12",
+    "lang": "en",
+    "flavor_text": "She has only one question, and she'd better like the answer.",
+    "tcgplayer_id": 662005,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "4.86"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/662005"
+    }
+  },
+  {
+    "id": "crd_8fed60626775467d90a99dbb2a5d881b",
+    "name": "Mickey Mouse",
+    "version": "Pirate Captain",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_8fed60626775467d90a99dbb2a5d881b.avif?1773508762",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_8fed60626775467d90a99dbb2a5d881b.avif?1773508762",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_8fed60626775467d90a99dbb2a5d881b.avif?1773508762"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Pirate",
+      "Captain"
+    ],
+    "text": "Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Mickey Mouse.)\nMARINER'S MIGHT Whenever this character quests, chosen Pirate character gets +2 {S} and gains \"This character takes no damage from challenges\" this turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "13",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650208,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "45.13"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650208"
+    }
+  },
+  {
+    "id": "crd_45321c3501974bd39455f3cc7346f535",
+    "name": "Goofy",
+    "version": "Expert Shipwright",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_45321c3501974bd39455f3cc7346f535.avif?1773508768",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_45321c3501974bd39455f3cc7346f535.avif?1773508768",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_45321c3501974bd39455f3cc7346f535.avif?1773508768"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)\nCLEVER DESIGN Whenever this character quests, chosen character gains Ward until the start of your next turn.",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Max Ulichney"
+    ],
+    "collector_number": "14",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 650209,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "201.17"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650209"
+    }
+  },
+  {
+    "id": "crd_48f207edc9374126bd3ac01d43cbc2b8",
+    "name": "Donald Duck",
+    "version": "Buccaneer",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_48f207edc9374126bd3ac01d43cbc2b8.avif?1773508774",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_48f207edc9374126bd3ac01d43cbc2b8.avif?1773508774",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_48f207edc9374126bd3ac01d43cbc2b8.avif?1773508774"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Pirate",
+      "Captain"
+    ],
+    "text": "BOARDING PARTY During your turn, whenever this character banishes another character in a challenge, your other characters get +1 {L} this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Federico M. Cugliari"
+    ],
+    "collector_number": "15",
+    "lang": "en",
+    "flavor_text": "Nobody stands a chance against the daring duck of the high seas!",
+    "tcgplayer_id": 650211,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "72.8"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650211"
+    }
+  },
+  {
+    "id": "crd_7e220169e537453cbda6b634acf7af4d",
+    "name": "Daisy Duck",
+    "version": "Pirate Captain",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7e220169e537453cbda6b634acf7af4d.avif?1773508781",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7e220169e537453cbda6b634acf7af4d.avif?1773508781",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7e220169e537453cbda6b634acf7af4d.avif?1773508781"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Pirate",
+      "Captain"
+    ],
+    "text": "DISTANT SHORES Whenever one of your Pirate characters quests while at a location, draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jochem van Gool"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": "\"The answers we're looking for are on the other side of that maze, I just know it!\"",
+    "tcgplayer_id": 650213,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "74.63"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650213"
+    }
+  },
+  {
+    "id": "crd_bbd9d2a6b1194759b18eb6e58a3c3d3e",
+    "name": "Minnie Mouse",
+    "version": "Pirate Lookout",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bbd9d2a6b1194759b18eb6e58a3c3d3e.avif?1773508786",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bbd9d2a6b1194759b18eb6e58a3c3d3e.avif?1773508786",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bbd9d2a6b1194759b18eb6e58a3c3d3e.avif?1773508786"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Pirate"
+    ],
+    "text": "LAND, HO! Once during your turn, whenever a card is put into your inkwell, you may return a location card from your discard to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": "Minnie leaned forward. Could it be true? Was this the island at last?",
+    "tcgplayer_id": 650215,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "327.36"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/650215"
+    }
+  },
+  {
+    "id": "crd_0f0a7394cf61476f96019519408f113f",
+    "name": "Zeus",
+    "version": "Missing His Spark",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0f0a7394cf61476f96019519408f113f.avif?1773508792",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0f0a7394cf61476f96019519408f113f.avif?1773508792",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0f0a7394cf61476f96019519408f113f.avif?1773508792"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "King",
+      "Deity",
+      "Whisper"
+    ],
+    "text": "Boost 2 {I} (Once during your turn, you may pay 2 {I} to put the top card of your deck facedown under this character.)\nI NEED MORE THUNDERBOLTS! While there’s a card under this character, he gets +2 {S} and +2 {W}.",
+    "keywords": [
+      "Boost"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Otto Paredes"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 661799,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.57"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/661799"
+    }
+  },
+  {
+    "id": "crd_89f06111fbb14f8d9dc9e19168c30631",
+    "name": "The Great Illuminary",
+    "version": "Abandoned Laboratory",
+    "layout": "landscape",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_89f06111fbb14f8d9dc9e19168c30631.avif?1773508797",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_89f06111fbb14f8d9dc9e19168c30631.avif?1773508797",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_89f06111fbb14f8d9dc9e19168c30631.avif?1773508797"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Location"
+    ],
+    "classifications": null,
+    "text": "STARTLING DISCOVERY Characters gain \" — Draw a card\" while here.",
+    "keywords": [],
+    "move_cost": 1,
+    "strength": null,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Priya Kakati"
+    ],
+    "collector_number": "19",
+    "lang": "en",
+    "flavor_text": "Remember, we're looking for clues to who tore up the lorebook pages. —Elisa Maza",
+    "tcgplayer_id": 661798,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.5"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/661798"
+    }
+  },
+  {
+    "id": "crd_bee6f97742e542d2b3d1beed86b61049",
+    "name": "The Horseman Strikes!",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bee6f97742e542d2b3d1beed86b61049.avif?1773508802",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bee6f97742e542d2b3d1beed86b61049.avif?1773508802",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bee6f97742e542d2b3d1beed86b61049.avif?1773508802"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Draw a card. You may banish chosen character with Evasive.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jaime Puga"
+    ],
+    "collector_number": "20",
+    "lang": "en",
+    "flavor_text": "Just when you thought you'd escaped...",
+    "tcgplayer_id": 662893,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.77"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/662893"
+    }
+  },
+  {
+    "id": "crd_b01f04a5debe45f7b1796f0deeabd427",
+    "name": "Scar",
+    "version": "Eerily Prepared",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b01f04a5debe45f7b1796f0deeabd427.avif?1773508808",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b01f04a5debe45f7b1796f0deeabd427.avif?1773508808",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b01f04a5debe45f7b1796f0deeabd427.avif?1773508808"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Whisper"
+    ],
+    "text": "Boost 2 {I} (Once during your turn, you may pay 2 {I} to put the top card of your deck facedown under this character.)\nSURVIVAL OF THE FITTEST Whenever you put a card under this character, chosen opposing character gets -5 {S} this turn.",
+    "keywords": [
+      "Boost"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Lisanne Koeteeuw"
+    ],
+    "collector_number": "21",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 661797,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "1.09"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/661797"
+    }
+  },
+  {
+    "id": "crd_309a0e71b66c4ba492590374f92d9598",
+    "name": "Elsa",
+    "version": "Exploring the Unknown",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_309a0e71b66c4ba492590374f92d9598.avif?1773508813",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_309a0e71b66c4ba492590374f92d9598.avif?1773508813",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_309a0e71b66c4ba492590374f92d9598.avif?1773508813"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "CLOSER LOOK When you play this character, you may draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Clio Wolfensberger"
+    ],
+    "collector_number": "22",
+    "lang": "en",
+    "flavor_text": "\"This world still has secrets to uncover.\"",
+    "tcgplayer_id": 661795,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.79"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/661795"
+    }
+  },
+  {
+    "id": "crd_816875e5e3f54de7bd57f8a94ed6718e",
+    "name": "Daisy Duck",
+    "version": "Paranormal Investigator",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_816875e5e3f54de7bd57f8a94ed6718e.avif?1773508819",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_816875e5e3f54de7bd57f8a94ed6718e.avif?1773508819",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_816875e5e3f54de7bd57f8a94ed6718e.avif?1773508819"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Daisy Duck.)\nSupport (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nSTRANGE HAPPENINGS While this character is exerted, cards enter opponents' inkwells exerted.",
+    "keywords": [
+      "Shift",
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Sam Nielson"
+    ],
+    "collector_number": "23",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 661794,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd": "0.85"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/661794"
+    }
+  },
+  {
+    "id": "crd_aaf4390b4e564f7181f334acb04b63d6",
+    "name": "Daisy Duck",
+    "version": "Paranormal Investigator",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_aaf4390b4e564f7181f334acb04b63d6.avif?1773508824",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_aaf4390b4e564f7181f334acb04b63d6.avif?1773508824",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_aaf4390b4e564f7181f334acb04b63d6.avif?1773508824"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Daisy Duck.)\nSupport (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nSTRANGE HAPPENINGS While this character is exerted, cards enter opponents' inkwells exerted.",
+    "keywords": [
+      "Shift",
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Sam Nielson"
+    ],
+    "collector_number": "24",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 662883,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "20.01"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/662883"
+    }
+  },
+  {
+    "id": "crd_feda80eba5264f44b483cb6b52fafb47",
+    "name": "Goofy",
+    "version": "Emerald Champion",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_feda80eba5264f44b483cb6b52fafb47.avif?1773508831",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_feda80eba5264f44b483cb6b52fafb47.avif?1773508831",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_feda80eba5264f44b483cb6b52fafb47.avif?1773508831"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "EVEN THE SCORE Whenever one of your other Emerald characters is challenged and banished, banish the challenging character.\nPROVIDE COVER Your other Emerald characters gain Ward. (Opponents can’t choose them except to challenge.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Lisa Parfenova"
+    ],
+    "collector_number": "25",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 648264,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "7.09"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/648264"
+    }
+  },
+  {
+    "id": "crd_5aabca3fd6de4f3d9f7dcd53dd091739",
+    "name": "Jasmine",
+    "version": "Soothing Princess",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5aabca3fd6de4f3d9f7dcd53dd091739.avif?1773508836",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5aabca3fd6de4f3d9f7dcd53dd091739.avif?1773508836",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5aabca3fd6de4f3d9f7dcd53dd091739.avif?1773508836"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess",
+      "Whisper"
+    ],
+    "text": "Boost 2 {I} (Once during your turn, you may pay 2 {I} to put the top card of your deck facedown under this character.)\nUPLIFTING AURA Whenever this character quests, if there’s a card under her, remove up to 3 damage from each of your characters.",
+    "keywords": [
+      "Boost"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Shannon Hallstein"
+    ],
+    "collector_number": "26",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 661796,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "33.18"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/661796"
+    }
+  },
+  {
+    "id": "crd_a5f4037f0c50462380ba6db7a516cd7a",
+    "name": "Putting It All Together",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a5f4037f0c50462380ba6db7a516cd7a.avif?1773508842",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a5f4037f0c50462380ba6db7a516cd7a.avif?1773508842",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a5f4037f0c50462380ba6db7a516cd7a.avif?1773508842"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Chosen opposing character can't challenge during their next turn. Draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Saulo Nate"
+    ],
+    "collector_number": "27",
+    "lang": "en",
+    "flavor_text": "\"Stop! It's Hopps and Wilde! We have questions!\"\n—Judy Hopps",
+    "tcgplayer_id": 662256,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "4.48"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/662256"
+    }
+  },
+  {
+    "id": "crd_4c1302eeb29742fe9d14fb23ad017fe9",
+    "name": "Gramma Tala",
+    "version": "Connected to Nature",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4c1302eeb29742fe9d14fb23ad017fe9.avif?1773508848",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4c1302eeb29742fe9d14fb23ad017fe9.avif?1773508848",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4c1302eeb29742fe9d14fb23ad017fe9.avif?1773508848"
+      }
+    },
+    "cost": 12,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Mentor"
+    ],
+    "text": "ANCESTORS' GIFT For each card in your inkwell, you pay 1 {I} less to play this character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Florencia Vazquez"
+    ],
+    "collector_number": "28",
+    "lang": "en",
+    "flavor_text": "\"Ice fishing? No, no—this is ice feeding!\"",
+    "tcgplayer_id": 673344,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "1.08"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673344"
+    }
+  },
+  {
+    "id": "crd_d3f28891b837451c8ae29c450dc77b26",
+    "name": "White Rabbit",
+    "version": "Late Again",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d3f28891b837451c8ae29c450dc77b26.avif?1773508858",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d3f28891b837451c8ae29c450dc77b26.avif?1773508858",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d3f28891b837451c8ae29c450dc77b26.avif?1773508858"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "UNDERDOG If this is your first turn and you're not the first player, you pay 1 {I} less to play this character.\nEvasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jiahui Eva Gao"
+    ],
+    "collector_number": "29",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 673347,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "1.03"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673347"
+    }
+  },
+  {
+    "id": "crd_286c1c377513470ea77761b4c6272fb7",
+    "name": "Elisa Maza",
+    "version": "Transformed Gargoyle",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_286c1c377513470ea77761b4c6272fb7.avif?1773508864",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_286c1c377513470ea77761b4c6272fb7.avif?1773508864",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_286c1c377513470ea77761b4c6272fb7.avif?1773508864"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Gargoyle",
+      "Detective"
+    ],
+    "text": "FOREVER STRONG Your characters' {S} can't be reduced below their printed value.\nSTONE BY DAY If you have 3 or more cards in your hand, this character can't ready.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jenna Gray"
+    ],
+    "collector_number": "30",
+    "lang": "en",
+    "flavor_text": "\"I'll never get the hang of jumping off rooftops.\"",
+    "tcgplayer_id": 673351,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "1.07"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673351"
+    }
+  },
+  {
+    "id": "crd_0fd3aa5df4fd4082929b9d80398e692f",
+    "name": "Beast",
+    "version": "Snowfield Troublemaker",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0fd3aa5df4fd4082929b9d80398e692f.avif?1773508870",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0fd3aa5df4fd4082929b9d80398e692f.avif?1773508870",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0fd3aa5df4fd4082929b9d80398e692f.avif?1773508870"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)\nDYNAMIC MANEUVER Whenever this character challenges, if he’s at a location, he takes no damage from the challenge.",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Omar Lozano"
+    ],
+    "collector_number": "31",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": 673338,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.45"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673338"
+    }
+  },
+  {
+    "id": "crd_c47dcf86ffa542dda6f30a0cda47c1b4",
+    "name": "Timon",
+    "version": "Snowball Swiper",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c47dcf86ffa542dda6f30a0cda47c1b4.avif?1773508875",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c47dcf86ffa542dda6f30a0cda47c1b4.avif?1773508875",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c47dcf86ffa542dda6f30a0cda47c1b4.avif?1773508875"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "GET RID OF THAT When you play this character, chosen opponent reveals their hand and discards a non-character card of your choice.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Juan Diego León"
+    ],
+    "collector_number": "32",
+    "lang": "en",
+    "flavor_text": "\"Okay, Pumbaa—hit it!\"",
+    "tcgplayer_id": 673342,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {
+      "usd_foil": "0.81"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/673342"
+    }
+  },
+  {
+    "id": "crd_e0ff247b374b43c68d645477a6d0177a",
+    "name": "Tinker Bell",
+    "version": "Snowflake Collector",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e0ff247b374b43c68d645477a6d0177a.avif?1773508882",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e0ff247b374b43c68d645477a6d0177a.avif?1773508882",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e0ff247b374b43c68d645477a6d0177a.avif?1773508882"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Fairy"
+    ],
+    "text": "FLURRY OF DELIGHT While you have 4 or more cards in your hand, this character gains Evasive. (Only characters with Evasive can challenge them.)\nSPECTACULAR FIND While you have 7 or more cards in your hand, this character gets +3 {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "LadyShalirin"
+    ],
+    "collector_number": "33",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_76e1fab92f784c07880e6c6076292ec9",
+    "name": "Tinker Bell",
+    "version": "Snowflake Collector",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_76e1fab92f784c07880e6c6076292ec9.avif?1773508887",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_76e1fab92f784c07880e6c6076292ec9.avif?1773508887",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_76e1fab92f784c07880e6c6076292ec9.avif?1773508887"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Fairy"
+    ],
+    "text": "FLURRY OF DELIGHT While you have 4 or more cards in your hand, this character gains Evasive. (Only characters with Evasive can challenge them.)\nSPECTACULAR FIND While you have 7 or more cards in your hand, this character gets +3 {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "LadyShalirin"
+    ],
+    "collector_number": "34",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4c09dc7e3fdc48aab378abc5e84546a4",
+    "name": "Stitch",
+    "version": "High Badness Level",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4c09dc7e3fdc48aab378abc5e84546a4.avif?1773508893",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4c09dc7e3fdc48aab378abc5e84546a4.avif?1773508893",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4c09dc7e3fdc48aab378abc5e84546a4.avif?1773508893"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Alien"
+    ],
+    "text": "AMPED UP While you have a character named Lilo in play, this character gains Challenger +3. (They get +3 {S} while challenging.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kuya Jaypi"
+    ],
+    "collector_number": "35",
+    "lang": "en",
+    "flavor_text": "\"No more caffeine for you.\"\n–Lilo",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_73f5d43fcb894f40b2d40ef10c2f0014",
+    "name": "Scrooge McDuck",
+    "version": "S.H.U.S.H. Agent",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_73f5d43fcb894f40b2d40ef10c2f0014.avif?1773508899",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_73f5d43fcb894f40b2d40ef10c2f0014.avif?1773508899",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_73f5d43fcb894f40b2d40ef10c2f0014.avif?1773508899"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "BACKUP PLAN When you play this character, draw a card, then choose and discard a card.\nON THE MOVE When this character is challenged, return this card to your hand. (No damage is dealt in that challenge.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Lissette Carrera"
+    ],
+    "collector_number": "36",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fcb0a2f9a4044b86bba8e0ff3ade2988",
+    "name": "Belle",
+    "version": "Apprentice Inventor",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fcb0a2f9a4044b86bba8e0ff3ade2988.avif?1773508904",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fcb0a2f9a4044b86bba8e0ff3ade2988.avif?1773508904",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fcb0a2f9a4044b86bba8e0ff3ade2988.avif?1773508904"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess",
+      "Inventor"
+    ],
+    "text": "WHAT A MESS During your turn, you may banish chosen item of yours to play this character for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jochem van Gool"
+    ],
+    "collector_number": "37",
+    "lang": "en",
+    "flavor_text": "Helping her dad keep the flying debris to a minimum.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_51c56768845241c9b79c30510bf3af72",
+    "name": "Mulan",
+    "version": "Disguised Soldier",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_51c56768845241c9b79c30510bf3af72.avif?1773508909",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_51c56768845241c9b79c30510bf3af72.avif?1773508909",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_51c56768845241c9b79c30510bf3af72.avif?1773508909"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": null,
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "WHERE DO I SIGN IN? When you play this character, you may draw a card, then choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jochem van Gool"
+    ],
+    "collector_number": "38",
+    "lang": "en",
+    "flavor_text": "\"Okay this is it, time to show 'em your man walk.\"\n—Mushu",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_49df8641660c4963bc3262e345dee59d",
+    "name": "Goofy",
+    "version": "Set for Adventure",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_49df8641660c4963bc3262e345dee59d.avif?1773508919",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_49df8641660c4963bc3262e345dee59d.avif?1773508919",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_49df8641660c4963bc3262e345dee59d.avif?1773508919"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "FAMILY VACATION Once during your turn, whenever this character moves to a location, you may move one of your other characters to that location for free. If you do, draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Carlos Ruiz"
+    ],
+    "collector_number": "39",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_559d04fd26174de38e6c40504c2f0b43",
+    "name": "Beast",
+    "version": "Gracious Prince",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_559d04fd26174de38e6c40504c2f0b43.avif?1773508925",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_559d04fd26174de38e6c40504c2f0b43.avif?1773508925",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_559d04fd26174de38e6c40504c2f0b43.avif?1773508925"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "FULL DANCE CARD Your Princess characters get +1 {S} and +1 {W}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Grace Tran"
+    ],
+    "collector_number": "40",
+    "lang": "en",
+    "flavor_text": "His heart warmed as the music began and the dancers took their places.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_384f93877f3846c198eb7edaed95a313",
+    "name": "Belle",
+    "version": "Accomplished Mystic",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_384f93877f3846c198eb7edaed95a313.avif?1773508931",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_384f93877f3846c198eb7edaed95a313.avif?1773508931",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_384f93877f3846c198eb7edaed95a313.avif?1773508931"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Princess",
+      "Sorcerer"
+    ],
+    "text": "Shift 3 (You may pay 3 {I} to play this on top of one of your characters named Belle.)\nENHANCED HEALING When you play this character, move up to 3 damage counters from chosen character to chosen opposing character.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "41",
+    "lang": "en",
+    "flavor_text": "The mixed ink had changed more than just the rose.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_25ef24f3f0214af5b8f944d2b5555ba8",
+    "name": "Stitch",
+    "version": "Carefree Snowboarder",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_25ef24f3f0214af5b8f944d2b5555ba8.avif?1773508937",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_25ef24f3f0214af5b8f944d2b5555ba8.avif?1773508937",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_25ef24f3f0214af5b8f944d2b5555ba8.avif?1773508937"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Alien"
+    ],
+    "text": "BRING YOUR FRIENDS Whenever this character quests, if you have 2 or more other characters in play, you may draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "42",
+    "lang": "en",
+    "flavor_text": "\"First one down the mountain gets all the marshmallows for their cocoa!\"\n—Lilo",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4a3d97e5bcff49c2883e5764be3fd43b",
+    "name": "Ariel",
+    "version": "Curious Traveler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4a3d97e5bcff49c2883e5764be3fd43b.avif?1773508943",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4a3d97e5bcff49c2883e5764be3fd43b.avif?1773508943",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4a3d97e5bcff49c2883e5764be3fd43b.avif?1773508943"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "FAMILIAR GROUND Whenever this character quests, if you played another character this turn, chosen opposing character can't challenge and must quest during their next turn if able.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Cio Wolfensberger"
+    ],
+    "collector_number": "43",
+    "lang": "en",
+    "flavor_text": "\"Isn't it wonderful? See if there's anything that catches your eye.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c4ee636a797148549fed0c816122a35d",
+    "name": "Maleficent",
+    "version": "Imperious Traveler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c4ee636a797148549fed0c816122a35d.avif?1773508950",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c4ee636a797148549fed0c816122a35d.avif?1773508950",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c4ee636a797148549fed0c816122a35d.avif?1773508950"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "HEED MY WORDS Whenever this character quests, if you played another character this turn, you may exert chosen opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Gaku Kumatori"
+    ],
+    "collector_number": "44",
+    "lang": "en",
+    "flavor_text": "\"Bind this glimmer, fiendish flowers!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d38b2f8759444a3c99ef9b576821232a",
+    "name": "Cruella De Vil",
+    "version": "Judgmental Traveler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d38b2f8759444a3c99ef9b576821232a.avif?1773508957",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d38b2f8759444a3c99ef9b576821232a.avif?1773508957",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d38b2f8759444a3c99ef9b576821232a.avif?1773508957"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain"
+    ],
+    "text": "YOU'RE OUT OF FASHION Whenever this character quests, if you played another character this turn, you may banish chosen damaged character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "45",
+    "lang": "en",
+    "flavor_text": "\"Can I help you? Not with your sense of style, darling.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b2eea1c89b5d48689e3fe6209acaae46",
+    "name": "Queen Of Hearts",
+    "version": "Impatient Traveler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b2eea1c89b5d48689e3fe6209acaae46.avif?1773508992",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b2eea1c89b5d48689e3fe6209acaae46.avif?1773508992",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b2eea1c89b5d48689e3fe6209acaae46.avif?1773508992"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain",
+      "Queen"
+    ],
+    "text": "ROYAL COMMAND Whenever this character quests, if you played another character this turn, chosen character gains Rush this turn. (They can challenge the turn they’re played.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Magenta Muraca"
+    ],
+    "collector_number": "46",
+    "lang": "en",
+    "flavor_text": "Hours of walking in the heat had not improved her rosy disposition.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_73638e03c68946c0b7b612aac9ca9cf2",
+    "name": "Cinderella",
+    "version": "Resourceful Traveler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_73638e03c68946c0b7b612aac9ca9cf2.avif?1773508999",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_73638e03c68946c0b7b612aac9ca9cf2.avif?1773508999",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_73638e03c68946c0b7b612aac9ca9cf2.avif?1773508999"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "THIS AND THAT Whenever this character quests, if you played another character this turn, you may put the top card of your deck into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Maïa Ewart"
+    ],
+    "collector_number": "47",
+    "lang": "en",
+    "flavor_text": "No matter how difficult the journey, she always takes care of her friends.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_63c7fee49edc473da094e5835a14edc0",
+    "name": "Pocahontas",
+    "version": "Steadfast Traveler",
+    "layout": "normal",
+    "released_at": "2025-08-18",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_63c7fee49edc473da094e5835a14edc0.avif?1773509012",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_63c7fee49edc473da094e5835a14edc0.avif?1773509012",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_63c7fee49edc473da094e5835a14edc0.avif?1773509012"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "WANDERING SPIRIT Whenever this character quests, if you played another character this turn, return a location card from your discard to your hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "48",
+    "lang": "en",
+    "flavor_text": "\"Sometimes the right path is not the easiest one.\"\n—Grandmother Willow",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_1e6669367c7a4a208ce51fd8bd7d2c41",
+      "code": "P3",
+      "name": "Promo Set 3"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]

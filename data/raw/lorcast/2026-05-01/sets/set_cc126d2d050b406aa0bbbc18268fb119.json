@@ -1,0 +1,174 @@
+[
+  {
+    "id": "crd_a057fe1c22c944a38de0a0784f7d4d5e",
+    "name": "Rapunzel",
+    "version": "Appreciative Artist",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a057fe1c22c944a38de0a0784f7d4d5e.avif?1774403534",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a057fe1c22c944a38de0a0784f7d4d5e.avif?1774403534",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a057fe1c22c944a38de0a0784f7d4d5e.avif?1774403534"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "PERCEPTIVE PARTNER While you have a character named Pascal in play, this character gains Ward. (Opponents can’t choose them except to challenge.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Aubrey Archer"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": "\"Pascal! A new flower for the wall!\"",
+    "tcgplayer_id": 668574,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_cc126d2d050b406aa0bbbc18268fb119",
+      "code": "DIS",
+      "name": "EPCOT Festival of the Arts"
+    },
+    "prices": {
+      "usd_foil": "10.73"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/668574"
+    }
+  },
+  {
+    "id": "crd_27e379eda1c04eabbf3be9fc19cda671",
+    "name": "Donald Duck",
+    "version": "Pie Slinger",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_27e379eda1c04eabbf3be9fc19cda671.avif?1774403562",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_27e379eda1c04eabbf3be9fc19cda671.avif?1774403562",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_27e379eda1c04eabbf3be9fc19cda671.avif?1774403562"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Knight"
+    ],
+    "text": "Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Donald Duck.)\nHUMBLE PIE When you play this character, if you used Shift to play him, each opponent loses 2 lore.\nRAGING DUCK While an opponent has 10 or more lore, this character gets +6 {S}.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "César Vergara"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": 668573,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_cc126d2d050b406aa0bbbc18268fb119",
+      "code": "DIS",
+      "name": "EPCOT Festival of the Arts"
+    },
+    "prices": {
+      "usd_foil": "10.14"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/668573"
+    }
+  },
+  {
+    "id": "crd_65191d1c43f443469868bfc69f3aa1c4",
+    "name": "Stitch",
+    "version": "Rock Star",
+    "layout": "normal",
+    "released_at": "2026-01-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_65191d1c43f443469868bfc69f3aa1c4.avif?1774403589",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_65191d1c43f443469868bfc69f3aa1c4.avif?1774403589",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_65191d1c43f443469868bfc69f3aa1c4.avif?1774403589"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Alien"
+    ],
+    "text": "Shift 4 (You may pay 4 {I} to play this on top of one of your characters named Stitch.)\nADORING FANS Whenever you play a character with cost 2 or less, you may exert them to draw a card.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Rare",
+    "illustrators": [
+      "Simangaliso Sibaya"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": "The best part about a beachside concert is that there's always room for one more.",
+    "tcgplayer_id": 668575,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_cc126d2d050b406aa0bbbc18268fb119",
+      "code": "DIS",
+      "name": "EPCOT Festival of the Arts"
+    },
+    "prices": {
+      "usd_foil": "49.84"
+    },
+    "purchase_uris": {
+      "tcgplayer": "https://www.tcgplayer.com/product/668575"
+    }
+  }
+]
