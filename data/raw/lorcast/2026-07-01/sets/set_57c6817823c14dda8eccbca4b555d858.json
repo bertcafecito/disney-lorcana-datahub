@@ -1,0 +1,4227 @@
+[
+  {
+    "id": "crd_1792f6aa4efe42ce93bd680da01f7016",
+    "name": "Woody",
+    "version": "Helping a Friend",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1792f6aa4efe42ce93bd680da01f7016.avif?1782517499",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1792f6aa4efe42ce93bd680da01f7016.avif?1782517499",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1792f6aa4efe42ce93bd680da01f7016.avif?1782517499"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Toy"
+    ],
+    "text": "HANG ON! When you play this character, choose one of the following. If you have another Toy character in play, choose both instead:\n• You may return a character card with cost 2 or less from your discard to your hand.\n• You may play a character with cost 2 or less for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Marcel Berg"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4ce702771dcf4edeb10ba61698ecc3a0",
+    "name": "Ming Lee",
+    "version": "Proud Parent",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4ce702771dcf4edeb10ba61698ecc3a0.avif?1782517507",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4ce702771dcf4edeb10ba61698ecc3a0.avif?1782517507",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4ce702771dcf4edeb10ba61698ecc3a0.avif?1782517507"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Mentor",
+      "Red Panda"
+    ],
+    "text": "BIGGEST FAN If you have a character named Meilin Lee in play, you pay 1 {} less to play this character.\n\nFOLLOW THE MUSIC If you played a song this turn, you pay 1 {} less to play this character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Maria Dresden"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0720242347b14666bc3a97f5a1c64b00",
+    "name": "Isabela Madrigal",
+    "version": "Kind Cultivator",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0720242347b14666bc3a97f5a1c64b00.avif?1782517513",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0720242347b14666bc3a97f5a1c64b00.avif?1782517513",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0720242347b14666bc3a97f5a1c64b00.avif?1782517513"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Madrigal"
+    ],
+    "text": "",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Linh Dang"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": "She didn't just clear the vines from her friends' path—\nshe turned the tendrils into beautiful scenery.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a751d313e33c4a43a841a327c73108e3",
+    "name": "Tyler Nguyen-Baker",
+    "version": "4*Town Fan",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a751d313e33c4a43a841a327c73108e3.avif?1782831450",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a751d313e33c4a43a841a327c73108e3.avif?1782831450",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a751d313e33c4a43a841a327c73108e3.avif?1782831450"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Dev Madan / Leonardo Giammichele"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": "\"I can't believe they're right there! This is the best day of my life\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5126c6bc9b4d4c669b7edf2f2ceb32ba",
+    "name": "Rabbit",
+    "version": "Hunny Paladin",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5126c6bc9b4d4c669b7edf2f2ceb32ba.avif?1782517520",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5126c6bc9b4d4c669b7edf2f2ceb32ba.avif?1782517520",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5126c6bc9b4d4c669b7edf2f2ceb32ba.avif?1782517520"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Knight",
+      "Hunny"
+    ],
+    "text": "Bodyguard (This character may enter play exerted.\nAn opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nHUNNY AURA When you play this character,\nchosen Hunny character gets +1 {} this turn.",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Kapik"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b8569f3f5fd643c4adacaa5ee82c5e9e",
+    "name": "Celia Mae",
+    "version": "Friendly Receptionist",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b8569f3f5fd643c4adacaa5ee82c5e9e.avif?1782517525",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b8569f3f5fd643c4adacaa5ee82c5e9e.avif?1782517525",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b8569f3f5fd643c4adacaa5ee82c5e9e.avif?1782517525"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Monster"
+    ],
+    "text": "PLEASE HOLD When you play this character, you may pay 1 {} to ready chosen character of yours. They can't quest or challenge for the rest of this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Filipe Laurentino"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": "\"You'll have to speak up. I can't hear you over my hair.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7fafc72db65c4609a156954510ee3dbc",
+    "name": "Meilin Lee",
+    "version": "Lead Vocalist",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7fafc72db65c4609a156954510ee3dbc.avif?1782517532",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7fafc72db65c4609a156954510ee3dbc.avif?1782517532",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7fafc72db65c4609a156954510ee3dbc.avif?1782517532"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Red Panda"
+    ],
+    "text": "Singer 3 (This character counts as cost 3 to sing songs.)\nBAND LOYALTY This character can't sing songs without Sing Together.",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Denny Minonne"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c6e7805e169f4387b3b24b9f358b6400",
+    "name": "Priya Mangal",
+    "version": "Serious Music Lover",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c6e7805e169f4387b3b24b9f358b6400.avif?1782831686",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c6e7805e169f4387b3b24b9f358b6400.avif?1782831686",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c6e7805e169f4387b3b24b9f358b6400.avif?1782831686"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "THIS IS MY JAM When you play this character, if there's a song card in your discard, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Diego Machuca"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": "\"I was born to do this.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e0e489d501db4eebb61074a644dcb32c",
+    "name": "Miriam Mendelsohn",
+    "version": "Ticket Holder",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e0e489d501db4eebb61074a644dcb32c.avif?1782517538",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e0e489d501db4eebb61074a644dcb32c.avif?1782517538",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e0e489d501db4eebb61074a644dcb32c.avif?1782517538"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "I GOT ’EM! When you play this character, each player draws a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Diego Machuca"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "\"Most things are, like, whatever. But my friends are, like, yeah!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_79c67a3bbf9f48e9ac759264d0ded41a",
+    "name": "Kocoum",
+    "version": "Defender of the Tribe",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_79c67a3bbf9f48e9ac759264d0ded41a.avif?1782831794",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_79c67a3bbf9f48e9ac759264d0ded41a.avif?1782831794",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_79c67a3bbf9f48e9ac759264d0ded41a.avif?1782831794"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Common",
+    "illustrators": [
+      "Mel Milton"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": "\"It's dangerous out there.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_693ca1dddf28469fb0ca4cb673c42157",
+    "name": "Abby Park",
+    "version": "Over the Top",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_693ca1dddf28469fb0ca4cb673c42157.avif?1782831922",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_693ca1dddf28469fb0ca4cb673c42157.avif?1782831922",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_693ca1dddf28469fb0ca4cb673c42157.avif?1782831922"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "ROCK THE MIC Once during your turn, whenever you play a song, you may ready this character. If you do, she can't quest or challenge for the rest of this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Jules Dubost"
+    ],
+    "collector_number": "14",
+    "lang": "en",
+    "flavor_text": "Putting the \"POW\" in \"power ballad\"!",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_82ecd57e01d94bd18159ea10240ea41f",
+    "name": "Meilin Lee",
+    "version": "Losing Control",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_82ecd57e01d94bd18159ea10240ea41f.avif?1782832121",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_82ecd57e01d94bd18159ea10240ea41f.avif?1782832121",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_82ecd57e01d94bd18159ea10240ea41f.avif?1782832121"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Red Panda"
+    ],
+    "text": "RED PANDA POWER When you play this character, look at the top 4 cards of your deck. You may reveal a Red Panda character card or a song card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_646dc0c6b56d4d72abe97f1d4e813df4",
+    "name": "4*Town",
+    "version": "Hottest Band of the Year",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_646dc0c6b56d4d72abe97f1d4e813df4.avif?1782517544",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_646dc0c6b56d4d72abe97f1d4e813df4.avif?1782517544",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_646dc0c6b56d4d72abe97f1d4e813df4.avif?1782517544"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "Singer 5 (This character counts as cost 5 to sing songs.)\r\n\r\nSTAR PERFORMANCE Whenever this character sings a song with Sing Together, draw a card.",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": "\"I never met nobody . . . like you.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7b6549af842049e3843d5ae538661426",
+    "name": "Mike Wazowski",
+    "version": "Heroic Climber",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7b6549af842049e3843d5ae538661426.avif?1782517550",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7b6549af842049e3843d5ae538661426.avif?1782517550",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7b6549af842049e3843d5ae538661426.avif?1782517550"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Monster"
+    ],
+    "text": "FIND A FRIEND When you play this character and whenever he quests, each player reveals the top card of their deck. If it’s a character card, they may put it into their hand. Otherwise, put it on the bottom of their deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Eva Widermann"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_63fc4a03298a41bab40f9ce6546bf972",
+    "name": "Jasmine",
+    "version": "Vine Expert",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_63fc4a03298a41bab40f9ce6546bf972.avif?1782832403",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_63fc4a03298a41bab40f9ce6546bf972.avif?1782832403",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_63fc4a03298a41bab40f9ce6546bf972.avif?1782832403"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "SHARED RESOURCES When you play this character, each player draws a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Lauren Barger"
+    ],
+    "collector_number": "20",
+    "lang": "en",
+    "flavor_text": "\"This looks like a problem, and I've got a solution!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cd584ce92868463191e0e226b3a8c371",
+    "name": "Mike Wazowski",
+    "version": "Well-Rounded Entertainer",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cd584ce92868463191e0e226b3a8c371.avif?1782517556",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cd584ce92868463191e0e226b3a8c371.avif?1782517556",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cd584ce92868463191e0e226b3a8c371.avif?1782517556"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Monster"
+    ],
+    "text": "MAKE 'EM LAUGH When you play this character, you may pay 2 {} to give chosen character +1 {} this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "French Carlomagno"
+    ],
+    "collector_number": "21",
+    "lang": "en",
+    "flavor_text": "\"Hey, good evening, how are ya? Nice to see ya. I tell you it's great to be here in . . . your room. Where are you from?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f3f6ae965e3644cd98b6f957b3dad229",
+    "name": "Kanga",
+    "version": "Hunny Bard",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f3f6ae965e3644cd98b6f957b3dad229.avif?1782832553",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f3f6ae965e3644cd98b6f957b3dad229.avif?1782832553",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f3f6ae965e3644cd98b6f957b3dad229.avif?1782832553"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Hunny"
+    ],
+    "text": "Singer 5 (This character counts as cost 5 to sing songs.)",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "23",
+    "lang": "en",
+    "flavor_text": "No matter how scary things got, Kanga's uplifting tunes kept the party's spirits - and courage - high.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3d891594b966483f9789a9b480178942",
+    "name": "Sulley",
+    "version": "The New Boss",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3d891594b966483f9789a9b480178942.avif?1782517563",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3d891594b966483f9789a9b480178942.avif?1782517563",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3d891594b966483f9789a9b480178942.avif?1782517563"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Monster"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\n\nREHIRE When you play this character, you may return a character card from your discard to your hand.",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Anna Stosik"
+    ],
+    "collector_number": "24",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5a213dcefc804ee98d09be0f1aad7328",
+    "name": "Mirabel Madrigal",
+    "version": "Family Guardian",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5a213dcefc804ee98d09be0f1aad7328.avif?1782832711",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5a213dcefc804ee98d09be0f1aad7328.avif?1782832711",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5a213dcefc804ee98d09be0f1aad7328.avif?1782832711"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Madrigal"
+    ],
+    "text": "MIRACULOUS PROTECTION Whenever you remove damage from one of your characters, you may ready them. If you do, they can't quest or challenge for the rest of this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 7,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Veronica Di Lorenzo / Livio Cacciatore"
+    ],
+    "collector_number": "25",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b042269adf7940af8ef301f816235f71",
+    "name": "Ursula",
+    "version": "Created by the Vine",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b042269adf7940af8ef301f816235f71.avif?1782517570",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b042269adf7940af8ef301f816235f71.avif?1782517570",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b042269adf7940af8ef301f816235f71.avif?1782517570"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Vinelings"
+    ],
+    "text": "ENERGY SAP Whenever one of your Floodborn characters quests, chosen opposing character gets -1 {} until the start of your next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Pauline Voss"
+    ],
+    "collector_number": "26",
+    "lang": "en",
+    "flavor_text": "The vine-created copy of Vanessa was as dangerous as it was beautiful.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_6642a0a4e7984d78bc81e54df6fab1c0",
+    "name": "Woody & Buzz Lightyear",
+    "version": "Best Buddies",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6642a0a4e7984d78bc81e54df6fab1c0.avif?1782517577",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6642a0a4e7984d78bc81e54df6fab1c0.avif?1782517577",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6642a0a4e7984d78bc81e54df6fab1c0.avif?1782517577"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber",
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Toy",
+      "Captain"
+    ],
+    "text": "Shift 5 {} (You may pay 5 {} to play this on top of one of your characters named Woody or Buzz Lightyear.)\nTO INFINITY . . . When you play this character, if chosen opponent has more cards in their hand than you, draw cards until you have the same number.\n. . . AND BEYOND! Whenever this character quests, you may play a card with cost 2 or less for free.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 3,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Marcel Berg"
+    ],
+    "collector_number": "28",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_84ac4e601f31462988d5fef80d41f5b2",
+    "name": "Sulley & Boo",
+    "version": "Scare Buddies",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_84ac4e601f31462988d5fef80d41f5b2.avif?1782517584",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_84ac4e601f31462988d5fef80d41f5b2.avif?1782517584",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_84ac4e601f31462988d5fef80d41f5b2.avif?1782517584"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber",
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Monster"
+    ],
+    "text": "Combo Shift 4 {} (You may pay 4 {} to play this on top of one of your characters named Sulley, one named Boo, or one of each.)\n\nTHE POWER OF FRIENDSHIP When this character is banished, if any of the cards that were under them are character cards, you may play those characters from your discard for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "29",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f82d2fbf598249eb924b2cdbdc915f62",
+    "name": "The Madrigal Family",
+    "version": "Every Generation",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f82d2fbf598249eb924b2cdbdc915f62.avif?1782517590",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f82d2fbf598249eb924b2cdbdc915f62.avif?1782517590",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f82d2fbf598249eb924b2cdbdc915f62.avif?1782517590"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber",
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Madrigal"
+    ],
+    "text": "Madrigal Shift 3 {} (You may pay 3 {} to play this on top of one of your Madrigal characters.)\n\nFAMILY BLESSINGS Once during your turn, whenever you remove 1 or more damage from one of your characters, put the top card of your deck into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 8,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "LadyShalirin"
+    ],
+    "collector_number": "30",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cdbcb2228d794fd3a1a3573a7c29db1f",
+    "name": "Lilo & Stitch",
+    "version": "Fun-Loving Friends",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cdbcb2228d794fd3a1a3573a7c29db1f.avif?1782517596",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cdbcb2228d794fd3a1a3573a7c29db1f.avif?1782517596",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cdbcb2228d794fd3a1a3573a7c29db1f.avif?1782517596"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Alien"
+    ],
+    "text": "Shift 3 {} (You may pay 3 {} to play this on top of one of your characters named Lilo or Stitch.)\n\nResist +1 (Damage dealt to this character is reduced by 1.)\n\nSupport (Whenever this character quests, you may add their {} to another chosen character’s {} this turn.)",
+    "keywords": [
+      "Resist",
+      "Shift",
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Serena Wade"
+    ],
+    "collector_number": "31",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_93ddde65a0ac4c4aa83ef2418e5472ae",
+    "name": "If I Didn't Have You",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_93ddde65a0ac4c4aa83ef2418e5472ae.avif?1782517602",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_93ddde65a0ac4c4aa83ef2418e5472ae.avif?1782517602",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_93ddde65a0ac4c4aa83ef2418e5472ae.avif?1782517602"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {} to sing this song for free.)\nYou and another chosen player each draw 2 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Saulo Nate"
+    ],
+    "collector_number": "32",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_92181e78a3aa43c98284aab9ca52368f",
+    "name": "I’m Never Not By Your Side",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_92181e78a3aa43c98284aab9ca52368f.avif?1782517609",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_92181e78a3aa43c98284aab9ca52368f.avif?1782517609",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_92181e78a3aa43c98284aab9ca52368f.avif?1782517609"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 5 (Any number of your or your teammates’ characters with total cost 5 or more may {} to sing this song for free.)\n\nRemove up to 4 damage total from any number of your characters. You gain 1 lore for each 1 damage removed this way.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "33",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d4497d30198144bd817e8dc4a8250c19",
+    "name": "Besties, Assemble!",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d4497d30198144bd817e8dc4a8250c19.avif?1782517615",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d4497d30198144bd817e8dc4a8250c19.avif?1782517615",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d4497d30198144bd817e8dc4a8250c19.avif?1782517615"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Look at the top 4 cards of your deck. You may reveal a character card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Matt Chapman"
+    ],
+    "collector_number": "34",
+    "lang": "en",
+    "flavor_text": "\"We all da bomb!\"\n–Miriam",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_75d00cba7421498eb3495416f8046095",
+    "name": "Nobody Like U",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_75d00cba7421498eb3495416f8046095.avif?1782832861",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_75d00cba7421498eb3495416f8046095.avif?1782832861",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_75d00cba7421498eb3495416f8046095.avif?1782832861"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 5 (Any number of your or your teammates' characters with total cost 5 or more may exert to sing this song for free.)\r\nPlay a character with cost 4 of less for free.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Javi Salas"
+    ],
+    "collector_number": "35",
+    "lang": "en",
+    "flavor_text": "You're never not on my mind",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_dbb2fd549bf5443689674a1c63ffe16c",
+    "name": "Powhatan's Staff",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_dbb2fd549bf5443689674a1c63ffe16c.avif?1782517621",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_dbb2fd549bf5443689674a1c63ffe16c.avif?1782517621",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_dbb2fd549bf5443689674a1c63ffe16c.avif?1782517621"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "STEP FORWARD {}, 1{} - The next character you play this turn enters play exerted and gains Bodyguard until the start of your next turn. (An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Gwawi"
+    ],
+    "collector_number": "36",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_de06027a64da41d1a231088a36c53586",
+    "name": "Rapunzel",
+    "version": "Taken by Surprise",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_de06027a64da41d1a231088a36c53586.avif?1782517728",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_de06027a64da41d1a231088a36c53586.avif?1782517728",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_de06027a64da41d1a231088a36c53586.avif?1782517728"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [],
+    "classifications": null,
+    "text": "",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Legendary",
+    "illustrators": [
+      "EMBR"
+    ],
+    "collector_number": "37",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f2c528299dce49f4b9079342b7dc7ebc",
+    "name": "Flewddur Fflam",
+    "version": "Luckless Bard",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f2c528299dce49f4b9079342b7dc7ebc.avif?1782517734",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f2c528299dce49f4b9079342b7dc7ebc.avif?1782517734",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f2c528299dce49f4b9079342b7dc7ebc.avif?1782517734"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "CHASING ADVENTURE When you play this character, if a character of yours quested this turn, draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Brian Kesinger"
+    ],
+    "collector_number": "38",
+    "lang": "en",
+    "flavor_text": "\"Well, now, I can't say this was unexpected. But still, if you could just set me down gently . . .\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_136f0a550e5f4588bbd9fd5285e4cb83",
+    "name": "Maleficent",
+    "version": "Exultant Spellcaster",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_136f0a550e5f4588bbd9fd5285e4cb83.avif?1782517740",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_136f0a550e5f4588bbd9fd5285e4cb83.avif?1782517740",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_136f0a550e5f4588bbd9fd5285e4cb83.avif?1782517740"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Ornella Savarese"
+    ],
+    "collector_number": "39",
+    "lang": "en",
+    "flavor_text": "\"Such destruction! Look around–vines as far as the eye can see. And here we sit, at the heart of it.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_82dcfa6128384ac2b40f0fcedee35777",
+    "name": "Winnie The Pooh",
+    "version": "Hunny Archmage",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_82dcfa6128384ac2b40f0fcedee35777.avif?1782517746",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_82dcfa6128384ac2b40f0fcedee35777.avif?1782517746",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_82dcfa6128384ac2b40f0fcedee35777.avif?1782517746"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Sorcerer",
+      "Hunny"
+    ],
+    "text": "STICK TOGETHER While you have 2 or more other Hunny characters in play, this character gets +2 {}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "40",
+    "lang": "en",
+    "flavor_text": "Hunnymancy is a powerful magic, suitable only for the pure of heart.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c40e1577de48469abc89a34509709824",
+    "name": "Panic",
+    "version": "Hammer Enthusiast",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c40e1577de48469abc89a34509709824.avif?1782517752",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c40e1577de48469abc89a34509709824.avif?1782517752",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c40e1577de48469abc89a34509709824.avif?1782517752"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Rush (This character can challenge the turn they’re played.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 1,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Brianna Garcia"
+    ],
+    "collector_number": "41",
+    "lang": "en",
+    "flavor_text": "Pain: \"Are you sure this is gonna work?\"\nPanic: \"We're about to find out!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b66349b8c7a045db98572d2efedc603b",
+    "name": "Meilin Lee",
+    "version": "Superficially Obedient",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b66349b8c7a045db98572d2efedc603b.avif?1782517759",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b66349b8c7a045db98572d2efedc603b.avif?1782517759",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b66349b8c7a045db98572d2efedc603b.avif?1782517759"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Red Panda"
+    ],
+    "text": "NEWFOUND CONFIDENCE When you shift a character on top of her, this character gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Oggy Christiansson"
+    ],
+    "collector_number": "44",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fbd50cee68644238a38bb3dc1e2a13fb",
+    "name": "Genie",
+    "version": "Hard to Grasp",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fbd50cee68644238a38bb3dc1e2a13fb.avif?1782845756",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fbd50cee68644238a38bb3dc1e2a13fb.avif?1782845756",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fbd50cee68644238a38bb3dc1e2a13fb.avif?1782845756"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storybon",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Hedvig H-S"
+    ],
+    "collector_number": "45",
+    "lang": "en",
+    "flavor_text": "\"Nice try, stinkweed, but there's only one thing that can contain me.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5cd9936e32dc4b1bb6640e0b6e7c9aac",
+    "name": "Pain",
+    "version": "Running with Scissors",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5cd9936e32dc4b1bb6640e0b6e7c9aac.avif?1782517765",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5cd9936e32dc4b1bb6640e0b6e7c9aac.avif?1782517765",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5cd9936e32dc4b1bb6640e0b6e7c9aac.avif?1782517765"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "MULTIPURPOSE TOOL When you play this character, if you have a character card named Panic in your discard, gain 2 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Brianna Garcia"
+    ],
+    "collector_number": "48",
+    "lang": "en",
+    "flavor_text": "\"Hey, you were right—this is fun!\"\n—Pain",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0cba97ca8b2d4eb3bdf4e78eceb0e6d9",
+    "name": "Ming Lee",
+    "version": "Overprotective Parent",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0cba97ca8b2d4eb3bdf4e78eceb0e6d9.avif?1782517771",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0cba97ca8b2d4eb3bdf4e78eceb0e6d9.avif?1782517771",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0cba97ca8b2d4eb3bdf4e78eceb0e6d9.avif?1782517771"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Mentor",
+      "Red Panda"
+    ],
+    "text": "YOU’RE GROUNDED When you shift a character on top of this character, chosen opposing exerted character can’t ready at the start of their next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Leonardo Giammichele"
+    ],
+    "collector_number": "49",
+    "lang": "en",
+    "flavor_text": "\"How could she do this to her own mother?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_418bbf00ceac49df9dd203b62d63803f",
+    "name": "Merida",
+    "version": "Wisp Conjurer",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_418bbf00ceac49df9dd203b62d63803f.avif?1782517777",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_418bbf00ceac49df9dd203b62d63803f.avif?1782517777",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_418bbf00ceac49df9dd203b62d63803f.avif?1782517777"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess",
+      "Sorcerer"
+    ],
+    "text": "FOCUSED ENERGY This character may enter play exerted to draw a card.\n\nBECKON During your turn, whenever another character of yours enters play exerted, you may draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Javi Salas"
+    ],
+    "collector_number": "50",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_da620721c46c4391ba18edcc056bb599",
+    "name": "Mrs. Incredible",
+    "version": "Created by the Vine",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_da620721c46c4391ba18edcc056bb599.avif?1782517782",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_da620721c46c4391ba18edcc056bb599.avif?1782517782",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_da620721c46c4391ba18edcc056bb599.avif?1782517782"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Super",
+      "VineIing"
+    ],
+    "text": "TORRENT Whenever one of your Floodborn characters quests, you pay 1{} less for the next character you shift this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Valerio Buonfantino"
+    ],
+    "collector_number": "51",
+    "lang": "en",
+    "flavor_text": "The vine's copy took her most valuable possession:\nher identity.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1e710cb07f1e49be9b2b0616bb93b582",
+    "name": "Pete",
+    "version": "Created by the Vine",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1e710cb07f1e49be9b2b0616bb93b582.avif?1782517789",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1e710cb07f1e49be9b2b0616bb93b582.avif?1782517789",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1e710cb07f1e49be9b2b0616bb93b582.avif?1782517789"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "VineIing"
+    ],
+    "text": "THORNY OVERGROWTH Your Floodborn characters gain Challenger +1. (They get +1 {} while challenging.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Kamil Murzyn"
+    ],
+    "collector_number": "52",
+    "lang": "en",
+    "flavor_text": "Compared to actual Pete glimmers, this vine's copy was almost more pleasant to deal with.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_03f9ebc033fb4cff9ba721b38b6681a8",
+    "name": "Hera",
+    "version": "Created by the Vine",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_03f9ebc033fb4cff9ba721b38b6681a8.avif?1782846082",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_03f9ebc033fb4cff9ba721b38b6681a8.avif?1782846082",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_03f9ebc033fb4cff9ba721b38b6681a8.avif?1782846082"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Queen",
+      "Deity",
+      "Vineling"
+    ],
+    "text": "MYSTICAL BOON Whenever you play this or another Floodborn character, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Julian dell Rey"
+    ],
+    "collector_number": "55",
+    "lang": "en",
+    "flavor_text": "You could do a lot worse than make a copy of a goddess.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1d11c04c567842fd981951674665889a",
+    "name": "Morph",
+    "version": "Little Imitator",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1d11c04c567842fd981951674665889a.avif?1782517795",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1d11c04c567842fd981951674665889a.avif?1782517795",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1d11c04c567842fd981951674665889a.avif?1782517795"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Alien"
+    ],
+    "text": "ADVANCED MIMICRY You can shift any character on top of this character. (This includes all Shift variants.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Brian Weisz"
+    ],
+    "collector_number": "57",
+    "lang": "en",
+    "flavor_text": "\"Listen up. I've got a special job for you.\"\n–John Silver",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_bba75cf2d3da48a09892b1fce921d9d6",
+    "name": "Peter Pan",
+    "version": "Playful Prankster",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bba75cf2d3da48a09892b1fce921d9d6.avif?1782517801",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bba75cf2d3da48a09892b1fce921d9d6.avif?1782517801",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bba75cf2d3da48a09892b1fce921d9d6.avif?1782517801"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "STAY RIGHT THERE When you play this character, chosen opposing character can’t ready at the start of their next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Maria Dresden"
+    ],
+    "collector_number": "58",
+    "lang": "en",
+    "flavor_text": "\"I've never met a problem I couldn't solve.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b0820bdd94db41b597a5bafeb75e9e96",
+    "name": "Aladdin & Genie",
+    "version": "Mischievous Pals",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b0820bdd94db41b597a5bafeb75e9e96.avif?1782846273",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b0820bdd94db41b597a5bafeb75e9e96.avif?1782846273",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b0820bdd94db41b597a5bafeb75e9e96.avif?1782846273"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst",
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero"
+    ],
+    "text": "Shift 3 (You may pay 3 to play this on top of one of your characters named Aladdin or Genie.)\r\nSLEIGHT OF HAND When you play this character, you may put any number of cards from your hand on the bottom of your deck in any order. If you do, draw that number of cards plus 1.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Natalia Trykowska"
+    ],
+    "collector_number": "59",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_706270bcb64b4f08b79b4d50a9306ad4",
+    "name": "Peter Pan & Tinker Bell",
+    "version": "Fast Friends",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_706270bcb64b4f08b79b4d50a9306ad4.avif?1782517807",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_706270bcb64b4f08b79b4d50a9306ad4.avif?1782517807",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_706270bcb64b4f08b79b4d50a9306ad4.avif?1782517807"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Fairy"
+    ],
+    "text": "Shift 4 {} (You may pay 4 {} to play this on top of one of your characters named Peter Pan or Tinker Bell.)\nYOU CAN FLY! Your characters gain Evasive. (Only characters with Evasive can challenge them.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "60",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_61b7042adadb4518b842173c39ffe07b",
+    "name": "Christopher Robin",
+    "version": "Hunny Sage",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_61b7042adadb4518b842173c39ffe07b.avif?1782517814",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_61b7042adadb4518b842173c39ffe07b.avif?1782517814",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_61b7042adadb4518b842173c39ffe07b.avif?1782517814"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Hunny"
+    ],
+    "text": "GATHER THE PARTY You can have other Hunny characters in your deck regardless of ink type.\n\nMAGICAL SUMMONS When you play this character, you may search your deck for a Hunny card, reveal it, and put it in your hand. If you do, shuffle your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Kapik"
+    ],
+    "collector_number": "61",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c42cf87af57a4bb4923dfbcdc9792b99",
+    "name": "You've Got Some Punch",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c42cf87af57a4bb4923dfbcdc9792b99.avif?1782846422",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c42cf87af57a4bb4923dfbcdc9792b99.avif?1782846422",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c42cf87af57a4bb4923dfbcdc9792b99.avif?1782846422"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 2 or more can exert to sing this song for free.)\r\nChosen character gains rush and Challenger +2 this turn. (They can challenge the turn they're played. They get +2 strength while challenging.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Amanda Duarte"
+    ],
+    "collector_number": "64",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9c14d6ee5bfd49538ccf3d3323baac68",
+    "name": "With A Few Good Friends",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9c14d6ee5bfd49538ccf3d3323baac68.avif?1782517820",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9c14d6ee5bfd49538ccf3d3323baac68.avif?1782517820",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9c14d6ee5bfd49538ccf3d3323baac68.avif?1782517820"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 6 (Any number of your or your teammates’ characters with total cost 6 or more may {} to sing this song for free.)\n\nChosen player draws a card for each different ink type of characters you have in play.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "65",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_19589a8a5ccd45b681e4d75367dd9c9a",
+    "name": "Petrify",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_19589a8a5ccd45b681e4d75367dd9c9a.avif?1782517826",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_19589a8a5ccd45b681e4d75367dd9c9a.avif?1782517826",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_19589a8a5ccd45b681e4d75367dd9c9a.avif?1782517826"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Exert chosen opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Geoffrey Boudout"
+    ],
+    "collector_number": "66",
+    "lang": "en",
+    "flavor_text": "\"What's making that awful noise? It sounds like it's coming our way.\"\n– Shonzozy, an Illumineer",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_69429f224b234571a1257b20258d97a4",
+    "name": "One And Only",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_69429f224b234571a1257b20258d97a4.avif?1782517832",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_69429f224b234571a1257b20258d97a4.avif?1782517832",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_69429f224b234571a1257b20258d97a4.avif?1782517832"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Choose a character. Banish all other characters with the same name as that character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Saulo Nate"
+    ],
+    "collector_number": "67",
+    "lang": "en",
+    "flavor_text": "\"Is that . . . me? The vine made a copy of me to defend itself?!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_91e3400d60684980b0cd74c9ba06e21f",
+    "name": "Protective Aura",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_91e3400d60684980b0cd74c9ba06e21f.avif?1782517838",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_91e3400d60684980b0cd74c9ba06e21f.avif?1782517838",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_91e3400d60684980b0cd74c9ba06e21f.avif?1782517838"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Your Floodborn characters gain Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Lauren Levering"
+    ],
+    "collector_number": "68",
+    "lang": "en",
+    "flavor_text": "The glow of the vine-created replicas was beautiful . . .\nbut unsettling.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f29818146dfa457bafbe71778a9367eb",
+    "name": "Magical Hunny Staff",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f29818146dfa457bafbe71778a9367eb.avif?1782525533",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f29818146dfa457bafbe71778a9367eb.avif?1782525533",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f29818146dfa457bafbe71778a9367eb.avif?1782525533"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Item",
+      "Hunny"
+    ],
+    "classifications": null,
+    "text": "GIFT OF THE HIVE Once during your turn, you may pay 1 {} to give chosen character of yours the Hunny classification until the start of your next turn.\n\nSPELL OF SWIFTNESS {}, 2 {} – Chosen Hunny character of yours gains Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Kaitlin Cuthbertson"
+    ],
+    "collector_number": "71",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d6a16f7195a8417d86d5f7b407bb7836",
+    "name": "Ring of Stones",
+    "version": "Taken by the Vine",
+    "layout": "landscape",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d6a16f7195a8417d86d5f7b407bb7836.avif?1782846552",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d6a16f7195a8417d86d5f7b407bb7836.avif?1782846552",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d6a16f7195a8417d86d5f7b407bb7836.avif?1782846552"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Location"
+    ],
+    "classifications": null,
+    "text": "DEEP WISDOM Your Floodborn characters get +1 lore.",
+    "keywords": [],
+    "move_cost": 1,
+    "strength": null,
+    "willpower": 7,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Jeremy Adama"
+    ],
+    "collector_number": "73",
+    "lang": "en",
+    "flavor_text": "The tendrils wrapped around each stone, searching for more ink.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5c8da2083bb14ef3b6b0536876a61a22",
+    "name": "Carl Fredricksen",
+    "version": "Loving Husband",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5c8da2083bb14ef3b6b0536876a61a22.avif?1782517880",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5c8da2083bb14ef3b6b0536876a61a22.avif?1782517880",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5c8da2083bb14ef3b6b0536876a61a22.avif?1782517880"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "TAKE MY HAND When you play this character, you pay 2 {} less for the next character named Ellie Fredricksen you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "74",
+    "lang": "en",
+    "flavor_text": "\"You know, Ellie, I think we're going to be together forever.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9e5ec9c5c5ae4ff68ec85f5390ec0e39",
+    "name": "Ellie Fredricksen",
+    "version": "Loving Wife",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9e5ec9c5c5ae4ff68ec85f5390ec0e39.avif?1782517886",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9e5ec9c5c5ae4ff68ec85f5390ec0e39.avif?1782517886",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9e5ec9c5c5ae4ff68ec85f5390ec0e39.avif?1782517886"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "ADVENTUROUS HEART Whenever you play a location, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "75",
+    "lang": "en",
+    "flavor_text": "\"Every moment we're together is an adventure.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e41470068ad646b8855b398e4450d196",
+    "name": "Rapunzel",
+    "version": "Tower Defender",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e41470068ad646b8855b398e4450d196.avif?1782833792",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e41470068ad646b8855b398e4450d196.avif?1782833792",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e41470068ad646b8855b398e4450d196.avif?1782833792"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "THE FATE'S DESIGN When you play this character, you may choose and discard a card. If you do, return chosen character to their player's hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "80",
+    "lang": "en",
+    "flavor_text": "\"I... said... GET... OUT!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1e4e5fcae0fd4a5d92c33919e298257c",
+    "name": "Roo",
+    "version": "Hunny Rogue",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1e4e5fcae0fd4a5d92c33919e298257c.avif?1782518108",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1e4e5fcae0fd4a5d92c33919e298257c.avif?1782518108",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1e4e5fcae0fd4a5d92c33919e298257c.avif?1782518108"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Hunny"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)\n\nELUSIVE EXPERTISE While you have another Hunny character in play, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Gonzalo Kenny"
+    ],
+    "collector_number": "83",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a132f96da79f44ada3f1ceffe29bf543",
+    "name": "Mother Gothel",
+    "version": "Evil as Ever",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a132f96da79f44ada3f1ceffe29bf543.avif?1782518115",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a132f96da79f44ada3f1ceffe29bf543.avif?1782518115",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a132f96da79f44ada3f1ceffe29bf543.avif?1782518115"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "MUMMY'S BACK During your turn, when you discard this card, you may play this character from your discard. (You pay all costs.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Yngve Ramón"
+    ],
+    "collector_number": "93",
+    "lang": "en",
+    "flavor_text": "\"Well, I'm glad somebody let me up.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_6afa057b946845d1b46725c7603c50bf",
+    "name": "Rapunzel",
+    "version": "Escaping the Tower",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6afa057b946845d1b46725c7603c50bf.avif?1782518120",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6afa057b946845d1b46725c7603c50bf.avif?1782518120",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6afa057b946845d1b46725c7603c50bf.avif?1782518120"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "THE CALL OF ADVENTURE Once during your turn, you may discard a card to give this character +1 {} and Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Emily Abeydeera"
+    ],
+    "collector_number": "95",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_96c13d549e86443982376fd82092e179",
+    "name": "Rapunzel & Flynn Rider",
+    "version": "Unlikely Pair",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_96c13d549e86443982376fd82092e179.avif?1782518127",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_96c13d549e86443982376fd82092e179.avif?1782518127",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_96c13d549e86443982376fd82092e179.avif?1782518127"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Prince",
+      "Princess"
+    ],
+    "text": "Shift 3 {} (You may pay 3 {} to play this on top of one of your characters named Rapunzel or Flynn Rider.)\nCLEVER SWAP Whenever this character quests, you may draw a card, then choose and discard a card.\nFRESH START During your turn, whenever you discard a character card, you may play that character from your discard. (You pay all costs.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Shannon Hallstein"
+    ],
+    "collector_number": "100",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a395fdf1aee940cab396c90eacfba65d",
+    "name": "Carl Fredricksen",
+    "version": "On the Move",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a395fdf1aee940cab396c90eacfba65d.avif?1782518133",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a395fdf1aee940cab396c90eacfba65d.avif?1782518133",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a395fdf1aee940cab396c90eacfba65d.avif?1782518133"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "MOVING PARTNER Whenever you play a location, you may move this character and up to 1 of your other characters to that location for free.\n\nADVENTURE AWAITS Whenever this character quests while at a location, draw cards equal to that location’s {}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Rodrigo Camilo"
+    ],
+    "collector_number": "113",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e9b42287e4e24f079b2906af28880a46",
+    "name": "Gaston",
+    "version": "Created by the Vine",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e9b42287e4e24f079b2906af28880a46.avif?1782518139",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e9b42287e4e24f079b2906af28880a46.avif?1782518139",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e9b42287e4e24f079b2906af28880a46.avif?1782518139"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Vinelings"
+    ],
+    "text": "DRAWING STRENGTH Your Floodborn characters get +1 {}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Eri Welli"
+    ],
+    "collector_number": "115",
+    "lang": "en",
+    "flavor_text": "\"Of course the vine would copy me. Look at him! He's almost as handsome as I am.\"\n– Gaston",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_eb4ba3412b8747e6bd0d7f35da8a46ae",
+    "name": "Meilin Lee",
+    "version": "Popular Red Panda",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_eb4ba3412b8747e6bd0d7f35da8a46ae.avif?1782518146",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_eb4ba3412b8747e6bd0d7f35da8a46ae.avif?1782518146",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_eb4ba3412b8747e6bd0d7f35da8a46ae.avif?1782518146"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Red Panda"
+    ],
+    "text": "Temporary Shift 3 {} (You may pay 3 {} to play this on top of one of your characters named Meilin Lee. At the end of your turn, remove all damage from this character and return only this card to your hand.)\n\nKARAOKE QUEEN Once during your turn, whenever this character sings a song, gain 3 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "125",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a64acded1f7842399029a5fa95b6c78d",
+    "name": "Tigger",
+    "version": "Hunny Barbarian",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a64acded1f7842399029a5fa95b6c78d.avif?1782518152",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a64acded1f7842399029a5fa95b6c78d.avif?1782518152",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a64acded1f7842399029a5fa95b6c78d.avif?1782518152"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Tigger",
+      "Hunny"
+    ],
+    "text": "Reckless (This character can’t quest and must challenge each turn if able.)\n\nPROTECTIVE CHARGE Once during your turn, whenever this character challenges another character, you may ready chosen Hunny character. If you do, that character can’t quest for the rest of this turn.",
+    "keywords": [
+      "Reckless"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Simone Giovanardi"
+    ],
+    "collector_number": "126",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e597aba9dc5748e49621c84f4da6f30a",
+    "name": "Boo",
+    "version": "Energetic Child",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e597aba9dc5748e49621c84f4da6f30a.avif?1782518167",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e597aba9dc5748e49621c84f4da6f30a.avif?1782518167",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e597aba9dc5748e49621c84f4da6f30a.avif?1782518167"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "Rush (This character can challenge the turn they’re played.)\n\nKID-TASTROPHE! Whenever this character challenges another character with 3 {} or less, banish that character. (No damage is dealt in that challenge.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "127",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b9337a2b2efc45c6afaaa31f2623de46",
+    "name": "Peter Pan",
+    "version": "Vine Duelist",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b9337a2b2efc45c6afaaa31f2623de46.avif?1782518173",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b9337a2b2efc45c6afaaa31f2623de46.avif?1782518173",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b9337a2b2efc45c6afaaa31f2623de46.avif?1782518173"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Cio Schaffiner"
+    ],
+    "collector_number": "131",
+    "lang": "en",
+    "flavor_text": "\"Come on, you big bully. You've gotta be faster than that!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_200d65c5231b44cf854c8a0901c3c720",
+    "name": "Belle & Beast",
+    "version": "Certain as the Sun",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_200d65c5231b44cf854c8a0901c3c720.avif?1782518182",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_200d65c5231b44cf854c8a0901c3c720.avif?1782518182",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_200d65c5231b44cf854c8a0901c3c720.avif?1782518182"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire",
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Prince",
+      "Princess"
+    ],
+    "text": "Shift 6 {} (You may pay 6 {} to play this on top of one of your characters named Belle or Beast.)\nINSPIRING DANCE Whenever this character quests, ready all cards in your inkwell.\nAPPRECIATIVE AUDIENCE 6 {} – Ready your other characters. They can’t quest for the rest of this turn.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 7,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Ian MacDonald"
+    ],
+    "collector_number": "132",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f5a95305c84042fab5a5ccb06da4f464",
+    "name": "Randall Boggs",
+    "version": "Scary Smart",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f5a95305c84042fab5a5ccb06da4f464.avif?1782518189",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f5a95305c84042fab5a5ccb06da4f464.avif?1782518189",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f5a95305c84042fab5a5ccb06da4f464.avif?1782518189"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain",
+      "Monster"
+    ],
+    "text": "GET OUTTA HERE! When you play this character, put chosen character of yours into your inkwell facedown and exerted.\n\nDEVIOUS PLAN At the end of your turn, if all cards in your inkwell are exerted, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "153",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_89adca57e54540868bf280ac2deaaa57",
+    "name": "Big Book Of Hunny",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_89adca57e54540868bf280ac2deaaa57.avif?1782525540",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_89adca57e54540868bf280ac2deaaa57.avif?1782525540",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_89adca57e54540868bf280ac2deaaa57.avif?1782525540"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item",
+      "Hunny"
+    ],
+    "classifications": null,
+    "text": "INVOKE HUNNY {}, 2 {} - Reveal the top card of your deck. If it’s a Hunny card, put it into your hand. Otherwise, put it on the bottom of your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Kaitlin Cuthbertson"
+    ],
+    "collector_number": "174",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3346eb6f9f874bbbad8c1942445299d3",
+    "name": "Flynn Rider",
+    "version": "High-Climbing Rogue",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3346eb6f9f874bbbad8c1942445299d3.avif?1782833401",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3346eb6f9f874bbbad8c1942445299d3.avif?1782833401",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3346eb6f9f874bbbad8c1942445299d3.avif?1782833401"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "WE CAN WORK THIS OUT Whenever an opponent chooses this character for an action or ability, they choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Luca Pinelli"
+    ],
+    "collector_number": "189",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7c8493ace81246c7b30a1e0536eea674",
+    "name": "Maximus",
+    "version": "Relentless Stallion",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7c8493ace81246c7b30a1e0536eea674.avif?1782833548",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7c8493ace81246c7b30a1e0536eea674.avif?1782833548",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7c8493ace81246c7b30a1e0536eea674.avif?1782833548"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "NO ESCAPE If you discarded a card this turn, this character gains Challenger +2 and can challenge ready characters this turn. (They get +2 strength while challenging.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Therese Vildefall"
+    ],
+    "collector_number": "195",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_50500ac5aee74cc590b870231c6dd497",
+    "name": "The Vine",
+    "version": "Towering Stalk",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_50500ac5aee74cc590b870231c6dd497.avif?1782525547",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_50500ac5aee74cc590b870231c6dd497.avif?1782525547",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_50500ac5aee74cc590b870231c6dd497.avif?1782525547"
+      }
+    },
+    "cost": 10,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn"
+    ],
+    "text": "Floodborn Shift 7 {} (You may pay 7 {} to play this on top of one of your Floodborn characters.)\nSATURATE Your other exerted Floodborn characters gain Bodyguard.\nHOSTILE SWARM During an opponent’s turn, whenever one of your Floodborn characters is banished, deal 1 damage to each opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 10,
+    "willpower": 10,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Nicholas Kole"
+    ],
+    "collector_number": "197",
+    "lang": "en",
+    "flavor_text": "",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_73a3b09749fa4a318ee0432abc9da30a",
+    "name": "Look What You've Done",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1782525552",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1782525552",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_73a3b09749fa4a318ee0432abc9da30a.avif?1782525552"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Deal 2 damage to chosen character. During your turn, when you discard this card, you may play it from your discard. (You pay all costs.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Juan Diego León"
+    ],
+    "collector_number": "200",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5c1ae860c25940a7aac7c8633d58da21",
+    "name": "You Broke My Smolder",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5c1ae860c25940a7aac7c8633d58da21.avif?1782525558",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5c1ae860c25940a7aac7c8633d58da21.avif?1782525558",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5c1ae860c25940a7aac7c8633d58da21.avif?1782525558"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Discard your hand. Draw 2 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Emily Abeydeera"
+    ],
+    "collector_number": "201",
+    "lang": "en",
+    "flavor_text": "\"You know, this happens a lot more often than you'd think.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d64d3fddaf584da990cbcf6a1f9a5ff7",
+    "name": "Windstorm",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d64d3fddaf584da990cbcf6a1f9a5ff7.avif?1782833157",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d64d3fddaf584da990cbcf6a1f9a5ff7.avif?1782833157",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d64d3fddaf584da990cbcf6a1f9a5ff7.avif?1782833157"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Deal 1 damage to each opposing character and location. Then, deal 2 damage to each opposing character with Evasive and each opposing location with Evasive.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Andreas Rocha"
+    ],
+    "collector_number": "203",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c165a60ae2434c74afc216d65d8eeb9c",
+    "name": "Discarded Armor",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c165a60ae2434c74afc216d65d8eeb9c.avif?1782833283",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c165a60ae2434c74afc216d65d8eeb9c.avif?1782833283",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c165a60ae2434c74afc216d65d8eeb9c.avif?1782833283"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "FOUND EQUIPMENT exert - If you discarded a card this turn, chosen character of yours gains Resist +1 until the start of your next turn. (Damage dealt to them is reduced by 1.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Kaitlin Cuthbertson"
+    ],
+    "collector_number": "204",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1337332b5317428c95c1129cf645924f",
+    "name": "Pocahontas & Meeko",
+    "version": "Adventurous Friends",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1337332b5317428c95c1129cf645924f.avif?1782525564",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1337332b5317428c95c1129cf645924f.avif?1782525564",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1337332b5317428c95c1129cf645924f.avif?1782525564"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber",
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Team",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Shift 2 {I}\r\nEvasive\r\nWELCOME RETURN Whenever this character quests, you may return chosen character of yours with cost 1 to your hand. If you do, you may play a character with cost 1 for free.",
+    "keywords": [
+      "Evasive",
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Enchanted",
+    "illustrators": [
+      "Clio Schaffner"
+    ],
+    "collector_number": "227",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_dadb6d9a8ac54b6c8caad9225f07afa8",
+    "name": "Lilo & Stitch",
+    "version": "Fun-Loving Friends",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_dadb6d9a8ac54b6c8caad9225f07afa8.avif?1782525573",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_dadb6d9a8ac54b6c8caad9225f07afa8.avif?1782525573",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_dadb6d9a8ac54b6c8caad9225f07afa8.avif?1782525573"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "Shift 3 {}\r\nResist +1\r\nSupport",
+    "keywords": [
+      "Resist",
+      "Shift",
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": 2,
+    "rarity": "Enchanted",
+    "illustrators": [
+      "Brett Owens"
+    ],
+    "collector_number": "244",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_57c6817823c14dda8eccbca4b555d858",
+      "code": "13",
+      "name": "Attack of the Vine!"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]
