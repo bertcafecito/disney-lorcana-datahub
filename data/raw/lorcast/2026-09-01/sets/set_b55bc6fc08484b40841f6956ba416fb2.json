@@ -1,0 +1,439 @@
+[
+  {
+    "id": "crd_74b7aa10f56645ffb31b5eec71360160",
+    "name": "Beast",
+    "version": "Snowfield Troublemaker",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_74b7aa10f56645ffb31b5eec71360160.avif?1785782978",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_74b7aa10f56645ffb31b5eec71360160.avif?1785782978",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_74b7aa10f56645ffb31b5eec71360160.avif?1785782978"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Prince"
+    ],
+    "text": "Rush (This character can challenge the turn they’re played.)\nDYNAMIC MANEUVER Whenever this character challenges, if he’s at a location, he takes no damage from the challenge.",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Ian MacDonald"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b1a43b5f8158413f81457f6268bfbc93",
+    "name": "Rapunzel",
+    "version": "Ethereal Protector",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b1a43b5f8158413f81457f6268bfbc93.avif?1785783085",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b1a43b5f8158413f81457f6268bfbc93.avif?1785783085",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b1a43b5f8158413f81457f6268bfbc93.avif?1785783085"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess",
+      "Whisper"
+    ],
+    "text": "Boost 2 {I} (Once during your turn, you may pay 2 {I} to put the top card of your deck facedown under this character.)\nCLONK! Whenever this character quests, if there’s a card under her, chosen opposing character can’t challenge until the start of your next turn.",
+    "keywords": [
+      "Boost"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Grace Tran"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_74f93c661e41447bb38a29b3b68bcb32",
+    "name": "Pocahontas",
+    "version": "Guiding the Tribe",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_74f93c661e41447bb38a29b3b68bcb32.avif?1785783154",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_74f93c661e41447bb38a29b3b68bcb32.avif?1785783154",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_74f93c661e41447bb38a29b3b68bcb32.avif?1785783154"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "STAY CLOSE When you play this character, you may play a character with cost 1 for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": "“These vines are far from natural. They must end somewhere.”",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_25dd6a49bbce406fb5a996d5d24e76db",
+    "name": "Vixey",
+    "version": "Expert Fisher",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_25dd6a49bbce406fb5a996d5d24e76db.avif?1785783218",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_25dd6a49bbce406fb5a996d5d24e76db.avif?1785783218",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_25dd6a49bbce406fb5a996d5d24e76db.avif?1785783218"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "STEALING IN When you play this character, if you have a character with Evasive in play, you may return chosen character, item, or location with cost 2 or less to their player’s hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Oggy Christiansson"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": "“I’ve got my dinner. Where’s yours, Tod?”",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fd1bcf0f26094f14912fc07446c47403",
+    "name": "Buzz Lightyear",
+    "version": "Providing Cover",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fd1bcf0f26094f14912fc07446c47403.avif?1785783294",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fd1bcf0f26094f14912fc07446c47403.avif?1785783294",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fd1bcf0f26094f14912fc07446c47403.avif?1785783294"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Toy",
+      "Captain"
+    ],
+    "text": "ACTION FIGURE When you play this character, choose one of the following. If you have another Toy character in play, choose both instead:\n• You may return an action card with cost 2 or less from your discard to your hand.\n• You may play an action with cost 2 or less for free.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Marcel Berg"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_62863900e1664d6d8be8280f6c23b65d",
+    "name": "Boo",
+    "version": "Energetic Child",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_62863900e1664d6d8be8280f6c23b65d.avif?1785783503",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_62863900e1664d6d8be8280f6c23b65d.avif?1785783503",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_62863900e1664d6d8be8280f6c23b65d.avif?1785783503"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)\nKID-TASTROPHE! Whenever this character challenges another character with 3 {S} or less, banish that character. (No damage is dealt in that challenge.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Malia Ewart"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5478a1412fcc4736a0b67aa8b480f74c",
+    "name": "Merlin",
+    "version": "Envisioning the Future",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5478a1412fcc4736a0b67aa8b480f74c.avif?1785783551",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5478a1412fcc4736a0b67aa8b480f74c.avif?1785783551",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5478a1412fcc4736a0b67aa8b480f74c.avif?1785783551"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Mentor",
+      "Sorcerer"
+    ],
+    "text": "MINOR TRICKERY When you play this character, you may draw a card from the bottom of your deck.\nAGE OF INCONVENIENCE When this character is banished, put this card from your discard on the bottom of your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Carmine Pucci"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c9a6f2de21f3413886b50ab933c00c11",
+    "name": "Maximus",
+    "version": "Relentless Stallion",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c9a6f2de21f3413886b50ab933c00c11.avif?1785783610",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c9a6f2de21f3413886b50ab933c00c11.avif?1785783610",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c9a6f2de21f3413886b50ab933c00c11.avif?1785783610"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "NO ESCAPE If you discarded a card this turn, this character gains Challenger +2 and can challenge ready characters this turn. (They get +2 {S} while challenging.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Therese Vildefall"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_b55bc6fc08484b40841f6956ba416fb2",
+      "code": "PD1",
+      "name": "PD1"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]

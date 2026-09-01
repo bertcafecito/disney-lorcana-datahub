@@ -1,0 +1,902 @@
+[
+  {
+    "id": "crd_c76ace4ba1a9432983d8a400072a04d2",
+    "name": "Ariel",
+    "version": "\"Spectacular Singer\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c76ace4ba1a9432983d8a400072a04d2.avif?1785603870",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c76ace4ba1a9432983d8a400072a04d2.avif?1785603870",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c76ace4ba1a9432983d8a400072a04d2.avif?1785603870"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Ariel - Spectacular Singer in your deck)\r\nWhenever a Princess character of yours sings a song, gain lore equal to her {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2b76ae8d57254c1196e8510caa80dc57",
+    "name": "Pocahontas",
+    "version": "\"Peacekeeper\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2b76ae8d57254c1196e8510caa80dc57.avif?1785781249",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2b76ae8d57254c1196e8510caa80dc57.avif?1785781249",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2b76ae8d57254c1196e8510caa80dc57.avif?1785781249"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Pocahontas - Peacekeeper in your deck.)\r\n\r\nOnce during your turn, you may choose a character. Until the start of your next turn, they get +1 {L} and can’t challenge and must quest if able.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0d5a5f59403b4830b4718ef000ae6a58",
+    "name": "Stitch",
+    "version": "\"Rock Star\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0d5a5f59403b4830b4718ef000ae6a58.avif?1785781319",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0d5a5f59403b4830b4718ef000ae6a58.avif?1785781319",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0d5a5f59403b4830b4718ef000ae6a58.avif?1785781319"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Stitch - Rock Star in your deck.)\r\n\r\nOnce during your turn, you may play a character with cost 2 or less from your hand for free. If you have a character named Stitch in play, you may play a character with cost 2 or less from your discard for free instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Simangaliso Sibaya"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_83dd240aa29a41c1b7c92821e02aaa1a",
+    "name": "Donald Duck",
+    "version": "\"Fred Honeywell\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_83dd240aa29a41c1b7c92821e02aaa1a.avif?1785781382",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_83dd240aa29a41c1b7c92821e02aaa1a.avif?1785781382",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_83dd240aa29a41c1b7c92821e02aaa1a.avif?1785781382"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Donald Duck - Fred Honeywell in your deck.)\r\n\r\nYou pay 1 {I} less to use Boost abilities.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_602a6165c788434f836b6178ebf4a01b",
+    "name": "Robin Hood",
+    "version": "\"Sneaky Sleuth\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_602a6165c788434f836b6178ebf4a01b.avif?1785781411",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_602a6165c788434f836b6178ebf4a01b.avif?1785781411",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_602a6165c788434f836b6178ebf4a01b.avif?1785781411"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Robin Hood - Sneaky Sleuth in your deck.)\r\n\r\nOnce per game during your turn, you may deal 1 damage to each opposing character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Nicholas Kole"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_97871e7acbdc4896a4665454b09dc82b",
+    "name": "Ursula",
+    "version": "\"Deceiver of All\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_97871e7acbdc4896a4665454b09dc82b.avif?1785781429",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_97871e7acbdc4896a4665454b09dc82b.avif?1785781429",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_97871e7acbdc4896a4665454b09dc82b.avif?1785781429"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Ursula - Deceiver of All in your deck.)\r\n\r\nYour characters count as having +1 cost for singing songs. Your characters named Ursula count as having +2 cost instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Matthew Robert Davies"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9460e6b2d45f4f7d85d2e9e52f77bddc",
+    "name": "Moana",
+    "version": "\"Curious Explorer\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9460e6b2d45f4f7d85d2e9e52f77bddc.avif?1785781449",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9460e6b2d45f4f7d85d2e9e52f77bddc.avif?1785781449",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9460e6b2d45f4f7d85d2e9e52f77bddc.avif?1785781449"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Moana - Curious Explorer in your deck.)\r\n\r\nDuring your turn, if you have a Moana, Heihei, or Pua character in play, you may ink an additional card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Rizal Badar"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2067b1baa8ba4077b2bf6be4fb7910f5",
+    "name": "Mufasa",
+    "version": "\"Ruler of Pride Rock\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2067b1baa8ba4077b2bf6be4fb7910f5.avif?1785781475",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2067b1baa8ba4077b2bf6be4fb7910f5.avif?1785781475",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2067b1baa8ba4077b2bf6be4fb7910f5.avif?1785781475"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Mufasa - Ruler of Pride Rock in your deck.)\r\n\r\nOnce per game during your turn, you may pay 5 {I} to put the top 3 cards of your deck into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jeanne Plounevez"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1ed8a399822d45b88458a0f029bc4303",
+    "name": "Nick Wilde",
+    "version": "\"Wily Fox\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1ed8a399822d45b88458a0f029bc4303.avif?1785781498",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1ed8a399822d45b88458a0f029bc4303.avif?1785781498",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1ed8a399822d45b88458a0f029bc4303.avif?1785781498"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Nick Wilde - Wily Fox in your deck.)\r\n\r\nYou can have up to 4 copies of an item card named Pawbsicle in your deck.\r\n\r\nOnce during your turn, you may banish 4 of your items. If you do, gain 4 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Brian Weisz"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7b50e852602d436e9abef17221427c22",
+    "name": "Dumbo",
+    "version": "\"Ninth Wonder of the Universe\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7b50e852602d436e9abef17221427c22.avif?1785781538",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7b50e852602d436e9abef17221427c22.avif?1785781538",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7b50e852602d436e9abef17221427c22.avif?1785781538"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Dumbo - Ninth Wonder of the Universe in your deck.)\r\n\r\nYou may use the {E} abilities of your characters the turn they’re played.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Mariana Moreno"
+    ],
+    "collector_number": "10",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_ba70831e73014bc9bcfa9e40ab9eb3ab",
+    "name": "Snow White",
+    "version": "\"Merry as the Morning\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ba70831e73014bc9bcfa9e40ab9eb3ab.avif?1785781570",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ba70831e73014bc9bcfa9e40ab9eb3ab.avif?1785781570",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ba70831e73014bc9bcfa9e40ab9eb3ab.avif?1785781570"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Snow White - Merry as the Morning in your deck.)\r\n\r\nOnce per game during your turn, you may reveal your hand. If you have a Snow White and 7 or more Seven Dwarfs character cards with different names among the cards in your hand, in your discard, and in play, your characters get +2 {L} for the rest of the game.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Juan Diego León"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9e8e850979344cd88a8a79952b34b745",
+    "name": "Winnie the Pooh",
+    "version": "\"Hunny Wizard\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9e8e850979344cd88a8a79952b34b745.avif?1785781606",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9e8e850979344cd88a8a79952b34b745.avif?1785781606",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9e8e850979344cd88a8a79952b34b745.avif?1785781606"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Winnie the Pooh - Hunny Wizard in your deck.)\r\n\r\nWhenever you play a character without an ability, you may pay 1 {I} to draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "John Loren"
+    ],
+    "collector_number": "12",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c5a4cf275604402a992acb87772e20ec",
+    "name": "Mickey Mouse",
+    "version": "\"Brave Little Tailor\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c5a4cf275604402a992acb87772e20ec.avif?1785781632",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c5a4cf275604402a992acb87772e20ec.avif?1785781632",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c5a4cf275604402a992acb87772e20ec.avif?1785781632"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Mickey Mouse - Brave Little Tailor in your deck.)\r\n\r\nMickey Mouse character cards in your hand, deck, and discard gain Shift 2 {I}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Nicholas Kole"
+    ],
+    "collector_number": "13",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3bdd8515b590417caad80263c4af01a5",
+    "name": "Mr. Incredible",
+    "version": "\"Super Strong\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3bdd8515b590417caad80263c4af01a5.avif?1785781672",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3bdd8515b590417caad80263c4af01a5.avif?1785781672",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3bdd8515b590417caad80263c4af01a5.avif?1785781672"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Mr. Incredible - Super Strong in your deck.)\r\n\r\nWhenever you play a Super character, they gain Rush this turn and you may exert chosen opposing character with less {S} than them.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Hyuna Lee"
+    ],
+    "collector_number": "14",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e6c22dba536d48aebb790505ee827af8",
+    "name": "Sisu",
+    "version": "\"Emboldened Warrior\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e6c22dba536d48aebb790505ee827af8.avif?1785781702",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e6c22dba536d48aebb790505ee827af8.avif?1785781702",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e6c22dba536d48aebb790505ee827af8.avif?1785781702"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Sisu - Emboldened Warrior in your deck.)\r\n\r\nAll characters with more {S} than each opposing character can quest the turn they’re played.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "LadyShalirin"
+    ],
+    "collector_number": "15",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_48fce6266dfa4f499cf340fe49ec21eb",
+    "name": "John Silver",
+    "version": "\"Greedy Treasure Seeker\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_48fce6266dfa4f499cf340fe49ec21eb.avif?1785781735",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_48fce6266dfa4f499cf340fe49ec21eb.avif?1785781735",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_48fce6266dfa4f499cf340fe49ec21eb.avif?1785781735"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of John Silver - Greedy Treasure Seeker in your deck.)\r\n\r\nEach of your locations gains Resist +1 for each character there.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Gaku Kumatori"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_32f49578db5d42dfbdd1142ed65b379a",
+    "name": "Scar",
+    "version": "\"Finally King\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_32f49578db5d42dfbdd1142ed65b379a.avif?1785781764",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_32f49578db5d42dfbdd1142ed65b379a.avif?1785781764",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_32f49578db5d42dfbdd1142ed65b379a.avif?1785781764"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Scar - Finally King in your deck.)\r\n\r\nDuring your turn, you pay 1 {I} less for the first Ally character you play.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kenneth Anderson"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4b26ad394ba14a1da4bd51c720563cd9",
+    "name": "Tinker Bell",
+    "version": "\"Giant Fairy\"",
+    "layout": "normal",
+    "released_at": "2026-07-28",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4b26ad394ba14a1da4bd51c720563cd9.avif?1785781979",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4b26ad394ba14a1da4bd51c720563cd9.avif?1785781979",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4b26ad394ba14a1da4bd51c720563cd9.avif?1785781979"
+      }
+    },
+    "cost": 0,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": null,
+    "text": "(You can have up to 4 copies of Tinker Bell - Giant Fairy in your deck.)\r\n\r\nWhenever one of your other abilities or actions deals damage to an opposing character, deal 1 damage to that character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Cookie"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_ea7d596e608340e3a383b868050b94c4",
+      "code": "Coconut",
+      "name": "Format Coconut"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]
