@@ -1,0 +1,5892 @@
+[
+  {
+    "id": "crd_0ad02170c068455bbd5e5ab3f8d47fc3",
+    "name": "Fru Fru",
+    "version": "VIP Guest",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0ad02170c068455bbd5e5ab3f8d47fc3.avif?1790792809",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0ad02170c068455bbd5e5ab3f8d47fc3.avif?1790792809",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0ad02170c068455bbd5e5ab3f8d47fc3.avif?1790792809"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Hana Augustine"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": "Gazelle's soaring voice and epic performances made Fru Fru feel ten feet tall.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fb3447e25919489481692c3d225aab3e",
+    "name": "Pete",
+    "version": "Suave Showoff",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fb3447e25919489481692c3d225aab3e.avif?1790792813",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fb3447e25919489481692c3d225aab3e.avif?1790792813",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fb3447e25919489481692c3d225aab3e.avif?1790792813"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Lee Rowan"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": "\"Powerline's going to want a picture with me.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0c333590c11346f4a50aa8b0c93d88d8",
+    "name": "Miriam Mendelsohn",
+    "version": "Front-Row Fan",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0c333590c11346f4a50aa8b0c93d88d8.avif?1790792817",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0c333590c11346f4a50aa8b0c93d88d8.avif?1790792817",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0c333590c11346f4a50aa8b0c93d88d8.avif?1790792817"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)",
+    "keywords": [
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Casey Jo Ocean"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": "\"He looked at me! He looked right at me!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c368077143674c72b39a8f211a65d561",
+    "name": "Priya Mangal",
+    "version": "Immovable Fan",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c368077143674c72b39a8f211a65d561.avif?1790442531",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c368077143674c72b39a8f211a65d561.avif?1790442531",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c368077143674c72b39a8f211a65d561.avif?1790442531"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "BACK OFF! When you play this character, you may give chosen character -2 {S} until the start of your next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Alibeth Zermeno"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": "\"Front row is the best row!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5ea44faad3a04cc39712aa74c159847a",
+    "name": "Yax",
+    "version": "Concert Goer",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5ea44faad3a04cc39712aa74c159847a.avif?1790792821",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5ea44faad3a04cc39712aa74c159847a.avif?1790792821",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5ea44faad3a04cc39712aa74c159847a.avif?1790792821"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 7,
+    "willpower": 9,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Jochem Van Gool"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": "\"Oh, wow, man. The stage is lit up like the Great Illuminary. Wait . . . 'Illuminary' . . . Is that why they call it that? Whoa . . .\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a20ade77fd92426eacb8dbf72861a997",
+    "name": "Judy Hopps",
+    "version": "Helpful Officer",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a20ade77fd92426eacb8dbf72861a997.avif?1790792826",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a20ade77fd92426eacb8dbf72861a997.avif?1790792826",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a20ade77fd92426eacb8dbf72861a997.avif?1790792826"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "TO THE RESCUE When you play this character, remove up to 2 damage from chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Jennifer Park"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "\"Is it the heat? Or are you just starstruck?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_44606b91eae5430e9ee3290986734dbd",
+    "name": "Nick Wilde",
+    "version": "Inquisitive Harbormaster",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_44606b91eae5430e9ee3290986734dbd.avif?1790278496",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_44606b91eae5430e9ee3290986734dbd.avif?1790278496",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_44606b91eae5430e9ee3290986734dbd.avif?1790278496"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Detective"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Nick Wilde.)\nRESTRICTED ROUTE Whenever this character quests, you may give chosen character Adventurous until the start of your next turn. (They can't challenge and must quest if able.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Rare",
+    "illustrators": [
+      "Gianluca Barone"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_816b5cef943b4639a101f20c79b654f4",
+    "name": "Elisa Maza",
+    "version": "Hardworking Detective",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_816b5cef943b4639a101f20c79b654f4.avif?1790442538",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_816b5cef943b4639a101f20c79b654f4.avif?1790442538",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_816b5cef943b4639a101f20c79b654f4.avif?1790442538"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "FOLLOW THE TRAIL When you play this character, if you have another Detective character in play, chosen opponent reveals their hand and discards a non-character card of your choice.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Anna Stosik"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": "\"Where are these geodes coming from?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_15bf57ae3c7f4a5cafb9dcb0d8e08182",
+    "name": "Powerline",
+    "version": "Megastar",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_15bf57ae3c7f4a5cafb9dcb0d8e08182.avif?1790278506",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_15bf57ae3c7f4a5cafb9dcb0d8e08182.avif?1790278506",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_15bf57ae3c7f4a5cafb9dcb0d8e08182.avif?1790278506"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "Singer 9 \nBACKUP SINGERS Once during your turn, whenever you play a song, return a character card with Singer from your discard to your hand.\nPERFECT HARMONY This character gets +1 {L} for each other character with Singer you have in play.",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Kenneth Anderson"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7cedada74484495e959d935b6a17b138",
+    "name": "Lionheart",
+    "version": "Incumbent Mayor",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7cedada74484495e959d935b6a17b138.avif?1790278511",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7cedada74484495e959d935b6a17b138.avif?1790278511",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7cedada74484495e959d935b6a17b138.avif?1790278511"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nAPPROVAL RATING When you play this character, up to 2 chosen characters get +1 {L} this turn.",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 7,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Saulo Nate"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cf9e33084f684d58a059e96bd7c83c09",
+    "name": "Aurora",
+    "version": "Delightful Musician",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cf9e33084f684d58a059e96bd7c83c09.avif?1790278515",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cf9e33084f684d58a059e96bd7c83c09.avif?1790278515",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cf9e33084f684d58a059e96bd7c83c09.avif?1790278515"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "MELODIC REFRAIN When you play this character, return a song card you played this turn with cost 3 or less from your discard to your hand.\nJOYOUS RECEPTION At the end of your turn, if you played a song this turn, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Clio Schaffner"
+    ],
+    "collector_number": "19",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1ddaca55bb4f46acae8b17edfea186ac",
+    "name": "Mickey Mouse",
+    "version": "Best in Town",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1ddaca55bb4f46acae8b17edfea186ac.avif?1790278519",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1ddaca55bb4f46acae8b17edfea186ac.avif?1790278519",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1ddaca55bb4f46acae8b17edfea186ac.avif?1790278519"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "Adventurous (This character can't challenge and must quest each turn if able.)\nHOT DOG! At the end of your turn, if this character is exerted, each player gets 1 ink drop. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Gonzalo Kenny"
+    ],
+    "collector_number": "23",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c0ecc42e2ece4bf393944a85ac0a8763",
+    "name": "Judy Hopps",
+    "version": "Always Vigilant",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c0ecc42e2ece4bf393944a85ac0a8763.avif?1790792829",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c0ecc42e2ece4bf393944a85ac0a8763.avif?1790792829",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c0ecc42e2ece4bf393944a85ac0a8763.avif?1790792829"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "Shift 2 {I} (You may pay 2 {I} to play this on top of one of your characters named Judy Hopps.)\nGOT YOU NOW When you play this character, if you played another character this turn, you may banish chosen character with 5 {S} or more.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Noukah"
+    ],
+    "collector_number": "24",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0777949fd088446fb7fea975ea0657cd",
+    "name": "Nick Wilde",
+    "version": "Providing Backup",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0777949fd088446fb7fea975ea0657cd.avif?1790278524",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0777949fd088446fb7fea975ea0657cd.avif?1790278524",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0777949fd088446fb7fea975ea0657cd.avif?1790278524"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Detective"
+    ],
+    "text": "I'VE GOT THIS While you have another Detective character in play, this character gains Support. (Whenever they quest, you may add their {S} to another chosen character's {S} this turn.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Otto Paredes"
+    ],
+    "collector_number": "25",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fdadb83a1b0b49f8b0931d6837fb27b7",
+    "name": "Remember Me",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fdadb83a1b0b49f8b0931d6837fb27b7.avif?1790278527"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 6 (Any number of your or your teammates' characters with total cost 6 or more may {E} to sing this song for free.)\nFor the rest of this turn, you may play characters from your discard. If you do, they enter play exerted and you can't play characters with the same name as characters you played this way this turn.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "César Vergara"
+    ],
+    "collector_number": "29",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5d9724819f8f4be5a547bc0df59ed556",
+    "name": "Never Gonna Let You Cry",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5d9724819f8f4be5a547bc0df59ed556.avif?1790792833",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5d9724819f8f4be5a547bc0df59ed556.avif?1790792833",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5d9724819f8f4be5a547bc0df59ed556.avif?1790792833"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "Sing Together 5 (Any number of your or your teammates' characters with total cost 5 or more may {E} to sing this song for free.)\nReturn up to 2 character cards with cost 2 or less each from your discard to your hand.",
+    "keywords": [
+      "Sing Together"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Maxine Vee"
+    ],
+    "collector_number": "30",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_296aac16a9a841b897c6f41728d82010",
+    "name": "Speaker Stack",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_296aac16a9a841b897c6f41728d82010.avif?1790792838",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_296aac16a9a841b897c6f41728d82010.avif?1790792838",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_296aac16a9a841b897c6f41728d82010.avif?1790792838"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "PUMP IT UP Your characters with Singer get +1 {S} and +1 {W}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Brittney Hackett"
+    ],
+    "collector_number": "32",
+    "lang": "en",
+    "flavor_text": "\"You're gonna sound great, I promise! The cheese adds, uh, cheesification.\"\n—Bobby Zimuruski",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1306e22e8e9e4a1fbb11a8a1ce6935c8",
+    "name": "Mamá Imelda's Blessing",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1306e22e8e9e4a1fbb11a8a1ce6935c8.avif?1790442542",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1306e22e8e9e4a1fbb11a8a1ce6935c8.avif?1790442542",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1306e22e8e9e4a1fbb11a8a1ce6935c8.avif?1790442542"
+      }
+    },
+    "cost": 1,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "FAMILIAL DUTY {E}, 1 {I} — Chosen character gets -1 {S} and can't {E} to sing songs until the start of your next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Julian del Rey"
+    ],
+    "collector_number": "33",
+    "lang": "en",
+    "flavor_text": "\"Well, technically, she can add any condition she wants.\"\n—Department of Family Reunions clerk",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4829c0432f0642cdb297b45a9de0ee60",
+    "name": "Port Authority",
+    "version": "Center Hub",
+    "layout": "landscape",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4829c0432f0642cdb297b45a9de0ee60.avif?1790194804",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4829c0432f0642cdb297b45a9de0ee60.avif?1790194804",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4829c0432f0642cdb297b45a9de0ee60.avif?1790194804"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Location"
+    ],
+    "classifications": [
+      "Hyperia City"
+    ],
+    "text": "WELCOME TO TOWN Once during your turn, whenever a character moves here, each player gets 1 ink drop and gains 1 lore. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": 1,
+    "strength": null,
+    "willpower": 8,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Matthew Oates"
+    ],
+    "collector_number": "34",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cafb43eabd50438f9248ff55a7dd8850",
+    "name": "Owen Burnett",
+    "version": "Xanatos's Assistant",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cafb43eabd50438f9248ff55a7dd8850.avif?1790278531",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cafb43eabd50438f9248ff55a7dd8850.avif?1790278531",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cafb43eabd50438f9248ff55a7dd8850.avif?1790278531"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "CUT YOUR LOSSES When you play this character, you may return chosen character, item, or location with cost 2 or less to their player's hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "French Carlomagno"
+    ],
+    "collector_number": "35",
+    "lang": "en",
+    "flavor_text": "\"Mr. Xanatos is unconcerned with costs. Remove the obstacle at once.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_050a926ae1604a0dbbbb9d5b9621ec8e",
+    "name": "David Xanatos",
+    "version": "Arcane Industrialist",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_050a926ae1604a0dbbbb9d5b9621ec8e.avif?1790278535",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_050a926ae1604a0dbbbb9d5b9621ec8e.avif?1790278535",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_050a926ae1604a0dbbbb9d5b9621ec8e.avif?1790278535"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Edu Francisco"
+    ],
+    "collector_number": "37",
+    "lang": "en",
+    "flavor_text": "\"It would seem that our fair city is hiding a few secrets after all.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3d910edfd75c482f89e14aa58fef1f45",
+    "name": "Lexington",
+    "version": "Fearless Flier",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3d910edfd75c482f89e14aa58fef1f45.avif?1790278539",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3d910edfd75c482f89e14aa58fef1f45.avif?1790278539",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3d910edfd75c482f89e14aa58fef1f45.avif?1790278539"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Gargoyle"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nSTONE BY DAY If you have 3 or more cards in your hand, this character can't ready.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 1,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Simone Buonfantino"
+    ],
+    "collector_number": "38",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a2aa87150aae4913b5a8e513098a77b7",
+    "name": "Merlin",
+    "version": "Bauble Expert",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a2aa87150aae4913b5a8e513098a77b7.avif?1790194808",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a2aa87150aae4913b5a8e513098a77b7.avif?1790194808",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a2aa87150aae4913b5a8e513098a77b7.avif?1790194808"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Mentor",
+      "Sorcerer"
+    ],
+    "text": "RAW MATERIAL When you play this character, if you have a character named Arthur in play, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Laura De Pascale"
+    ],
+    "collector_number": "39",
+    "lang": "en",
+    "flavor_text": "\"Ah, you finally found them, have you?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1db0bfec5cb74d138a10bfd514fa0d57",
+    "name": "Mamá Coco",
+    "version": "Visiting the Park",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1db0bfec5cb74d138a10bfd514fa0d57.avif?1790278542",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1db0bfec5cb74d138a10bfd514fa0d57.avif?1790278542",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1db0bfec5cb74d138a10bfd514fa0d57.avif?1790278542"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "DISTANT MEMORY Whenever you put 1 or more cards into your discard from your deck, this character gets +1 {L} this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Diana Diz"
+    ],
+    "collector_number": "44",
+    "lang": "en",
+    "flavor_text": "\"I remember the letters my papá would send. They were full of poems he wrote me—I kept them all!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b6223f3b5919418fa0552be0f42207ea",
+    "name": "Tinker Bell",
+    "version": "Curious Fairy",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b6223f3b5919418fa0552be0f42207ea.avif?1790792841",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b6223f3b5919418fa0552be0f42207ea.avif?1790792841",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b6223f3b5919418fa0552be0f42207ea.avif?1790792841"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Fairy"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Victor Yano Covarrubias"
+    ],
+    "collector_number": "45",
+    "lang": "en",
+    "flavor_text": "\"Tink finds the most unusual things. It makes traveling together an adventure!\" \n—Cordelia, an Illumineer",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_97732480c67243eea104065b21c61544",
+    "name": "Madam Mim",
+    "version": "Bauble Chaser",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_97732480c67243eea104065b21c61544.avif?1790792845",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_97732480c67243eea104065b21c61544.avif?1790792845",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_97732480c67243eea104065b21c61544.avif?1790792845"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "HARD TO HANDLE While you have an ink drop, this character gains Evasive. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Luca Pinelli"
+    ],
+    "collector_number": "46",
+    "lang": "en",
+    "flavor_text": "\"Aha! A lovely little drop of power to fuel my wickedness.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7e74e3180a7b4ac7bc6254348cdc14ab",
+    "name": "Fox Xanatos",
+    "version": "Charismatic Outlaw",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7e74e3180a7b4ac7bc6254348cdc14ab.avif?1790442546",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7e74e3180a7b4ac7bc6254348cdc14ab.avif?1790442546",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7e74e3180a7b4ac7bc6254348cdc14ab.avif?1790442546"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 6,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Celeste Jamneck"
+    ],
+    "collector_number": "49",
+    "lang": "en",
+    "flavor_text": "\"Watch closely, Cordelia, and I'll show you how a star handles things.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_dfc2900b9afb46079bebc1fd0bb83d16",
+    "name": "Brooklyn",
+    "version": "Full Throttle",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_dfc2900b9afb46079bebc1fd0bb83d16.avif?1790442550",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_dfc2900b9afb46079bebc1fd0bb83d16.avif?1790442550",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_dfc2900b9afb46079bebc1fd0bb83d16.avif?1790442550"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Gargoyle"
+    ],
+    "text": "WILD RIDE 6 {I} — Gain 1 lore.\nSTONE BY DAY If you have 3 or more cards in your hand, this character can't ready.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Devin Yang"
+    ],
+    "collector_number": "50",
+    "lang": "en",
+    "flavor_text": "\"I love this bike!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_df613732dc6641a6b0a8699c056c070f",
+    "name": "Merlin",
+    "version": "Ink Drop Tinkerer",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_df613732dc6641a6b0a8699c056c070f.avif?1790278546",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_df613732dc6641a6b0a8699c056c070f.avif?1790278546",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_df613732dc6641a6b0a8699c056c070f.avif?1790278546"
+      }
+    },
+    "cost": 7,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Mentor",
+      "Sorcerer"
+    ],
+    "text": "Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters named Merlin.)\nWHAT A DISCOVERY! When you play this character, get 1 ink drop. If you used Shift to play him, get 2 ink drops instead. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 8,
+    "lore": 3,
+    "rarity": "Rare",
+    "illustrators": [
+      "Kiersten Hale"
+    ],
+    "collector_number": "52",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_88d01d81e9344671b6534f6f964a68d6",
+    "name": "Goliath",
+    "version": "Transformed Warrior",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_88d01d81e9344671b6534f6f964a68d6.avif?1790792849",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_88d01d81e9344671b6534f6f964a68d6.avif?1790792849",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_88d01d81e9344671b6534f6f964a68d6.avif?1790792849"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Gargoyle"
+    ],
+    "text": "WHEN NIGHT FALLS Once during your turn, you may choose and discard a card. If you do, move up to 2 damage from this character to chosen opposing character.\nSTONE BY DAY If you have 3 or more cards in your hand, this character can't ready.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Rafal Wojtunik"
+    ],
+    "collector_number": "53",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4012002528b34eadbcf056855a3e1412",
+    "name": "Archimedes",
+    "version": "Messenger Owl",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4012002528b34eadbcf056855a3e1412.avif?1790278550",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4012002528b34eadbcf056855a3e1412.avif?1790278550",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4012002528b34eadbcf056855a3e1412.avif?1790278550"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)\nTHE INDIGNITY! When this character is banished in a challenge, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Greg Shrader"
+    ],
+    "collector_number": "58",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a3dedabdcc464fd1bea731c85f439226",
+    "name": "Madam Mim",
+    "version": "Resourceful Trickster",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a3dedabdcc464fd1bea731c85f439226.avif?1790194812",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a3dedabdcc464fd1bea731c85f439226.avif?1790194812",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a3dedabdcc464fd1bea731c85f439226.avif?1790194812"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "UPPER HAND When you play this character, if you removed an ink drop to play her, draw 2 cards.\nBAUBLE GAME Once during your turn, whenever you remove an ink drop, draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 7,
+    "willpower": 5,
+    "lore": 3,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Marcel Berg"
+    ],
+    "collector_number": "59",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7799029b28da4f72b7755e36a9f8c3a6",
+    "name": "Everyone Knows Juanita",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7799029b28da4f72b7755e36a9f8c3a6.avif?1790278554",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7799029b28da4f72b7755e36a9f8c3a6.avif?1790278554",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7799029b28da4f72b7755e36a9f8c3a6.avif?1790278554"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 5 or more can {E} to sing this song for free.)\nDraw 2 cards. If you have 10 or more cards in your discard, draw 3 cards instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Julian del Rey"
+    ],
+    "collector_number": "60",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5d135313607b447594c17113428fcdbf",
+    "name": "Higitus Figitus",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5d135313607b447594c17113428fcdbf.avif?1790194816",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5d135313607b447594c17113428fcdbf.avif?1790194816",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5d135313607b447594c17113428fcdbf.avif?1790194816"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 6 or more can {E} to sing this song for free.) \nGet 3 ink drops. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Julie Vu"
+    ],
+    "collector_number": "62",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a3d1fc1b331c481dae12e390bfe5f396",
+    "name": "Magnificent, Marvelous",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a3d1fc1b331c481dae12e390bfe5f396.avif?1790278558",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a3d1fc1b331c481dae12e390bfe5f396.avif?1790278558",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a3d1fc1b331c481dae12e390bfe5f396.avif?1790278558"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 4 or more can {E} to sing this song for free.) \nGain 2 lore. Draw a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Carmine Pucci"
+    ],
+    "collector_number": "64",
+    "lang": "en",
+    "flavor_text": ". . . Mad Madam Mim",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7ce311ebf82c4ff9bb0954189ee398e3",
+    "name": "Inkcaster Skates",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7ce311ebf82c4ff9bb0954189ee398e3.avif?1790442554",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7ce311ebf82c4ff9bb0954189ee398e3.avif?1790442554",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7ce311ebf82c4ff9bb0954189ee398e3.avif?1790442554"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "THE LATEST TREND {E} — If a character quested this turn, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Giuseppe di Maio"
+    ],
+    "collector_number": "67",
+    "lang": "en",
+    "flavor_text": "\"Part inkcaster. Part skates. All awesome.\"\n—Cordelia, an Illumineer",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_35bfb0c5150a4ea590077426f99374a2",
+    "name": "Trusty",
+    "version": "Along for the Ride",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_35bfb0c5150a4ea590077426f99374a2.avif?1790792853",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_35bfb0c5150a4ea590077426f99374a2.avif?1790792853",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_35bfb0c5150a4ea590077426f99374a2.avif?1790792853"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 7,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Mario Oscar Gabriele"
+    ],
+    "collector_number": "69",
+    "lang": "en",
+    "flavor_text": "\"You're awful excited, Jock. What's goin' on out there?\"\n—Trusty",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2093d8e216c141d0b029ebcd1091ebf0",
+    "name": "Hiro Hamada",
+    "version": "Versatile Inventor",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2093d8e216c141d0b029ebcd1091ebf0.avif?1790792857",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2093d8e216c141d0b029ebcd1091ebf0.avif?1790792857",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2093d8e216c141d0b029ebcd1091ebf0.avif?1790792857"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nTURBO THRUSTERS When you play this character, you may pay 1 {I} to give chosen character of yours Evasive until the start of your next turn.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Gaku Kumatori"
+    ],
+    "collector_number": "71",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3b26991f57c24178b9fa26567f742e5a",
+    "name": "Go Go Tomago",
+    "version": "Extreme Tester",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3b26991f57c24178b9fa26567f742e5a.avif?1790792860",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3b26991f57c24178b9fa26567f742e5a.avif?1790792860",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3b26991f57c24178b9fa26567f742e5a.avif?1790792860"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "GATHERING DATA Whenever this character is challenged, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Lauren Barger"
+    ],
+    "collector_number": "72",
+    "lang": "en",
+    "flavor_text": "\"If I go 6#% faster with one ink drop, what happens when I have two?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_998f0f99449b4903983d5f12f7eb3fde",
+    "name": "Molly Cunningham",
+    "version": "Remembers to Share",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_998f0f99449b4903983d5f12f7eb3fde.avif?1790278562",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_998f0f99449b4903983d5f12f7eb3fde.avif?1790278562",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_998f0f99449b4903983d5f12f7eb3fde.avif?1790278562"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "SO FUN! When you play this character, you and another chosen player each get 1 ink drop. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Anne Neyens"
+    ],
+    "collector_number": "73",
+    "lang": "en",
+    "flavor_text": "\"Mommy, Mommy! Look at all the shinies!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cd8368bcf3054b2992392cb7b63d5a5f",
+    "name": "Kit Cloudkicker",
+    "version": "Irrepressible Bear",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cd8368bcf3054b2992392cb7b63d5a5f.avif?1790792864",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cd8368bcf3054b2992392cb7b63d5a5f.avif?1790792864",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cd8368bcf3054b2992392cb7b63d5a5f.avif?1790792864"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "LUCKY DAY When you play this character, you and another chosen player each get 1 ink drop. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Grace Tran"
+    ],
+    "collector_number": "74",
+    "lang": "en",
+    "flavor_text": "\"Louie's got ink drops? You think he'll mind sharing some with us?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_602ea44401b44af8a92b674bdbbe48ff",
+    "name": "Belle",
+    "version": "Reflective Writer",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_602ea44401b44af8a92b674bdbbe48ff.avif?1790194820",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_602ea44401b44af8a92b674bdbbe48ff.avif?1790194820",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_602ea44401b44af8a92b674bdbbe48ff.avif?1790194820"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "CITY ADVENTURES When you play this character, reveal the top card of your deck. If it's an item card named Belle's City Guide or an action card, you may put it into your hand. Otherwise, put it on the bottom of your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Maria Dresden"
+    ],
+    "collector_number": "75",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a25cc25f4ad7487d9abe13d3d1243d4e",
+    "name": "Jock",
+    "version": "Enjoying the Sights",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a25cc25f4ad7487d9abe13d3d1243d4e.avif?1790278565",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a25cc25f4ad7487d9abe13d3d1243d4e.avif?1790278565",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a25cc25f4ad7487d9abe13d3d1243d4e.avif?1790278565"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Lauren Barger"
+    ],
+    "collector_number": "78",
+    "lang": "en",
+    "flavor_text": "\"Ach, the city is so busy! Look, a whole crowd o' new Illumineers just arrived at the Port Authority!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b6e7bc1b18f44549a0d0b7fd122284c0",
+    "name": "Rebecca Cunningham",
+    "version": "Savvy Manager",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b6e7bc1b18f44549a0d0b7fd122284c0.avif?1790792868",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b6e7bc1b18f44549a0d0b7fd122284c0.avif?1790792868",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b6e7bc1b18f44549a0d0b7fd122284c0.avif?1790792868"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "DUE DILIGENCE When you play this character, you may draw a card, then choose and discard a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Raquel Villanueva"
+    ],
+    "collector_number": "80",
+    "lang": "en",
+    "flavor_text": "As the owner of Higher for Hire, she prides herself on running a tight ship.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_365b2a72c6484d8e8bc2337b8f5b8d80",
+    "name": "Shere Khan",
+    "version": "Opportunistic Tycoon",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_365b2a72c6484d8e8bc2337b8f5b8d80.avif?1790194824",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_365b2a72c6484d8e8bc2337b8f5b8d80.avif?1790194824",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_365b2a72c6484d8e8bc2337b8f5b8d80.avif?1790194824"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain"
+    ],
+    "text": "ONE-SIDED DEAL When you play this character, each opponent may choose and discard a card. For each opponent who doesn't, get 1 ink drop. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "David Forrest"
+    ],
+    "collector_number": "81",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e633f88196544f4885ad5bc2403e00f3",
+    "name": "Horace",
+    "version": "Clumsy Clod",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e633f88196544f4885ad5bc2403e00f3.avif?1790792872",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e633f88196544f4885ad5bc2403e00f3.avif?1790792872",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e633f88196544f4885ad5bc2403e00f3.avif?1790792872"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "BUNGLED IT When you play this character, deal 1 damage to chosen opposing damaged character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Kevin Sidharta"
+    ],
+    "collector_number": "82",
+    "lang": "en",
+    "flavor_text": "\"Watch it, Jasper—you hit my plank with your face!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_532b770c7fa9416384f1f413b08a4bd0",
+    "name": "Baymax",
+    "version": "Lab Assistant",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_532b770c7fa9416384f1f413b08a4bd0.avif?1790278569",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_532b770c7fa9416384f1f413b08a4bd0.avif?1790278569",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_532b770c7fa9416384f1f413b08a4bd0.avif?1790278569"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Robot"
+    ],
+    "text": "RESUPPLY When you play this character, if you have 2 or more items in play, get 2 ink drops. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "85",
+    "lang": "en",
+    "flavor_text": "\"My analysis concludes that ink drops can improve operational outcomes by 80#%.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0d1f76836f764e568f7061fc57887923",
+    "name": "Fred",
+    "version": "Awesome Boss",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0d1f76836f764e568f7061fc57887923.avif?1790792875",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0d1f76836f764e568f7061fc57887923.avif?1790792875",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0d1f76836f764e568f7061fc57887923.avif?1790792875"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Super",
+      "Hero"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Fred.)\nRADICAL RESOURCES Whenever you play this or another Super character, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Ricardo Caria"
+    ],
+    "collector_number": "86",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4dd1978db30c48c59bb51e42294a31ac",
+    "name": "Max Goof",
+    "version": "Karaoke Star",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4dd1978db30c48c59bb51e42294a31ac.avif?1790278574",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4dd1978db30c48c59bb51e42294a31ac.avif?1790278574",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4dd1978db30c48c59bb51e42294a31ac.avif?1790278574"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "SWEET REMIX When you play this character, you may choose and discard a song card. If you do, draw 2 cards.\nBRAND-NEW PLAYLIST While you have 5 or more song cards in your discard, this character gets +3 {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "89",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d69a4875b0a24e369a3635c67904cab8",
+    "name": "Fred",
+    "version": "Big Stomper",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d69a4875b0a24e369a3635c67904cab8.avif?1790278578",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d69a4875b0a24e369a3635c67904cab8.avif?1790278578",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d69a4875b0a24e369a3635c67904cab8.avif?1790278578"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero"
+    ],
+    "text": "KAIJU CRUSH When you play this character, you may banish chosen location.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Matteo Marzocco"
+    ],
+    "collector_number": "91",
+    "lang": "en",
+    "flavor_text": "\"I think I'm getting the hang of this.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a3e52e47f3d942a6a0189244f2611c18",
+    "name": "Honey Lemon",
+    "version": "Testing the Limits",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a3e52e47f3d942a6a0189244f2611c18.avif?1790194828",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a3e52e47f3d942a6a0189244f2611c18.avif?1790194828",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a3e52e47f3d942a6a0189244f2611c18.avif?1790194828"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "ADVANCED CHEMISTRY When you play this character and whenever she quests, you may banish chosen item of yours. If you do, draw a card and get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Caelys"
+    ],
+    "collector_number": "93",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_03f2c8b1d6614b70a9bbe2d1092351aa",
+    "name": "Air Drop",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_03f2c8b1d6614b70a9bbe2d1092351aa.avif?1790442558",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_03f2c8b1d6614b70a9bbe2d1092351aa.avif?1790442558",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_03f2c8b1d6614b70a9bbe2d1092351aa.avif?1790442558"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Deal 3 damage to chosen character. If that character has damage, deal 5 damage instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Stefano Spagnuolo"
+    ],
+    "collector_number": "94",
+    "lang": "en",
+    "flavor_text": "\"We don't need to steal the cargo, boss. It's coming right to us!\"\n—Dumptruck",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_ad5100c1182246a1a864abd42423f715",
+    "name": "Above the Crowd",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ad5100c1182246a1a864abd42423f715.avif?1790278582",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ad5100c1182246a1a864abd42423f715.avif?1790278582",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ad5100c1182246a1a864abd42423f715.avif?1790278582"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 5 or more can {E} to sing this song for free.) \nPut chosen opposing character with 3 {S} or less on the bottom of their player's deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Raquel Villanueva"
+    ],
+    "collector_number": "95",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_030ea6413a8847c49ec5035dda032698",
+    "name": "Another Tale to Spin",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_030ea6413a8847c49ec5035dda032698.avif?1790792879",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_030ea6413a8847c49ec5035dda032698.avif?1790792879",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_030ea6413a8847c49ec5035dda032698.avif?1790792879"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 2 or more can {E} to sing this song for free.)\nDraw a card. You and another chosen player each get 1 ink drop. (Each ink drop may be removed to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "David Otalora"
+    ],
+    "collector_number": "96",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_37a9e3decc584edda6f380f475146fb8",
+    "name": "This Is Business",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_37a9e3decc584edda6f380f475146fb8.avif?1790278586",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_37a9e3decc584edda6f380f475146fb8.avif?1790278586",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_37a9e3decc584edda6f380f475146fb8.avif?1790278586"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Chosen opponent chooses one:\n• They reveal their hand and discard a card of your choice. They get 2 ink drops. (Each ink drop may be removed to pay 1 {I}.)\n• You draw a card and get 2 ink drops.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Giulia Riva"
+    ],
+    "collector_number": "97",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9b97ce9d348d470682c87e873d65c213",
+    "name": "Flippant Taunt",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9b97ce9d348d470682c87e873d65c213.avif?1790792883",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9b97ce9d348d470682c87e873d65c213.avif?1790792883",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9b97ce9d348d470682c87e873d65c213.avif?1790792883"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Until the start of your next turn, chosen opposing character gains Reckless and, if you have 2 or more opponents, can't challenge your characters or locations. (They can't quest and must challenge if able.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Len Simon / Hayley Evans"
+    ],
+    "collector_number": "98",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0b1a309aadaf4f11a04a71adf0d07ec1",
+    "name": "Leaning Tower of Cheese-a",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0b1a309aadaf4f11a04a71adf0d07ec1.avif?1790442562",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0b1a309aadaf4f11a04a71adf0d07ec1.avif?1790442562",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0b1a309aadaf4f11a04a71adf0d07ec1.avif?1790442562"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "FAIR TRADE When you play this item, you may draw a card, then choose and discard a card.\nEXTRA CHEESY While you have 4 items named Leaning Tower of Cheese-a in play, your items gain Ward. (Opponents can't choose them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Valentina Graziuso"
+    ],
+    "collector_number": "101",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b65c67bf9f794aceb5e22dd51c6f1736",
+    "name": "Heihei",
+    "version": "At the Crosswalk",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b65c67bf9f794aceb5e22dd51c6f1736.avif?1790442566",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b65c67bf9f794aceb5e22dd51c6f1736.avif?1790442566",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b65c67bf9f794aceb5e22dd51c6f1736.avif?1790442566"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "AIMLESS WANDERING Once during your turn, if this character is at a location, you may move him to another location for free. If you do, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Brian Kesinger"
+    ],
+    "collector_number": "103",
+    "lang": "en",
+    "flavor_text": "That answers the how, but not the why.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d0929d36ab014cb598cc0282dbd077d7",
+    "name": "Abby Park",
+    "version": "Intense Fan",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d0929d36ab014cb598cc0282dbd077d7.avif?1790278590",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d0929d36ab014cb598cc0282dbd077d7.avif?1790278590",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d0929d36ab014cb598cc0282dbd077d7.avif?1790278590"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "DREAM COME TRUE When you play this character, reveal the top card of your deck. If it's a character card with Singer or a song card, you may put it into your hand. Otherwise, put it on the bottom of your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Carolina Álvarez"
+    ],
+    "collector_number": "104",
+    "lang": "en",
+    "flavor_text": "\"Best. Concert. EVER!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d635730df878416c8cb022ce851a4edc",
+    "name": "Goofy",
+    "version": "Dancing Superstar",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d635730df878416c8cb022ce851a4edc.avif?1790278594",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d635730df878416c8cb022ce851a4edc.avif?1790278594",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d635730df878416c8cb022ce851a4edc.avif?1790278594"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Goofy.)\nSinger 6 (This character counts as cost 6 to sing songs.)\nIN THE GROOVE Whenever this character quests, your other characters with Singer get +1 {L} this turn.",
+    "keywords": [
+      "Shift",
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Rare",
+    "illustrators": [
+      "Koni"
+    ],
+    "collector_number": "105",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_071036b6a837424086cfa2a31bd25f53",
+    "name": "Donald Duck",
+    "version": "Taxi Driver",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_071036b6a837424086cfa2a31bd25f53.avif?1790278598",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_071036b6a837424086cfa2a31bd25f53.avif?1790278598",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_071036b6a837424086cfa2a31bd25f53.avif?1790278598"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "RUSH HOUR When you play this character, chosen character gains Rush this turn. (They can challenge the turn they're played.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "110",
+    "lang": "en",
+    "flavor_text": "\"Move it, buster! I've got places to be!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_34c10ff9c954406781cfb194086e4e57",
+    "name": "Goofy",
+    "version": "Enthusiastic Tourist",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_34c10ff9c954406781cfb194086e4e57.avif?1790792888",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_34c10ff9c954406781cfb194086e4e57.avif?1790792888",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_34c10ff9c954406781cfb194086e4e57.avif?1790792888"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "CAPTURE THE MOMENT While you have a character with Singer in play, this character gets +3 {S}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Amanda Duarte"
+    ],
+    "collector_number": "111",
+    "lang": "en",
+    "flavor_text": "\"Gawrsh, Max, do you know who that is? Cause I don't. But they sound great!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cebe8d1dd11346229448528a32124471",
+    "name": "Cruella De Vil",
+    "version": "Dodging Traffic",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cebe8d1dd11346229448528a32124471.avif?1790278602",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cebe8d1dd11346229448528a32124471.avif?1790278602",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cebe8d1dd11346229448528a32124471.avif?1790278602"
+      }
+    },
+    "cost": 6,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "Rush (This character can challenge the turn they're played.)",
+    "keywords": [
+      "Rush"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Jochem Van Gool"
+    ],
+    "collector_number": "113",
+    "lang": "en",
+    "flavor_text": "\"Out of my way, imbeciles! I've got important business to see to!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e9fa2f6fc89d48adbf00d7f510de863f",
+    "name": "Jasper",
+    "version": "Dodgy Boater",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e9fa2f6fc89d48adbf00d7f510de863f.avif?1790442570",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e9fa2f6fc89d48adbf00d7f510de863f.avif?1790442570",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e9fa2f6fc89d48adbf00d7f510de863f.avif?1790442570"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Kevin Sidharta"
+    ],
+    "collector_number": "114",
+    "lang": "en",
+    "flavor_text": "\"You can use the big boat when you've earned it.\"\n—Cruella",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1323750fa3724ad3a96a4e34db6c9e93",
+    "name": "Stacey",
+    "version": "Powerline Superfan",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1323750fa3724ad3a96a4e34db6c9e93.avif?1790278606",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1323750fa3724ad3a96a4e34db6c9e93.avif?1790278606",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1323750fa3724ad3a96a4e34db6c9e93.avif?1790278606"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 3,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Victor Yano Covarrubias"
+    ],
+    "collector_number": "116",
+    "lang": "en",
+    "flavor_text": "\"Check it out—they had the limited-edition Powerline scented candle! I've been looking for that forever!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_88b54a70ed1c4bbc96dc741952224222",
+    "name": "Ernesto de la Cruz",
+    "version": "Ruthless Musician",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_88b54a70ed1c4bbc96dc741952224222.avif?1790278609",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_88b54a70ed1c4bbc96dc741952224222.avif?1790278609",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_88b54a70ed1c4bbc96dc741952224222.avif?1790278609"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "Singer 8 (This character counts as cost 8 to sing songs.)\nWHATEVER IT TAKES When you play this character, you may banish chosen character with Singer.",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Alejandro Hernandez"
+    ],
+    "collector_number": "120",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a4d86695538e420fbf1d735d13e87044",
+    "name": "Tramp",
+    "version": "Quick on His Feet",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a4d86695538e420fbf1d735d13e87044.avif?1790278613",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a4d86695538e420fbf1d735d13e87044.avif?1790278613",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a4d86695538e420fbf1d735d13e87044.avif?1790278613"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "GIVE CHASE When you play this character, choose one:\n• Exert chosen character with 1 {S} or less.\n• This character gains Rush this turn. (They can challenge the turn they're played.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Dani Fdez / Greg Shrader"
+    ],
+    "collector_number": "122",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_988048279b02486fafbe4902e68ece1b",
+    "name": "Roxanne",
+    "version": "Concert Lover",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_988048279b02486fafbe4902e68ece1b.avif?1790792892",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_988048279b02486fafbe4902e68ece1b.avif?1790792892",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_988048279b02486fafbe4902e68ece1b.avif?1790792892"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally"
+    ],
+    "text": "TODAY'S THE DAY When you play this character, you may move her and one of your other characters to the same location for free. If you do, the other character gets +1 {L} this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Carmine Pucci"
+    ],
+    "collector_number": "124",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e374a2bd0f3c42bb87ab9f365f9b91fe",
+    "name": "Wasabi",
+    "version": "Called into Battle",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e374a2bd0f3c42bb87ab9f365f9b91fe.avif?1790278617",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e374a2bd0f3c42bb87ab9f365f9b91fe.avif?1790278617",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e374a2bd0f3c42bb87ab9f365f9b91fe.avif?1790278617"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "TWIN BLADES During your turn, whenever this character deals damage to another character in a challenge, deal damage equal to this character's {S} to another chosen character.\nBRING THE HEAT While you have an ink drop, this character gets +2 {S}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Alberto Besi"
+    ],
+    "collector_number": "125",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_69501b880fee49e28903ee6227f0ab08",
+    "name": "Lady Tremaine",
+    "version": "Scornful Snob",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_69501b880fee49e28903ee6227f0ab08.avif?1790792896",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_69501b880fee49e28903ee6227f0ab08.avif?1790792896",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_69501b880fee49e28903ee6227f0ab08.avif?1790792896"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "DELICATE SENSIBILITIES Once during your turn, whenever you play a song, you may deal 1 damage to this character. If you do, draw a card.\nHARSH CRITIQUE Opposing characters with Singer enter play with 1 damage.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Chemène de Heus"
+    ],
+    "collector_number": "126",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2926bf3cb6f74dc88d9572f3a5cbac85",
+    "name": "Intimidation Tactics",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2926bf3cb6f74dc88d9572f3a5cbac85.avif?1790792899",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2926bf3cb6f74dc88d9572f3a5cbac85.avif?1790792899",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2926bf3cb6f74dc88d9572f3a5cbac85.avif?1790792899"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Banish chosen character with 2 {S} or less.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Leonardo Giammichele"
+    ],
+    "collector_number": "128",
+    "lang": "en",
+    "flavor_text": "\"What were the ink drops doing here at Khan Stadium? We want answers, and you're going to give them to us.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b4b46cfa078f4621ad23699e96e28b4f",
+    "name": "Pushing Boundaries",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b4b46cfa078f4621ad23699e96e28b4f.avif?1790792903",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b4b46cfa078f4621ad23699e96e28b4f.avif?1790792903",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b4b46cfa078f4621ad23699e96e28b4f.avif?1790792903"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Chosen character of yours takes no damage while challenging this turn. Get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Domenico Russo"
+    ],
+    "collector_number": "129",
+    "lang": "en",
+    "flavor_text": "\"There's no way your chem balls will hold up against these upgraded plasma blades!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5dc5db4d928b415e92f2202aa861f8bf",
+    "name": "Jukebox",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5dc5db4d928b415e92f2202aa861f8bf.avif?1790442574",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5dc5db4d928b415e92f2202aa861f8bf.avif?1790442574",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5dc5db4d928b415e92f2202aa861f8bf.avif?1790442574"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "ON REPEAT Once during your turn, whenever you play a song, if it has the same name as a card in your discard, you may ready chosen character. If you do, they can't quest for the rest of this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Jeremy Adams"
+    ],
+    "collector_number": "134",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b5d8bf87d08940b9b253ac3b0d1ba9be",
+    "name": "Cinderella",
+    "version": "Homespun Dressmaker",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b5d8bf87d08940b9b253ac3b0d1ba9be.avif?1790278621",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b5d8bf87d08940b9b253ac3b0d1ba9be.avif?1790278621",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b5d8bf87d08940b9b253ac3b0d1ba9be.avif?1790278621"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "DISCERNING EYE When you play this character, look at the top card of your deck. Put it on either the top or the bottom of your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Aubrey Archer"
+    ],
+    "collector_number": "138",
+    "lang": "en",
+    "flavor_text": "\"Maybe it is old-fashioned, but I'll fix that.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5033cd4933af467c94ab06533c036f20",
+    "name": "Wasabi",
+    "version": "Future Thinker",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5033cd4933af467c94ab06533c036f20.avif?1790194832",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5033cd4933af467c94ab06533c036f20.avif?1790194832",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5033cd4933af467c94ab06533c036f20.avif?1790194832"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "SAFETY FIRST When you play this character, if you removed an ink drop to play him, your other characters gain Resist +1 and Ward until the start of your next turn. (Damage dealt to them is reduced by 1. Opponents can't choose them except to challenge.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "French Carlomagno"
+    ],
+    "collector_number": "139",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b67c7d8bd4474a5791f646d30212bc96",
+    "name": "Baymax",
+    "version": "Qualified Physician",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b67c7d8bd4474a5791f646d30212bc96.avif?1790792907",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b67c7d8bd4474a5791f646d30212bc96.avif?1790792907",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b67c7d8bd4474a5791f646d30212bc96.avif?1790792907"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Super",
+      "Hero",
+      "Robot"
+    ],
+    "text": "MEDICAL ASSISTANCE Whenever this character quests, remove up to 2 damage from chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Leonardo Giammichele"
+    ],
+    "collector_number": "140",
+    "lang": "en",
+    "flavor_text": "\"On a scale from 1 to 10, how would you rate your pain?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_597a36b3d75a4909b88a99129bae542e",
+    "name": "Abigail & Amelia",
+    "version": "Gossiping Geese",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_597a36b3d75a4909b88a99129bae542e.avif?1790792911",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_597a36b3d75a4909b88a99129bae542e.avif?1790792911",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_597a36b3d75a4909b88a99129bae542e.avif?1790792911"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Laura Pauselli"
+    ],
+    "collector_number": "143",
+    "lang": "en",
+    "flavor_text": "\"I say, did you see that inkcaster, Abigail?\"\n\"Simply marvelous, Amelia. I do enjoy how each one matches its Illumineer's interests.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_ef21e2b7ae6349d4afa590b90a7041c6",
+    "name": "Madam Mim",
+    "version": "Nosy Neighbor",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ef21e2b7ae6349d4afa590b90a7041c6.avif?1790278625",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ef21e2b7ae6349d4afa590b90a7041c6.avif?1790278625",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ef21e2b7ae6349d4afa590b90a7041c6.avif?1790278625"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "NO HIDING When you play this character, look at chosen opponent's hand.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Gwawi"
+    ],
+    "collector_number": "146",
+    "lang": "en",
+    "flavor_text": "\"Yoo-hooo! Merlin! What are you playing with? Don't you know it's nice to share your toys?\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b49d7dc0f4f14a7e80b08c83071296ef",
+    "name": "Lionheart",
+    "version": "Cleaning Up the City",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b49d7dc0f4f14a7e80b08c83071296ef.avif?1790278629",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b49d7dc0f4f14a7e80b08c83071296ef.avif?1790278629",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b49d7dc0f4f14a7e80b08c83071296ef.avif?1790278629"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "Alert (This character can challenge as if they had Evasive.)\nCIVIC DUTY 6 {I} — Remove all damage from chosen character or location.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "147",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c3250b91153c47ebb081f8ea5a461da0",
+    "name": "Hiro Hamada",
+    "version": "Pioneering Inventor",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c3250b91153c47ebb081f8ea5a461da0.avif?1790792916",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c3250b91153c47ebb081f8ea5a461da0.avif?1790792916",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c3250b91153c47ebb081f8ea5a461da0.avif?1790792916"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "NIFTY TECH While you have an item in play, this character gets +1 {L}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Simone Giovanardi"
+    ],
+    "collector_number": "150",
+    "lang": "en",
+    "flavor_text": "\"What Tadashi did with Baymax is incredible. But my brother never had access to ink drops.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_616a995dbb1f4084beb40ed36986b1e1",
+    "name": "Honey Lemon",
+    "version": "Endlessly Curious",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_616a995dbb1f4084beb40ed36986b1e1.avif?1790792920",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_616a995dbb1f4084beb40ed36986b1e1.avif?1790792920",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_616a995dbb1f4084beb40ed36986b1e1.avif?1790792920"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Super",
+      "Hero",
+      "Inventor"
+    ],
+    "text": "SHOCKING BREAKTHROUGH Whenever this character quests, you pay 1 {I} less for the next item you play this turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Tania Soler"
+    ],
+    "collector_number": "151",
+    "lang": "en",
+    "flavor_text": "\"These geodes have really supercharged my research!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_58f4cf1d04434ab7b352cad8452232d0",
+    "name": "Thomas O'Malley",
+    "version": "Savvy Vagabond",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_58f4cf1d04434ab7b352cad8452232d0.avif?1790194838",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_58f4cf1d04434ab7b352cad8452232d0.avif?1790194838",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_58f4cf1d04434ab7b352cad8452232d0.avif?1790194838"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "LUCKY BREAK Whenever this character quests, each player reveals the top card of their deck. Put the card with the highest cost revealed this way, or each card tied for highest cost, into its player's hand. Put the rest on the bottom of their players' decks.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Ada Devecchi"
+    ],
+    "collector_number": "152",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2252afcd4e864c989912035aa9591f1f",
+    "name": "Duchess",
+    "version": "Cosmopolitan Cat",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2252afcd4e864c989912035aa9591f1f.avif?1790278633",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2252afcd4e864c989912035aa9591f1f.avif?1790278633",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2252afcd4e864c989912035aa9591f1f.avif?1790278633"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "UPPER CRUST While you have a character in play with the highest cost, or tied for highest cost, this character gets +1 {L}.\nPROPER ETIQUETTE Whenever this character quests, look at the top card of your deck. Put that card on either the top or the bottom of your deck.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Valentina Graziuso"
+    ],
+    "collector_number": "153",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c88e409716e8466b8850451676e23c0c",
+    "name": "Judy Hopps",
+    "version": "Day Camp Instructor",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c88e409716e8466b8850451676e23c0c.avif?1790278637",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c88e409716e8466b8850451676e23c0c.avif?1790278637",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c88e409716e8466b8850451676e23c0c.avif?1790278637"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nLEND A PAW When you play this character, if you played another character this turn, you may put the top card of your deck into your inkwell facedown and exerted.",
+    "keywords": [
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Jared Mathews / Amber Kommavongsa"
+    ],
+    "collector_number": "154",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3c5e60f59da54544b4757e8f00d5c902",
+    "name": "Minnie Mouse",
+    "version": "Urban Visionary",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3c5e60f59da54544b4757e8f00d5c902.avif?1790278641",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3c5e60f59da54544b4757e8f00d5c902.avif?1790278641",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3c5e60f59da54544b4757e8f00d5c902.avif?1790278641"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)\nALL BY DESIGN At the end of your turn, if this character is exerted, you may look at the cards in your inkwell and then you may return one to your hand. If you do either, exert all cards in your inkwell.",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "155",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_6a6e3f2df2d448bc99d1492d3d6585e6",
+    "name": "Cinderella",
+    "version": "Unintentional Icon",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6a6e3f2df2d448bc99d1492d3d6585e6.avif?1790278645",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6a6e3f2df2d448bc99d1492d3d6585e6.avif?1790278645",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6a6e3f2df2d448bc99d1492d3d6585e6.avif?1790278645"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters named Cinderella.)\nBESPOKE DESIGN At the end of your turn, you may look at the top 2 cards of your deck. Put one on either the top or the bottom of your deck and the other into your inkwell facedown and exerted.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Maxine Vee"
+    ],
+    "collector_number": "157",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_aa87b77fe87746c591ca72bd326b4a63",
+    "name": "Doug",
+    "version": "Lying in Wait",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_aa87b77fe87746c591ca72bd326b4a63.avif?1790278649",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_aa87b77fe87746c591ca72bd326b4a63.avif?1790278649",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_aa87b77fe87746c591ca72bd326b4a63.avif?1790278649"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.)",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Veronica Di Lorenzo / Livio Cacciatore"
+    ],
+    "collector_number": "161",
+    "lang": "en",
+    "flavor_text": "\"Just watch it. Doug is the opposite of friendly. He's unfriendly.\"\n—Duke Weaselton",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c5aa84b2f0d743aeb84d5df0c62eca5a",
+    "name": "A Dark Age No More",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c5aa84b2f0d743aeb84d5df0c62eca5a.avif?1790792924",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c5aa84b2f0d743aeb84d5df0c62eca5a.avif?1790792924",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c5aa84b2f0d743aeb84d5df0c62eca5a.avif?1790792924"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Put the top card of your deck into your inkwell facedown and exerted. Get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Monica Catalano / Kristen Breshears"
+    ],
+    "collector_number": "162",
+    "lang": "en",
+    "flavor_text": "\"What strange rocks! I'd better take one to Merlin.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cfa5c6e27d8f4465a2446e77373c162d",
+    "name": "Intense Research",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cfa5c6e27d8f4465a2446e77373c162d.avif?1790278653",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cfa5c6e27d8f4465a2446e77373c162d.avif?1790278653",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cfa5c6e27d8f4465a2446e77373c162d.avif?1790278653"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Look at the top 2 cards of your deck, then put one into your hand and the rest on the bottom of your deck in any order. If you removed an ink drop to play this action, look at the top 5 cards of your deck instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Omar Lozano"
+    ],
+    "collector_number": "164",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fbad04e914b74e78958db0a46870584d",
+    "name": "Scram!",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fbad04e914b74e78958db0a46870584d.avif?1790442578",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fbad04e914b74e78958db0a46870584d.avif?1790442578",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fbad04e914b74e78958db0a46870584d.avif?1790442578"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Put chosen opposing character with cost 2 or less into their player's inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Mario Oscar Gabriele"
+    ],
+    "collector_number": "165",
+    "lang": "en",
+    "flavor_text": "\"For the last time, I don't take on apprentices!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9177aee61f9c4737912612c5253a6aab",
+    "name": "Spyglass Hat",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9177aee61f9c4737912612c5253a6aab.avif?1790792928"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "HAT COUTURE Whenever you play this or another item, if the item you played has a different name than each other item you have in play, you may put a card from your hand into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Xavi Planas Torrents"
+    ],
+    "collector_number": "168",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_182d0618dfb84eeea0f7d2b03f02afc9",
+    "name": "Upgraded Chem Purse",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_182d0618dfb84eeea0f7d2b03f02afc9.avif?1790442582",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_182d0618dfb84eeea0f7d2b03f02afc9.avif?1790442582",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_182d0618dfb84eeea0f7d2b03f02afc9.avif?1790442582"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "IT'S GOT POCKETS! {E}, 1 {I}, Banish one of your other items — Look at the top 4 cards of your deck. You may reveal an item card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Alyssa Lee"
+    ],
+    "collector_number": "169",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a60684a0d1ce41dcb69db19d9bec01c7",
+    "name": "Tick-Tock",
+    "version": "Canal Croc",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a60684a0d1ce41dcb69db19d9bec01c7.avif?1790792931",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a60684a0d1ce41dcb69db19d9bec01c7.avif?1790792931",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a60684a0d1ce41dcb69db19d9bec01c7.avif?1790792931"
+      }
+    },
+    "cost": 8,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 9,
+    "willpower": 9,
+    "lore": 3,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Mike Parker"
+    ],
+    "collector_number": "175",
+    "lang": "en",
+    "flavor_text": "There are no alligators in the canals of Hyperia City. There is, however, a crocodile.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f6b191e458c8495f909626b47e1f2995",
+    "name": "Woolter & Jesse",
+    "version": "Bellwether's Henchmen",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f6b191e458c8495f909626b47e1f2995.avif?1790792935",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f6b191e458c8495f909626b47e1f2995.avif?1790792935",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f6b191e458c8495f909626b47e1f2995.avif?1790792935"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "Bodyguard (This character may enter play exerted. An opposing character who challenges one of your characters must choose one with Bodyguard if able.)\nChallenger +2 (While challenging, this character gets +2 {S}.)",
+    "keywords": [
+      "Bodyguard",
+      "Challenger"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Juan Diego León"
+    ],
+    "collector_number": "178",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_116f3c8f3d3e4234a3fd146c61d8904f",
+    "name": "Napoleon",
+    "version": "Patient Watchdog",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_116f3c8f3d3e4234a3fd146c61d8904f.avif?1790792938",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_116f3c8f3d3e4234a3fd146c61d8904f.avif?1790792938",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_116f3c8f3d3e4234a3fd146c61d8904f.avif?1790792938"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn"
+    ],
+    "text": "Alert (This character can challenge as if they had Evasive.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Filipe Laurentino"
+    ],
+    "collector_number": "179",
+    "lang": "en",
+    "flavor_text": "\"Sonny, I was asked to guard this door by my Illumineer, and that's just what I'm gonna do.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7bbd2b04887c4ec997d2b7cf1a5eb72b",
+    "name": "Toulouse",
+    "version": "Rough and Tumble",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7bbd2b04887c4ec997d2b7cf1a5eb72b.avif?1790278662",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7bbd2b04887c4ec997d2b7cf1a5eb72b.avif?1790278662",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7bbd2b04887c4ec997d2b7cf1a5eb72b.avif?1790278662"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "UNBECOMING BEHAVIOR When you play this character, opponents can't play actions until the start of your next turn.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "182",
+    "lang": "en",
+    "flavor_text": "The size of a house slipper with the heart of a tiger.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_990ee1aefecf44a4bf36d98ed5b82fab",
+    "name": "Sir Pellinore",
+    "version": "Tougher Than He Looks",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_990ee1aefecf44a4bf36d98ed5b82fab.avif?1790792942",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_990ee1aefecf44a4bf36d98ed5b82fab.avif?1790792942",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_990ee1aefecf44a4bf36d98ed5b82fab.avif?1790792942"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Knight"
+    ],
+    "text": "Challenger +2 (While challenging, this character gets +2 {S}.)\nSPOILS OF VICTORY During your turn, whenever this character banishes another character in a challenge, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [
+      "Challenger"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Josep Solé"
+    ],
+    "collector_number": "184",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_30a89e2abb7c478ca77cf79c66c4ee16",
+    "name": "Arthur",
+    "version": "Novice Blacksmith",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_30a89e2abb7c478ca77cf79c66c4ee16.avif?1790194842",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_30a89e2abb7c478ca77cf79c66c4ee16.avif?1790194842",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_30a89e2abb7c478ca77cf79c66c4ee16.avif?1790194842"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "CAREFUL CRAFTING When you play this character, you may pay 1 {I} to get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Leonardo Giammichele"
+    ],
+    "collector_number": "185",
+    "lang": "en",
+    "flavor_text": "\"You need a strong arm and a strong mind to craft these ink drops.\"\n—Merlin",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1d6f817a9ccd4cdcbd1cc89918f1c1c1",
+    "name": "Berlioz",
+    "version": "Tiny Rascal",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1d6f817a9ccd4cdcbd1cc89918f1c1c1.avif?1790278665",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1d6f817a9ccd4cdcbd1cc89918f1c1c1.avif?1790278665",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1d6f817a9ccd4cdcbd1cc89918f1c1c1.avif?1790278665"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "SHARP LITTLE CLAWS When you play this character, you may deal 1 damage to chosen character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Brian Weisz"
+    ],
+    "collector_number": "186",
+    "lang": "en",
+    "flavor_text": "\"This'll show that mean ol' butler.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2b2dd9a7d04d4a4c9c9f9b256d560671",
+    "name": "Marie",
+    "version": "Caught in the Act",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2b2dd9a7d04d4a4c9c9f9b256d560671.avif?1790278669",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2b2dd9a7d04d4a4c9c9f9b256d560671.avif?1790278669",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2b2dd9a7d04d4a4c9c9f9b256d560671.avif?1790278669"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": "A LITTLE TREAT Whenever this character quests, if an opposing character took damage this turn, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Rare",
+    "illustrators": [
+      "Defne Tözüm / Livio Cacciatore"
+    ],
+    "collector_number": "187",
+    "lang": "en",
+    "flavor_text": "\"Danger is no excuse to forget one's manners.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d8b66cb988364f29b55e699242ebc517",
+    "name": "Koslov",
+    "version": "Imposing Enforcer",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d8b66cb988364f29b55e699242ebc517.avif?1790792945",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d8b66cb988364f29b55e699242ebc517.avif?1790792945",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d8b66cb988364f29b55e699242ebc517.avif?1790792945"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Common",
+    "illustrators": [
+      "Otto Paredes"
+    ],
+    "collector_number": "189",
+    "lang": "en",
+    "flavor_text": "\"Times were tough back then. Koslov and me, we were just two young mammals trying to make our way in the world. I helped him out, he helped me out.\"\n—Mr. Big",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4996f25eae264a578b050d364524c014",
+    "name": "Baloo",
+    "version": "Freight Pilot",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4996f25eae264a578b050d364524c014.avif?1790442585",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4996f25eae264a578b050d364524c014.avif?1790442585",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4996f25eae264a578b050d364524c014.avif?1790442585"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Captain"
+    ],
+    "text": "Resist +1 (Damage dealt to this character is reduced by 1.)",
+    "keywords": [
+      "Resist"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Common",
+    "illustrators": [
+      "Cam Kendell"
+    ],
+    "collector_number": "191",
+    "lang": "en",
+    "flavor_text": "\"Hey, no fair! You're air pirates—you're not supposed to attack me on the ground!\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_04d549bf71c24aa2a30c612d5d9947c5",
+    "name": "Kit Cloudkicker",
+    "version": "Sure Shot",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_04d549bf71c24aa2a30c612d5d9947c5.avif?1790792949",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_04d549bf71c24aa2a30c612d5d9947c5.avif?1790792949",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_04d549bf71c24aa2a30c612d5d9947c5.avif?1790792949"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally"
+    ],
+    "text": "Shift 3 {I} (You may pay 3 {I} to play this on top of one of your characters named Kit Cloudkicker.)\nAERIAL ACROBATICS Whenever this character quests, choose one:\n• Get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)\n• Deal 1 damage to chosen character.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Sandra Rios"
+    ],
+    "collector_number": "192",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_494b7de7c7f64b67bb14ac3b4050514b",
+    "name": "Arthur",
+    "version": "Jousting Knight",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_494b7de7c7f64b67bb14ac3b4050514b.avif?1790792953",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_494b7de7c7f64b67bb14ac3b4050514b.avif?1790792953",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_494b7de7c7f64b67bb14ac3b4050514b.avif?1790792953"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Knight"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Arthur.)\nChallenger +2 (While challenging, this character gets +2 {S}.)\nVICTORY PURSE During your turn, whenever this character banishes another character in a challenge, draw a card and get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [
+      "Challenger",
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Super_rare",
+    "illustrators": [
+      "Ricardo Caria"
+    ],
+    "collector_number": "193",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_dae10098369548f3bf33437859828c25",
+    "name": "Shere Khan",
+    "version": "Khan Industries CEO",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_dae10098369548f3bf33437859828c25.avif?1790194847",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_dae10098369548f3bf33437859828c25.avif?1790194847",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_dae10098369548f3bf33437859828c25.avif?1790194847"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain"
+    ],
+    "text": "NEW INCENTIVE When you play this character, chosen character can challenge ready characters this turn.\nCORNER THE MARKET Once during your turn, whenever one of your other characters banishes another character in a challenge, get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Aitor Sebastián"
+    ],
+    "collector_number": "195",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_181b597fbbc3457384a3b4d545807df3",
+    "name": "Tiana",
+    "version": "Party Hostess",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_181b597fbbc3457384a3b4d545807df3.avif?1790278672",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_181b597fbbc3457384a3b4d545807df3.avif?1790278672",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_181b597fbbc3457384a3b4d545807df3.avif?1790278672"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Shift 5 {I} (You may pay 5 {I} to play this on top of one of your characters named Tiana.)\nIDEAL VENUE When you play this character, you may draw 2 cards, then choose and discard a card. If you discarded a location card this way, you may play it from your discard for free.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Legendary",
+    "illustrators": [
+      "Aristeidis Zentelis"
+    ],
+    "collector_number": "196",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_839bde73fef04b0f8d4934ed3516a92b",
+    "name": "Jousting Match",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_839bde73fef04b0f8d4934ed3516a92b.avif?1790278676",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_839bde73fef04b0f8d4934ed3516a92b.avif?1790278676",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_839bde73fef04b0f8d4934ed3516a92b.avif?1790278676"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Deal 2 damage to chosen character. If you removed an ink drop to play this action, deal 5 damage instead.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Rare",
+    "illustrators": [
+      "Rosa la Barbera / Livio Cacciatore"
+    ],
+    "collector_number": "197",
+    "lang": "en",
+    "flavor_text": "\"Jousting is a fine skill. It's . . . it's a highly developed science.\"\n—Sir Pellinore",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_ae2b39a99d464b1aab4e5a15250467d2",
+    "name": "Khan Transport Delivery",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_ae2b39a99d464b1aab4e5a15250467d2.avif?1790792956",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_ae2b39a99d464b1aab4e5a15250467d2.avif?1790792956",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_ae2b39a99d464b1aab4e5a15250467d2.avif?1790792956"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Draw a card. Get 1 ink drop. (You may remove an ink drop to pay 1 {I}.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Common",
+    "illustrators": [
+      "Eva Widermann"
+    ],
+    "collector_number": "199",
+    "lang": "en",
+    "flavor_text": "\"What we sell is power. The power of convenience.\"\n—Shere Khan",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_72af6d90932844239513539d4ed3f705",
+    "name": "Hyperia City Express",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_72af6d90932844239513539d4ed3f705.avif?1790442589",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_72af6d90932844239513539d4ed3f705.avif?1790442589",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_72af6d90932844239513539d4ed3f705.avif?1790442589"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "EASY COMMUTE {E} — Move a character of yours to a location for free.\nSTYLISH CONVENIENCE Your Hyperia City locations get +2 {W}.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Uncommon",
+    "illustrators": [
+      "Crosby Guerrero"
+    ],
+    "collector_number": "201",
+    "lang": "en",
+    "flavor_text": "Arrive on time, every time.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_6d3607ca39714e16869a708fb3484460",
+    "name": "Mickey Mouse",
+    "version": "Best in Town",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_6d3607ca39714e16869a708fb3484460.avif?1790278680",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_6d3607ca39714e16869a708fb3484460.avif?1790278680",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_6d3607ca39714e16869a708fb3484460.avif?1790278680"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero"
+    ],
+    "text": "Adventurous\nHOT DOG! At the end of your turn, if this character is exerted, each player gets 1 ink drop.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Iconic",
+    "illustrators": [
+      "Jochem Van Gool"
+    ],
+    "collector_number": "241",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_53e52ad2780c40559d8ee63fe8e47192",
+    "name": "Cinderella",
+    "version": "Unintentional Icon",
+    "layout": "normal",
+    "released_at": "2026-10-16",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_53e52ad2780c40559d8ee63fe8e47192.avif?1790278658",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_53e52ad2780c40559d8ee63fe8e47192.avif?1790278658",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_53e52ad2780c40559d8ee63fe8e47192.avif?1790278658"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Shift 5 {I}\nBESPOKE DESIGN At the end of your turn, you may look at the top 2 cards of your deck. Put one on either the top or the bottom of your deck and the other into your inkwell facedown and exerted.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Iconic",
+    "illustrators": [
+      "Clio Schaffner"
+    ],
+    "collector_number": "242",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_03ecae5ead004dd5a51cf133b9b224ef",
+      "code": "14",
+      "name": "Hyperia City"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]

@@ -1,0 +1,549 @@
+[
+  {
+    "id": "crd_3649235bb31d4cf09fcdfa873f660fe3",
+    "name": "Daisy Duck",
+    "version": "Paranormal Investigator",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3649235bb31d4cf09fcdfa873f660fe3.avif?1789690237",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3649235bb31d4cf09fcdfa873f660fe3.avif?1789690237",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3649235bb31d4cf09fcdfa873f660fe3.avif?1789690237"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Daisy Duck.)\nSupport (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nSTRANGE HAPPENINGS While this character is exerted, cards enter opponents' inkwells exerted.",
+    "keywords": [
+      "Shift",
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Sam Nielson"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1923db6966fd4f2991e4dd850de4c627",
+    "name": "Daisy Duck",
+    "version": "Paranormal Investigator",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1923db6966fd4f2991e4dd850de4c627.avif?1789690241",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1923db6966fd4f2991e4dd850de4c627.avif?1789690241",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1923db6966fd4f2991e4dd850de4c627.avif?1789690241"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Detective"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Daisy Duck.)\nSupport (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nSTRANGE HAPPENINGS While this character is exerted, cards enter opponents' inkwells exerted.",
+    "keywords": [
+      "Shift",
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Sam Nielson"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_fcd5ed5584c345d5a704ae6ca63907d5",
+    "name": "Morph",
+    "version": "Little Imitator",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_fcd5ed5584c345d5a704ae6ca63907d5.avif?1789690186",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_fcd5ed5584c345d5a704ae6ca63907d5.avif?1789690186",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_fcd5ed5584c345d5a704ae6ca63907d5.avif?1789690186"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Ally",
+      "Alien"
+    ],
+    "text": "ADVANCED MIMICRY You can shift any character on top of this character. (This includes all Shift variants.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Brian Weisz"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": "\"Listen up. I've got a special job for you.\"\n—John Silver",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c11f3dbe66b641c1b238f59a85d9ad9e",
+    "name": "Meilin Lee",
+    "version": "Lead Vocalist",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c11f3dbe66b641c1b238f59a85d9ad9e.avif?1789690190",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c11f3dbe66b641c1b238f59a85d9ad9e.avif?1789690190",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c11f3dbe66b641c1b238f59a85d9ad9e.avif?1789690190"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Hero",
+      "Red Panda"
+    ],
+    "text": "Singer 3 (This character counts as cost 3 to sing songs.)\nBAND LOYALTY This character can't sing songs without Sing Together.",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Denny Minonne"
+    ],
+    "collector_number": "10",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0fc8c420ccb540c58dcee61bb7a0f5fd",
+    "name": "Randall Boggs",
+    "version": "Scary Smart",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0fc8c420ccb540c58dcee61bb7a0f5fd.avif?1789690194",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0fc8c420ccb540c58dcee61bb7a0f5fd.avif?1789690194",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0fc8c420ccb540c58dcee61bb7a0f5fd.avif?1789690194"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Villain",
+      "Monster"
+    ],
+    "text": "GET OUTTA HERE! When you play this character, put chosen character of yours into your inkwell facedown and exerted.\nDEVIOUS PLAN At the end of your turn, if all cards in your inkwell are exerted, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kendall Hale"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1db47bd68c9b4567a8aea3e935a1e0df",
+    "name": "Tigger",
+    "version": "Hunny Barbarian",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1db47bd68c9b4567a8aea3e935a1e0df.avif?1789690201",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1db47bd68c9b4567a8aea3e935a1e0df.avif?1789690201",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1db47bd68c9b4567a8aea3e935a1e0df.avif?1789690201"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Dreamborn",
+      "Ally",
+      "Tigger",
+      "Hunny"
+    ],
+    "text": "Reckless (This character can't quest and must challenge each turn if able.)\nPROTECTIVE CHARGE Once during your turn, whenever this character challenges another character, you may ready chosen Hunny character. If you do, that character can't quest for the rest of this turn.",
+    "keywords": [
+      "Reckless"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 4,
+    "lore": 0,
+    "rarity": "Promo",
+    "illustrators": [
+      "Simone Giovanardi"
+    ],
+    "collector_number": "12",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5f75f51d10264a9e8df15676a6d012fe",
+    "name": "Belle",
+    "version": "Always Reading",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5f75f51d10264a9e8df15676a6d012fe.avif?1789690205",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5f75f51d10264a9e8df15676a6d012fe.avif?1789690205",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5f75f51d10264a9e8df15676a6d012fe.avif?1789690205"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "DREAMING OF MORE You pay 1 {I} less to shift a character on top of this character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Pauline Voss"
+    ],
+    "collector_number": "13",
+    "lang": "en",
+    "flavor_text": "\"I just finished the most wonderful story about a beanstalk and an ogre . . .\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_5f81d8030a944df18a429df6529b5eb7",
+    "name": "If I Didn't Have You",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_5f81d8030a944df18a429df6529b5eb7.avif?1789690209",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_5f81d8030a944df18a429df6529b5eb7.avif?1789690209",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_5f81d8030a944df18a429df6529b5eb7.avif?1789690209"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Action",
+      "Song"
+    ],
+    "classifications": null,
+    "text": "(A character with cost 3 or more can {E} to sing this song for free.) \nYou and another chosen player each draw 2 cards.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Saulo Nate"
+    ],
+    "collector_number": "14",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_c34200b2cf674408be7b5c850d122434",
+    "name": "Rapunzel",
+    "version": "Escaping the Tower",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_c34200b2cf674408be7b5c850d122434.avif?1789690215",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_c34200b2cf674408be7b5c850d122434.avif?1789690215",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_c34200b2cf674408be7b5c850d122434.avif?1789690215"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "THE CALL OF ADVENTURE Once during your turn, you may discard a card to give this character +1 {L} and Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Lisanne Koeteeuw"
+    ],
+    "collector_number": "15",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d8f350129bf747ba9aaddc15077460c2",
+    "name": "Rapunzel",
+    "version": "Escaping the Tower",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d8f350129bf747ba9aaddc15077460c2.avif?1789690219",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d8f350129bf747ba9aaddc15077460c2.avif?1789690219",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d8f350129bf747ba9aaddc15077460c2.avif?1789690219"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "THE CALL OF ADVENTURE Once during your turn, you may discard a card to give this character +1 {L} and Evasive until the start of your next turn. (Only characters with Evasive can challenge them.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 1,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Lisanne Koeteeuw"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_e4494299abd84f6596a14f428398c9ce",
+      "code": "P4",
+      "name": "Promo Set 4"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]
