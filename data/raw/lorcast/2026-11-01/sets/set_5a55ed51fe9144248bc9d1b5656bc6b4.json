@@ -1,0 +1,1865 @@
+[
+  {
+    "id": "crd_a71335b727b7435fb679377e9ba03f79",
+    "name": "Mickey Mouse",
+    "version": "Rescued from the Entrance",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a71335b727b7435fb679377e9ba03f79.avif?1790948083",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a71335b727b7435fb679377e9ba03f79.avif?1790948083",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a71335b727b7435fb679377e9ba03f79.avif?1790948083"
+      }
+    },
+    "cost": 3,
+    "inkwell": false,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero"
+    ],
+    "text": "Support (Whenever this character quests, you may add their {S} to another chosen character's {S} this turn.)\nFAIR TRADE Once during the Illumineers' turn, an Illumineer may pay 3 lore. If they do, each Illumineer draws a card.",
+    "keywords": [
+      "Support"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Gonzalo Kenny"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_01c88d91c2f54301a5e48069b22c2422",
+    "name": "Rapunzel",
+    "version": "Rescued from the Darkness",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_01c88d91c2f54301a5e48069b22c2422.avif?1790948092",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_01c88d91c2f54301a5e48069b22c2422.avif?1790948092",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_01c88d91c2f54301a5e48069b22c2422.avif?1790948092"
+      }
+    },
+    "cost": 4,
+    "inkwell": false,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "IRON DEFENSE During the Vine's turn, this character gains Resist +1. (Damage dealt to them is reduced by 1.)\nKA-BONK! Once during the Illumineers' turn, an Illumineer may pay 2 lore to deal 1 damage to chosen Vineling character. This damage can't be reduced by Resist.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Maria Dresden"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a2cf763f12574b29b7e29ff53ab0932e",
+    "name": "Chamber Guardian",
+    "version": "Vine Protector",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a2cf763f12574b29b7e29ff53ab0932e.avif?1790948097",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a2cf763f12574b29b7e29ff53ab0932e.avif?1790948097",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a2cf763f12574b29b7e29ff53ab0932e.avif?1790948097"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Boss",
+      "Vineling"
+    ],
+    "text": "Ward\nMALEVOLENT GROWTH When the Vine plays this character, make a Vine Tendril for each Illumineer and move the Vine's draw token up 1.\nTRIUMPH When this character is banished, the Illumineers win the scenario and open The Search for Piglet prize pack!",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 20,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Rubin Chung / Leonardo Giammichele"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9aa01dc24bbb4a80972acd346f5b8f21",
+    "name": "Sulley",
+    "version": "Rescued from the Garden",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9aa01dc24bbb4a80972acd346f5b8f21.avif?1790948101",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9aa01dc24bbb4a80972acd346f5b8f21.avif?1790948101",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9aa01dc24bbb4a80972acd346f5b8f21.avif?1790948101"
+      }
+    },
+    "cost": 2,
+    "inkwell": false,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Monster"
+    ],
+    "text": "Reckless (This character can't quest and must challenge each turn if able.)\nGET BACK OUT THERE Whenever this character banishes another character in a challenge, an Illumineer may pay 1 lore to ready him.",
+    "keywords": [
+      "Reckless"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 0,
+    "rarity": "Promo",
+    "illustrators": [
+      "Chemène de Heus / Denny Minonne"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_dc85ef2e77364381bd20a1c2f65eddf0",
+    "name": "Maleficent",
+    "version": "Rescued from the Staircase",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_dc85ef2e77364381bd20a1c2f65eddf0.avif?1790948106",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_dc85ef2e77364381bd20a1c2f65eddf0.avif?1790948106",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_dc85ef2e77364381bd20a1c2f65eddf0.avif?1790948106"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Villain",
+      "Sorcerer"
+    ],
+    "text": "Challenger +3 (While challenging, this character gets +3 {S}.) \nMYSTICAL VISION Once during the Illumineers' turn, an Illumineer may pay 2 lore. If they do, look at the top card of the Vine's deck and put it on either the top or the bottom of its deck.",
+    "keywords": [
+      "Challenger"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Luigi Aimè"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_8ad6ff466ac343e397f66a948d1a5906",
+    "name": "The Vine Maw",
+    "version": "Final Foe",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_8ad6ff466ac343e397f66a948d1a5906.avif?1790948110",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_8ad6ff466ac343e397f66a948d1a5906.avif?1790948110",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_8ad6ff466ac343e397f66a948d1a5906.avif?1790948110"
+      }
+    },
+    "cost": 5,
+    "inkwell": false,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Boss",
+      "Vineling"
+    ],
+    "text": "Ward\nMOMENT OF DREAD When the Vine plays this character, move its draw token up 1.\nWALL OF THORNS Characters named Vine Tendril gain Bodyguard.\nTRIUMPH When this character is banished, the Illumineers win the scenario and open The Heart of the Vine prize pack!",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 30,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Federico Maria Cugliari"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_323bfaf8178847d78ea4f1a457e1f8c3",
+    "name": "Yzma",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_323bfaf8178847d78ea4f1a457e1f8c3.avif?1790948115",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_323bfaf8178847d78ea4f1a457e1f8c3.avif?1790948115",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_323bfaf8178847d78ea4f1a457e1f8c3.avif?1790948115"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Sorcerer",
+      "Vineling"
+    ],
+    "text": "ACCELERATED GROWTH When the Vine plays this character, it makes a Vine Tendril for each Illumineer.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Alice Pisoni"
+    ],
+    "collector_number": "7",
+    "lang": "en",
+    "flavor_text": "Every bit as intimidating as the original.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_7c094f88041745dd8333c6a56e90ba50",
+    "name": "Kronk",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_7c094f88041745dd8333c6a56e90ba50.avif?1790948119",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_7c094f88041745dd8333c6a56e90ba50.avif?1790948119",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_7c094f88041745dd8333c6a56e90ba50.avif?1790948119"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Vineling"
+    ],
+    "text": "GIVE ME A SEC This character enters play exerted.\nTHAT'S GOTTA HURT When the Vine plays this character, it deals 1 damage to each opposing character.\nBodyguard (An opposing character who challenges one of the Vine's characters must choose one with Bodyguard if able.)",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 8,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Serena Wade"
+    ],
+    "collector_number": "8",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_01ff35680c55403d9d6730a2c0c2164a",
+    "name": "Flynn Rider",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_01ff35680c55403d9d6730a2c0c2164a.avif?1790948123",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_01ff35680c55403d9d6730a2c0c2164a.avif?1790948123",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_01ff35680c55403d9d6730a2c0c2164a.avif?1790948123"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Prince",
+      "Vineling"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)\nTOUGH LOSS When the Vine plays this character, each Illumineer loses 2 lore.",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Diogo Saito"
+    ],
+    "collector_number": "9",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_edde3129a66445daa488a36e67ed6f94",
+    "name": "Bramble Bully",
+    "version": "Protecting the Stalk",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_edde3129a66445daa488a36e67ed6f94.avif?1790948128",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_edde3129a66445daa488a36e67ed6f94.avif?1790948128",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_edde3129a66445daa488a36e67ed6f94.avif?1790948128"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": "TURN BACK When the Vine plays this character, banish all opposing characters with cost 3 or less.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 7,
+    "willpower": 8,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Max Grecke"
+    ],
+    "collector_number": "10",
+    "lang": "en",
+    "flavor_text": "A dry, whispering laugh fills the air. This is no mere vine sprout.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cebbb466866f4b5fa80eafe4ca738c21",
+    "name": "Vine Sprout",
+    "version": "Thrasher",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cebbb466866f4b5fa80eafe4ca738c21.avif?1790948132",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cebbb466866f4b5fa80eafe4ca738c21.avif?1790948132",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cebbb466866f4b5fa80eafe4ca738c21.avif?1790948132"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": null,
+    "keywords": null,
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Victor \"Yano\" Covarrubias / Leonardo Giammichele"
+    ],
+    "collector_number": "11",
+    "lang": "en",
+    "flavor_text": "\"I've never seen a plant do that before! Do you think it knows any other tricks?\"\n—Tigger, Hunny Barbarian",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f413c74c3a5b49cab71d220443648858",
+    "name": "Isabela Madrigal",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f413c74c3a5b49cab71d220443648858.avif?1790948136",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f413c74c3a5b49cab71d220443648858.avif?1790948136",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f413c74c3a5b49cab71d220443648858.avif?1790948136"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Madrigal",
+      "Vineling"
+    ],
+    "text": "PERFECTLY PROTECTED While the Vine has another exerted character in play, this character can't be challenged.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 1,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Rodrigo Camilo"
+    ],
+    "collector_number": "12",
+    "lang": "en",
+    "flavor_text": "A bloom as flawless as any other the vine has created.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d46c1b1aabce48daac5d30392c49f44f",
+    "name": "Sulley",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d46c1b1aabce48daac5d30392c49f44f.avif?1790948140",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d46c1b1aabce48daac5d30392c49f44f.avif?1790948140",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d46c1b1aabce48daac5d30392c49f44f.avif?1790948140"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Monster",
+      "Vineling"
+    ],
+    "text": "TERRIFYING SURPRISE When the Vine plays this character, each Illumineer chooses and banishes one of their characters.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 6,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Denny Minonne"
+    ],
+    "collector_number": "13",
+    "lang": "en",
+    "flavor_text": "\"Yikes! That vine-created copy could be Top Scarer!\" —Mike Wazowski",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_003bb6ce802342259aa29241c0a9a7c6",
+    "name": "Pete",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_003bb6ce802342259aa29241c0a9a7c6.avif?1790948144",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_003bb6ce802342259aa29241c0a9a7c6.avif?1790948144",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_003bb6ce802342259aa29241c0a9a7c6.avif?1790948144"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Vineling"
+    ],
+    "text": "Ward (Opponents can't choose this character except to challenge.) \nTIMEOUT When the Vine plays this character, each Illumineer chooses and returns one of their characters to their hand.",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Tom Bancroft / Melody Te"
+    ],
+    "collector_number": "14",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2f4ee5fc030a46ca9b399ee6c242a050",
+    "name": "Cruella De Vil",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2f4ee5fc030a46ca9b399ee6c242a050.avif?1790948148",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2f4ee5fc030a46ca9b399ee6c242a050.avif?1790948148",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2f4ee5fc030a46ca9b399ee6c242a050.avif?1790948148"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Vineling"
+    ],
+    "text": "SO LAST SEASON Whenever this character quests, each Illumineer chooses and discards a card.\nHIGH COST OF FASHION During the Illumineers' turn, they may together pay 6 {I} to banish this character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Eri Welli"
+    ],
+    "collector_number": "15",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d94d7cde21d344d5ba38df15d4ba267c",
+    "name": "Budding Stalk",
+    "version": "Mass of Tendrils",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d94d7cde21d344d5ba38df15d4ba267c.avif?1790948152",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d94d7cde21d344d5ba38df15d4ba267c.avif?1790948152",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d94d7cde21d344d5ba38df15d4ba267c.avif?1790948152"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": "ACCELERATED GROWTH When the Vine plays this character, it makes a Vine Tendril for each Illumineer.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 0,
+    "willpower": 13,
+    "lore": 3,
+    "rarity": "Promo",
+    "illustrators": [
+      "Roberto Gatto"
+    ],
+    "collector_number": "16",
+    "lang": "en",
+    "flavor_text": "\"It's going to take all of us working together to pull this weed!\"\n—Rabbit, Hunny Paladin",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_04ca713ea92c49648091f197b755f0fe",
+    "name": "Rapunzel",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_04ca713ea92c49648091f197b755f0fe.avif?1790948156",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_04ca713ea92c49648091f197b755f0fe.avif?1790948156",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_04ca713ea92c49648091f197b755f0fe.avif?1790948156"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Princess",
+      "Vineling"
+    ],
+    "text": "THORNY LOCKS When the Vine plays this character, it deals 1 damage to the lowest cost character each Illumineer has in play. (If there's a tie, the Illumineer chooses from their tied characters.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Maria Dresden"
+    ],
+    "collector_number": "17",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f83ff6d9c1ae4f9c81ca93acb6509a54",
+    "name": "Vine Sprout",
+    "version": "Buzzer",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f83ff6d9c1ae4f9c81ca93acb6509a54.avif?1790948161",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f83ff6d9c1ae4f9c81ca93acb6509a54.avif?1790948161",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f83ff6d9c1ae4f9c81ca93acb6509a54.avif?1790948161"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": "Evasive (Only characters with Evasive can challenge this character.)",
+    "keywords": [
+      "Evasive"
+    ],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 2,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Max Grecke"
+    ],
+    "collector_number": "18",
+    "lang": "en",
+    "flavor_text": "The high-pitched whine of their tiny wings buzzes in your ear.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_3d4470412fad49a09fa0e0adcb11337e",
+    "name": "Ming Lee",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3d4470412fad49a09fa0e0adcb11337e.avif?1790948165",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3d4470412fad49a09fa0e0adcb11337e.avif?1790948165",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3d4470412fad49a09fa0e0adcb11337e.avif?1790948165"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Red Panda",
+      "Vineling"
+    ],
+    "text": "BIG TARGET This character enters play exerted.\nRASH DECISION When the Vine plays this character, all opposing characters gain Reckless until the start of the Vine's next turn. (They can't quest and must challenge if able.)\nDIFFICULT CHOICE During the Illumineers' turn, they may choose and discard 2 cards total from their hands to ready this character.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 10,
+    "willpower": 10,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jin Yung Kim"
+    ],
+    "collector_number": "19",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_4c57e6c594114e4ea8da00defd4bc078",
+    "name": "Vine Cluster",
+    "version": "Aggressive Chomper",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_4c57e6c594114e4ea8da00defd4bc078.avif?1790948169",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_4c57e6c594114e4ea8da00defd4bc078.avif?1790948169",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_4c57e6c594114e4ea8da00defd4bc078.avif?1790948169"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": "BIG BITE When the Vine plays this character, it deals 3 damage to the highest cost character each Illumineer has in play. (If there's a tie, the Illumineer chooses from their tied characters.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 4,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Ricardo Caria"
+    ],
+    "collector_number": "20",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_90941f639bbc4a43a0d5817e3a8f6dda",
+    "name": "Vine Sprout",
+    "version": "Flicker",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_90941f639bbc4a43a0d5817e3a8f6dda.avif?1790948173",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_90941f639bbc4a43a0d5817e3a8f6dda.avif?1790948173",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_90941f639bbc4a43a0d5817e3a8f6dda.avif?1790948173"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": "NEW GROWTH When the Vine plays this character, it makes a Vine Tendril.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 3,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Julien Vandois / Leonardo Giammichele"
+    ],
+    "collector_number": "21",
+    "lang": "en",
+    "flavor_text": "\"What's that sparkly light, Mama? It's so pretty.\"\n—Roo, Hunny Rogue",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d719b646aacc4d379af27767f2f7a55f",
+    "name": "4*Town",
+    "version": "Made by the Vine",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d719b646aacc4d379af27767f2f7a55f.avif?1790948178",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d719b646aacc4d379af27767f2f7a55f.avif?1790948178",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d719b646aacc4d379af27767f2f7a55f.avif?1790948178"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Vineling"
+    ],
+    "text": "DISCORDANT NOISE The Illumineers can't play songs.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 5,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jin Yung Kim"
+    ],
+    "collector_number": "22",
+    "lang": "en",
+    "flavor_text": "When they open their mouths, a horrible sound fills the air, drowning out everything else.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_1876364435f648a983007fee69f248ba",
+    "name": "Vine Sprout",
+    "version": "Bruiser",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_1876364435f648a983007fee69f248ba.avif?1790948182",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_1876364435f648a983007fee69f248ba.avif?1790948182",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_1876364435f648a983007fee69f248ba.avif?1790948182"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Vineling"
+    ],
+    "text": "Bodyguard (An opposing character who challenges one of the Vine's characters must choose one with Bodyguard if able.) \nTAKING ROOT This character enters play exerted.",
+    "keywords": [
+      "Bodyguard"
+    ],
+    "move_cost": null,
+    "strength": 1,
+    "willpower": 4,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Max Grecke"
+    ],
+    "collector_number": "23",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d86f34aeede3486aa70e231af733df80",
+    "name": "Accelerated Growth",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d86f34aeede3486aa70e231af733df80.avif?1790948186",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d86f34aeede3486aa70e231af733df80.avif?1790948186",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d86f34aeede3486aa70e231af733df80.avif?1790948186"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine makes a Vine Tendril for each Illumineer.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Camila Luciarte"
+    ],
+    "collector_number": "24",
+    "lang": "en",
+    "flavor_text": "New tendrils make it even more difficult to find the way through the room. Perhaps a little magic will clear the path . . .",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_9febeafec10643448b803d65442fe1c8",
+    "name": "Overwhelm",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_9febeafec10643448b803d65442fe1c8.avif?1790948189",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_9febeafec10643448b803d65442fe1c8.avif?1790948189",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_9febeafec10643448b803d65442fe1c8.avif?1790948189"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine puts the top 2 cards of its deck into its inkwell facedown. Then, if the Vine has 7 or more cards in its inkwell, it makes a Vine Tendril for each Illumineer.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Mario Oscar Gabriele"
+    ],
+    "collector_number": "25",
+    "lang": "en",
+    "flavor_text": "\"I propose, my dear archmage, that we decamp post-haste.\"\n—Owl, Hunny Ranger",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_2687d0c03cdb47bcab169aad5e233e19",
+    "name": "Catastrophic Rupture",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_2687d0c03cdb47bcab169aad5e233e19.avif?1790948193",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_2687d0c03cdb47bcab169aad5e233e19.avif?1790948193",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_2687d0c03cdb47bcab169aad5e233e19.avif?1790948193"
+      }
+    },
+    "cost": 7,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Banish all opposing characters and locations.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Luigi Aimè"
+    ],
+    "collector_number": "26",
+    "lang": "en",
+    "flavor_text": "Colorful energy overwhelms you as mixed ink bursts from the vine.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_d59517f8a7ac47dd8ccc079b5cf55adf",
+    "name": "Wild Growth",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_d59517f8a7ac47dd8ccc079b5cf55adf.avif?1790948197",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_d59517f8a7ac47dd8ccc079b5cf55adf.avif?1790948197",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_d59517f8a7ac47dd8ccc079b5cf55adf.avif?1790948197"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine draws a card for each Illumineer.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Leonardo Giammichele"
+    ],
+    "collector_number": "27",
+    "lang": "en",
+    "flavor_text": "A skittering noise fills the air as vinelings and a thicket of thorns surround you.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_e500365448a14e2c90748fc963025f85",
+    "name": "Tightening Grip",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_e500365448a14e2c90748fc963025f85.avif?1790948201",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_e500365448a14e2c90748fc963025f85.avif?1790948201",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_e500365448a14e2c90748fc963025f85.avif?1790948201"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Illumineers together choose a character of theirs and banish them. The Vine draws a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Alex Accorsi / Leonardo Giammichele"
+    ],
+    "collector_number": "28",
+    "lang": "en",
+    "flavor_text": "\"What a sticky predicament.\"\n—Winnie the Pooh, Hunny Archmage",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_bdfb73844651458081a8fd9ecd3fa180",
+    "name": "Uproot",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_bdfb73844651458081a8fd9ecd3fa180.avif?1790948204",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_bdfb73844651458081a8fd9ecd3fa180.avif?1790948204",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_bdfb73844651458081a8fd9ecd3fa180.avif?1790948204"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine banishes all opposing items and locations. If no items or locations were banished this way, the Vine draws a card.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Valerio Buonfantino"
+    ],
+    "collector_number": "29",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_36909db345394a529a7e288241f55392",
+    "name": "Regenerate",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_36909db345394a529a7e288241f55392.avif?1790948208",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_36909db345394a529a7e288241f55392.avif?1790948208",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_36909db345394a529a7e288241f55392.avif?1790948208"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine plays the highest cost character from its discard for free. (If there's a tie, the Illumineers choose from the tied characters.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Julien Vandois"
+    ],
+    "collector_number": "30",
+    "lang": "en",
+    "flavor_text": "There's something very strange about the way they regenerate.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_0958e2fc55ce4b459ebc9de4893a12f4",
+    "name": "Ink Vortex",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_0958e2fc55ce4b459ebc9de4893a12f4.avif?1790948213",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_0958e2fc55ce4b459ebc9de4893a12f4.avif?1790948213",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_0958e2fc55ce4b459ebc9de4893a12f4.avif?1790948213"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine banishes all opposing damaged characters.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Ha Jung Song"
+    ],
+    "collector_number": "31",
+    "lang": "en",
+    "flavor_text": "\"I knew I should have learned how to swim. Probably wouldn't help, though.\"\n—Eeyore, Hunny Scholar",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a532e823535543cbbd4b3785b8a9902c",
+    "name": "Unseen Attack",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a532e823535543cbbd4b3785b8a9902c.avif?1790948217",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a532e823535543cbbd4b3785b8a9902c.avif?1790948217",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a532e823535543cbbd4b3785b8a9902c.avif?1790948217"
+      }
+    },
+    "cost": 4,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "The Vine deals 1 damage to each opposing character. If the Vine has a character named Vine Tendril in play, it gains 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Sam Burley"
+    ],
+    "collector_number": "32",
+    "lang": "en",
+    "flavor_text": "Before you know it, the vine lashes out in all directions with wicked thorns!",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_dbe08ef4fe714de7aa530fe5cd4c5f43",
+    "name": "Overprune",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_dbe08ef4fe714de7aa530fe5cd4c5f43.avif?1790948221",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_dbe08ef4fe714de7aa530fe5cd4c5f43.avif?1790948221",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_dbe08ef4fe714de7aa530fe5cd4c5f43.avif?1790948221"
+      }
+    },
+    "cost": 1,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Banish all characters named Vine Tendril.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Luigi Aimè"
+    ],
+    "collector_number": "33",
+    "lang": "en",
+    "flavor_text": "The vine pulls back its tendrils, and you breathe a sigh of relief. Then the true scale of the plant becomes clear . . .",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_8edf64aeb13f4490b3aefc26bc491876",
+    "name": "Cut Down",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_8edf64aeb13f4490b3aefc26bc491876.avif?1790948227",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_8edf64aeb13f4490b3aefc26bc491876.avif?1790948227",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_8edf64aeb13f4490b3aefc26bc491876.avif?1790948227"
+      }
+    },
+    "cost": 5,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Action"
+    ],
+    "classifications": null,
+    "text": "Each Illumineer chooses one of their characters and returns all their other characters to their hand. Each Illumineer loses 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Diogo Saito"
+    ],
+    "collector_number": "34",
+    "lang": "en",
+    "flavor_text": "\"What rotten luck!\"\n—Tigger, Hunny Barbarian",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_93768cbd124b4e41a565c1b3cd41991d",
+    "name": "Overgrown Defenses",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_93768cbd124b4e41a565c1b3cd41991d.avif?1790948231",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_93768cbd124b4e41a565c1b3cd41991d.avif?1790948231",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_93768cbd124b4e41a565c1b3cd41991d.avif?1790948231"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "INTERTWINING Characters named Vine Tendril get +1 {S} and +1 {W}.\r\nCUT BACK When the Illumineers complete an encounter, banish this item.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Mario Oscar Gabriele"
+    ],
+    "collector_number": "35",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_be397693978b40f79de80e88c4bf4f3d",
+    "name": "Sprouting Seed",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_be397693978b40f79de80e88c4bf4f3d.avif?1790948234",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_be397693978b40f79de80e88c4bf4f3d.avif?1790948234",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_be397693978b40f79de80e88c4bf4f3d.avif?1790948234"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "NEW GROWTH {E} — The Vine makes a Vine Tendril.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Douglas De La Hoz"
+    ],
+    "collector_number": "36",
+    "lang": "en",
+    "flavor_text": "Filled with an eerie light, the seed is already putting out roots, seeking more mixed ink.",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_a60b82f7028a43479eed43e070c3125e",
+    "name": "Story Star Cage",
+    "layout": "normal",
+    "released_at": "2026-10-02",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_a60b82f7028a43479eed43e070c3125e.avif?1790948238",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_a60b82f7028a43479eed43e070c3125e.avif?1790948238",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_a60b82f7028a43479eed43e070c3125e.avif?1790948238"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": null,
+    "inks": [],
+    "type": [
+      "Item"
+    ],
+    "classifications": null,
+    "text": "Ward (Opponents can't choose this item.)\nFLOURISH {E} — The Vine draws a card.\nBLIGHT During the Illumineers' turn, they may pay 3 lore each to banish this item.",
+    "keywords": [
+      "Ward"
+    ],
+    "move_cost": null,
+    "strength": null,
+    "willpower": null,
+    "lore": null,
+    "rarity": "Promo",
+    "illustrators": [
+      "Roberto Gatto"
+    ],
+    "collector_number": "37",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "not_legal"
+    },
+    "set": {
+      "id": "set_5a55ed51fe9144248bc9d1b5656bc6b4",
+      "code": "Q3",
+      "name": "Hunny Rescue – Illumineer's Quest"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]

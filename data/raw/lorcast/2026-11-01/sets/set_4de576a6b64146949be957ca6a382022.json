@@ -1,0 +1,333 @@
+[
+  {
+    "id": "crd_3515b2c02dd04daa83e5f77d46738b97",
+    "name": "Ariel",
+    "version": "Spectacular Singer",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_3515b2c02dd04daa83e5f77d46738b97.avif?1788886502",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_3515b2c02dd04daa83e5f77d46738b97.avif?1788886502",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_3515b2c02dd04daa83e5f77d46738b97.avif?1788886502"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Amber",
+    "inks": [
+      "Amber"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Singer 5 (This character counts as cost 5 to sing songs.)\nMUSICAL DEBUT When you play this character, look at the top 4 cards of your deck. You may reveal a song card and put it into your hand. Put the rest on the bottom of your deck in any order.",
+    "keywords": [
+      "Singer"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Jane Pica"
+    ],
+    "collector_number": "1",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_4de576a6b64146949be957ca6a382022",
+      "code": "CC1",
+      "name": "Curator's Collection: Heroines Edition"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_19f369d68227447d89e02d4f90af8219",
+    "name": "Elsa",
+    "version": "Trusted Sister",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_19f369d68227447d89e02d4f90af8219.avif?1788886505",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_19f369d68227447d89e02d4f90af8219.avif?1788886505",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_19f369d68227447d89e02d4f90af8219.avif?1788886505"
+      }
+    },
+    "cost": 2,
+    "inkwell": true,
+    "ink": "Amethyst",
+    "inks": [
+      "Amethyst"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Queen",
+      "Sorcerer"
+    ],
+    "text": "WHAT DO WE DO NOW? Whenever this character quests, if you have a character named Anna in play, gain 1 lore.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "John John Bajet"
+    ],
+    "collector_number": "2",
+    "lang": "en",
+    "flavor_text": "\"Fear is what can't be trusted.\"",
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_4de576a6b64146949be957ca6a382022",
+      "code": "CC1",
+      "name": "Curator's Collection: Heroines Edition"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_f03ca16e877d48388ae735b3a78798a1",
+    "name": "Jasmine",
+    "version": "Royal Seafarer",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_f03ca16e877d48388ae735b3a78798a1.avif?1788886509",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_f03ca16e877d48388ae735b3a78798a1.avif?1788886509",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_f03ca16e877d48388ae735b3a78798a1.avif?1788886509"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Emerald",
+    "inks": [
+      "Emerald"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "BY ORDER OF THE PRINCESS When you play this character, choose one:\n• Exert chosen damaged character.\n• Chosen opposing character gains Reckless during their next turn. (They can't quest and must challenge if able.)",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 3,
+    "lore": 1,
+    "rarity": "Promo",
+    "illustrators": [
+      "Aubrey Archer"
+    ],
+    "collector_number": "3",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_4de576a6b64146949be957ca6a382022",
+      "code": "CC1",
+      "name": "Curator's Collection: Heroines Edition"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cc7245fe6887454fb31fa94f4b346a5c",
+    "name": "Mulan",
+    "version": "Elite Archer",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cc7245fe6887454fb31fa94f4b346a5c.avif?1788886513",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cc7245fe6887454fb31fa94f4b346a5c.avif?1788886513",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cc7245fe6887454fb31fa94f4b346a5c.avif?1788886513"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Ruby",
+    "inks": [
+      "Ruby"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Hero",
+      "Princess"
+    ],
+    "text": "Shift 5 (You may pay 5 {I} to play this on top of one of your characters named Mulan.)\nSTRAIGHT SHOOTER When you play this character, if you used Shift to play her, she gets +3 {S} this turn.\nTRIPLE SHOT During your turn, whenever this character deals damage to another character in a challenge, deal the same amount of damage to up to 2 other chosen characters.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 6,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Bill Robinson"
+    ],
+    "collector_number": "4",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_4de576a6b64146949be957ca6a382022",
+      "code": "CC1",
+      "name": "Curator's Collection: Heroines Edition"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_cb9c6ff9f1cb4f7bbf88c20f3b6ed5b4",
+    "name": "Anna",
+    "version": "Trusting Sister",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_cb9c6ff9f1cb4f7bbf88c20f3b6ed5b4.avif?1788886517",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_cb9c6ff9f1cb4f7bbf88c20f3b6ed5b4.avif?1788886517",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_cb9c6ff9f1cb4f7bbf88c20f3b6ed5b4.avif?1788886517"
+      }
+    },
+    "cost": 3,
+    "inkwell": true,
+    "ink": "Sapphire",
+    "inks": [
+      "Sapphire"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Storyborn",
+      "Hero",
+      "Queen"
+    ],
+    "text": "WE CAN DO THIS TOGETHER When you play this character, if you have a character named Elsa in play, you may put the top card of your deck into your inkwell facedown and exerted.",
+    "keywords": [],
+    "move_cost": null,
+    "strength": 2,
+    "willpower": 2,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "John John Bajet"
+    ],
+    "collector_number": "5",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_4de576a6b64146949be957ca6a382022",
+      "code": "CC1",
+      "name": "Curator's Collection: Heroines Edition"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  },
+  {
+    "id": "crd_b379b6dbf8f14fa886a99b625e3c42a9",
+    "name": "Tinker Bell",
+    "version": "Giant Fairy",
+    "layout": "normal",
+    "released_at": "2026-07-17",
+    "image_uris": {
+      "digital": {
+        "small": "https://cards.lorcast.io/card/digital/small/crd_b379b6dbf8f14fa886a99b625e3c42a9.avif?1788886520",
+        "normal": "https://cards.lorcast.io/card/digital/normal/crd_b379b6dbf8f14fa886a99b625e3c42a9.avif?1788886520",
+        "large": "https://cards.lorcast.io/card/digital/large/crd_b379b6dbf8f14fa886a99b625e3c42a9.avif?1788886520"
+      }
+    },
+    "cost": 6,
+    "inkwell": true,
+    "ink": "Steel",
+    "inks": [
+      "Steel"
+    ],
+    "type": [
+      "Character"
+    ],
+    "classifications": [
+      "Floodborn",
+      "Ally",
+      "Fairy"
+    ],
+    "text": "Shift 4 {I} (You may pay 4 {I} to play this on top of one of your characters named Tinker Bell.) \nROCK THE BOAT When you play this character, deal 1 damage to each opposing character.\nPUNY PIRATE! During your turn, whenever this character banishes another character in a challenge, you may deal 2 damage to chosen opposing character.",
+    "keywords": [
+      "Shift"
+    ],
+    "move_cost": null,
+    "strength": 4,
+    "willpower": 5,
+    "lore": 2,
+    "rarity": "Promo",
+    "illustrators": [
+      "Kim Kha"
+    ],
+    "collector_number": "6",
+    "lang": "en",
+    "flavor_text": null,
+    "tcgplayer_id": null,
+    "legalities": {
+      "core": "legal"
+    },
+    "set": {
+      "id": "set_4de576a6b64146949be957ca6a382022",
+      "code": "CC1",
+      "name": "Curator's Collection: Heroines Edition"
+    },
+    "prices": {},
+    "purchase_uris": {
+      "tcgplayer": null
+    }
+  }
+]
